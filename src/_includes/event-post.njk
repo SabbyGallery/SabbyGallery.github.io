@@ -1,11 +1,16 @@
-{% extends "base.njk" %}
-
-{% block content %}
+---
+layout: base.njk
+---
 	
 <section id="event" class="flex-col" >	
 	<div class="title">
 		<h1>{{ title }}</h1>
-		{% if date %}<date>{{ date | readableDate }}</date>{% endif %}
+		{% if date -%}
+			<date>
+			{{ date | readableDate }}
+			{% if time %} <span class="divider">—</span> {{ time }} {%- endif -%}
+			</date>
+		{%- endif %}
 	</div>
 
 	<img class="poster flex-child" src="/img/posters/{{ poster }}"></img>
@@ -19,12 +24,5 @@
 <hr>
 {% include "partials/map.njk" %}
 <hr>
-
-
-<section class="frame" style="--frameBg: var(--grey)">
-	<h1>
-		<a href="/events/">See more events.</a>
-	</h1>
-</section>
-
-{% endblock %}
+<a class="button" href="/events/">See more events.</a>
+<hr>

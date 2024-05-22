@@ -20,7 +20,13 @@ eleventyImport:
 		<p><a href="{{event.url}}">{{ event.data.title }}</a>
 
 		<br>{{ event.data.blurb }}</p>
-		<i>{{ event.data.date | readableDate }} </i>
+		{# <i>{{ event.data.date | readableDate }} </i> #}
+		{% if event.data.date -%}
+			<i>
+			{{ event.data.date | shortDate }}
+			{% if event.data.time %} <span class="divider">—</span> {{ event.data.time }} {%- endif -%}
+			</i>
+		{%- endif %}
 		</li>
 	{% endfor %}
 	</ul>
@@ -48,3 +54,4 @@ eleventyImport:
 <section>
 	<a class="button" href="/past-events/">See past events</a>
 </section>
+<hr>

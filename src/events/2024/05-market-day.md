@@ -1,6 +1,7 @@
 ---
 title: Market Day
 date: 2024-05-25
+time: 10AM to 3PM
 tags: [market-day]
 poster: "MarketDay-May2024.jpg"
 blurb: "Market day at Sabby!"

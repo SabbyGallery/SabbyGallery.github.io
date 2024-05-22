@@ -117,6 +117,10 @@ module.exports = function(config) {
 		return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
 	});
 
+	config.addFilter('shortDate', (dateObj) => {
+		return DateTime.fromJSDate(dateObj).toFormat("dd LLL");
+	});
+
 	// Filter: Markdown
 	config.addFilter('md', (content) => md.render(content));
 
