@@ -422,27 +422,33 @@ p img.emoji, span img.emoji {
 }
 
 .button {
-	margin: 2em auto;
 	display: block;
 	text-align: center;
-	border: 4px solid var(--dark);
-	box-shadow: -8px 8px var(--dark);
-	background-color: var(--pink);
+	border: 4px solid var(--pink);
+	box-shadow: -8px 8px var(--pink);
+	background-color: var(--yellow);
 
 	border-radius: 1em;
 	padding: 0.5em;
-	margin-inline: 1em;
+	margin-block: 2em;
+	margin-inline: auto;
 
 	max-width: 40ch;
 	width: auto;
 
 	font-family: "Speeches And Cream", sans-serif;
-	color: white;
+	color: var(--dark);
 	text-decoration: none;
 	font-size: 1.2em;
 	font-style: italic;
 	text-transform: uppercase;
 }
+.button:hover {
+	background-color: var(--light);
+	transition: background-color 0.5s ease;
+}
+
+.button:active { box-shadow: none; transform: translate(-8px,8px); }
 
 .divider {
 	color: var(--pink);
