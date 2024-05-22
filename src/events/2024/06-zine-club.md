@@ -1,10 +1,10 @@
 ---
 title: Zine Club
-date: 2024-05-18
+date: 2024-06-18
 time: 2PM to 6PM
 tags: [zine-club]
-poster: "ZineClub-May2024.jpg"
-blurb: "Zine Club is back in May!"
+poster: "2024-06-ZineClub.jpg"
+blurb: "June's edition of Zine Club is here!"
 ---
 
 Come hang out, make a zine or two.

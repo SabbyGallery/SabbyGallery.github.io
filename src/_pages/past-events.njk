@@ -4,9 +4,17 @@ layout: base.njk
 permalink: /past-events/
 ---
 
-<style>.frame {--frameBg: var(--yellow);</style>
+<style>
+	.frame {--frameBg: var(--yellow); }
 
-<section>
+	#past-events .event-list li {
+		margin-block: 4px !important;
+		padding-block: 0;
+	}
+
+</style>
+
+<section id="past-events">
 	<h1>Past Events</h1>
 
 	<p>These are all the events that ran at Sabby... so far!</p>

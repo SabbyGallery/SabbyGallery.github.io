@@ -1,8 +1,9 @@
 ---
 title: PS2 Book Club
-date: 2024-05-14
+date: 2024-06-11
+time: 7PM to 10PM
 tags: [ps2-book-club]
-poster: "PS2BookClub-May2024.jpg"
+poster: "2024-06-PS2BookClub.jpg"
 blurb: "A book club for retro games !?"
 ---
 

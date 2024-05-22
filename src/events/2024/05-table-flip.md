@@ -1,12 +1,12 @@
 ---
 title: Table Flip
 date: 2024-05-21
-time: 7PM to 9PM
+time: 6PM to 9PM
 tags: [table-flip]
 poster: "TableFlip-May2024.jpg"
 blurb: "Board Game Night!"
 ---
 
-Maybe even some card games as a treat… 
+Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!
 
-Event starts at 7 p.m., after Co-working.
+Now that the weather is cooling down, come along and warm yourself up at Sabby by playing some nice IRL games with an IRL crowd.

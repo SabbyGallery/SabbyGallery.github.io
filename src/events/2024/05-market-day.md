@@ -7,13 +7,13 @@ poster: "MarketDay-May2024.jpg"
 blurb: "Market day at Sabby!"
 ---
 
-A local market for cool local art, crafts, and zines!
-
-Saturday May 25th, from 10 a.m. to 3 p.m.
+Featuring cool local art, crafts and zines, Sabby's Market Day is a cozy little fair. Come along and support local artists!
 
 <hr>
 
 *Expression of Interest*
+
+EDIT: Submissions are now closed!
 
 If you're interested in holding a stall free of charge, just fill in the form:
 
