@@ -95,7 +95,7 @@
 }
 
 .day-current, .day-current a {
-	background: var(--pink);
+	background: var(--pink) !important;
 	color: var(--light);
 }
 

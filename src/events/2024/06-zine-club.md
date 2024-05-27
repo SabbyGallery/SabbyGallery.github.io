@@ -1,7 +1,7 @@
 ---
 title: Zine Club
-date: 2024-06-18
-time: 2PM to 6PM
+date: 2024-06-15
+time: 2PM to 5PM
 tags: [zine-club]
 poster: "2024-06-ZineClub.jpg"
 blurb: "June's edition of Zine Club is here!"
