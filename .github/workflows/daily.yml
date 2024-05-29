@@ -1,0 +1,22 @@
+name: Daily Build
+on:
+  schedule:
+  - cron "0 0 * * *"
+permissions:
+  contents: write
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Build website (using Eleventy)
+        uses: TartanLlama/actions-eleventy@v1.3
+        with:
+          install_dependencies: true
+      - name: Deploy to live branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_dir: build
+          publish_branch: live
+          github_token: ${{ secrets.GITHUB_TOKEN }}
