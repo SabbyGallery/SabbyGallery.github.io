@@ -18,14 +18,14 @@ module.exports = function(config) {
 	// Customised markdown library
 
 	var md = markdownIt({html: true, breaks: true, linkify: true});
-	md.use(markdownItAnchor, {
-		permalink: markdownItAnchor.permalink.ariaHidden({
-			placement: 'after',
-			class: 'direct-link',
-			symbol: '#',
-			level: [1,2,3,4],
-		}),
-	});
+	// md.use(markdownItAnchor, {
+	// 	permalink: markdownItAnchor.permalink.ariaHidden({
+	// 		placement: 'after',
+	// 		class: 'direct-link',
+	// 		symbol: '#',
+	// 		level: [1,2,3,4],
+	// 	}),
+	// });
 	md.use(markdownItAttrs, {});
 	md.use(markdownItFigures, {
 		// lazy: true,

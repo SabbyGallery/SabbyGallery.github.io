@@ -25,5 +25,5 @@ Don't miss that double-header, and don't miss *TANGENTS*!
 - [Fuzzy Ghost](https://fuzzyg.host/) - [Pebble Witch](https://store.steampowered.com/app/1501150/Pebble_Witch/)
 - [Your Holy and Virtuous Heretic](https://store.steampowered.com/app/2621030/Your_Holy__Virtuous_Heretic/)
 - [Pixel Pasture](https://pixelpasture.studio/) - TBA
-- [Reece Williams] - TBA
+- [Reece Williams](https://reecewilliams.itch.io/) - TBA
 
