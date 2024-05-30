@@ -21,9 +21,9 @@ Don't miss that double-header, and don't miss *TANGENTS*!
 - [Wayne Petzler](https://x.com/WaynePetzler) & [Andrew Capela](https://x.com/Liminalzero) - [Cow Chess](https://www.waynetron.com/)
 - [Laundry Games](https://x.com/LAUNDRY_GAMES) - [Buzz](https://store.steampowered.com/app/2278480/BUZZ/)
 - [Edwin Montgomery](https://x.com/edwinmyshkin) - [Isolationist Nightclub Simulator](https://www.edwinmontgomeryaudio.com/)
-- Rohan Nowell - [Doggy Don't Care](https://store.steampowered.com/app/2438180/Doggy_Dont_Care/)
+- [Rohan Nowell](https://x.com/rotub) - [Doggy Don't Care](https://store.steampowered.com/app/2438180/Doggy_Dont_Care/)
 - [Fuzzy Ghost](https://fuzzyg.host/) - [Pebble Witch](https://store.steampowered.com/app/1501150/Pebble_Witch/)
-- [Your Holy and Virtuous Heretic](https://store.steampowered.com/app/2621030/Your_Holy__Virtuous_Heretic/)
+- [Kurt Tikoft](https://x.com/iwbrcb) - [Your Holy and Virtuous Heretic](https://store.steampowered.com/app/2621030/Your_Holy__Virtuous_Heretic/)
 - [Pixel Pasture](https://pixelpasture.studio/) - TBA
-- [Reece Williams](https://reecewilliams.itch.io/) - TBA
+- [Reece Williams](https://reecewilliams.itch.io/) - Car of Theseus
 
