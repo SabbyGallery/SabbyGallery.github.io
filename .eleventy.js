@@ -148,8 +148,8 @@ module.exports = function(config) {
 	const currMonthDays = [...Array(currMonthLastDate)].map((_, i) => i + 1);
 	const nextMonthDays = [...Array(nextMonthLastDate)].map((_, i) => i + 1);
 
-	const prevMonthPeek = [...Array(currFirstWeekday - 1)].map((_, i) => prevMonthLastDate - i).reverse();
-	const currMonthPeek = [...Array(nextFirstWeekday - 1)].map((_, i) => currMonthLastDate - i).reverse();
+	const prevMonthPeek = [...Array(currFirstWeekday)].map((_, i) => prevMonthLastDate - i).reverse();
+	const currMonthPeek = [...Array(nextFirstWeekday)].map((_, i) => currMonthLastDate - i).reverse();
 	const nextMonthPeek = (currLastWeekday > 0) ? [...Array(7 - currLastWeekday)].map((_, i) => i + 1) : [];
 	const afterMonthPeek = (nextLastWeekday > 0) ? [...Array(7 - nextLastWeekday)].map((_, i) => i + 1) : [];
 
