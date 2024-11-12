@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Build website (using Eleventy)
-        uses: TartanLlama/actions-eleventy@v1.3
+        uses: cjerrington/actions-eleventy@master
         with:
           install_dependencies: true
       - name: Deploy to live branch
