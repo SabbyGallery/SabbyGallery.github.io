@@ -1,7 +1,7 @@
 ---
 title: Co-Working
 poster: "Cowork-Callout.jpg"
-blurb: "Mondays and Tuesdays from 11 a.m. to 6 p.m."
+blurb: "Tuesdays and Wednesdays from 11 a.m. to 6 p.m."
 ---
 
 Join fellow game makers and artists at our co-working space!
