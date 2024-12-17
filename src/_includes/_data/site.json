@@ -12,11 +12,6 @@
 			"role": "Mayor of Upkeep"
 		},
 		{
-			"name": "Siobhan Dent",
-			"link": "https://x.com/famousGastropod",
-			"role": "Maid of Lore"
-		},
-		{
 			"name": "Lem",
 			"link": "https://sabbatical.gallery",
 			"role": "Minister for Plants and Smol Beings"
@@ -30,6 +25,11 @@
 			"name": "Tegan Webb",
 			"link": "https://teganewebb.neocities.org/",
 			"role": "Mailer of Zines"
+		},
+		{
+			"name": "Stella",
+			"link": "https://caterwauling.itch.io/",
+			"role": "Game Club Host"
 		}
 		
 	],
