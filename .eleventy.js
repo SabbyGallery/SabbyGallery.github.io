@@ -47,7 +47,7 @@ module.exports = function(config) {
 	});
 
 	var dateThisMonth = new Date();
-	dateThisMonth.setDate(0);
+	dateThisMonth.setDate(1);// TODO check if a Date of 1 instead of 0 (last day of prev month) doesn't break calendar display of events on the first of the month
 
 	var dateNextMonth = new Date();
 	dateNextMonth.setMonth(dateNextMonth.getMonth() + 1);
@@ -148,7 +148,7 @@ module.exports = function(config) {
 	const currMonthDays = [...Array(currMonthLastDate)].map((_, i) => i + 1);
 	const nextMonthDays = [...Array(nextMonthLastDate)].map((_, i) => i + 1);
 
-	const prevMonthPeek = [...Array(6 - currFirstWeekday)].map((_, i) => prevMonthLastDate - i).reverse();
+	const prevMonthPeek = [...Array(currFirstWeekday - 1)].map((_, i) => prevMonthLastDate - i).reverse();
 	const currMonthPeek = [...Array(nextFirstWeekday - 1)].map((_, i) => currMonthLastDate - i).reverse();
 	const nextMonthPeek = (currLastWeekday > 0) ? [...Array(7 - currLastWeekday)].map((_, i) => i + 1) : [];
 	const afterMonthPeek = (nextLastWeekday > 0) ? [...Array(7 - nextLastWeekday)].map((_, i) => i + 1) : [];
