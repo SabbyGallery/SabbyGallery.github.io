@@ -81,8 +81,8 @@
 .day-active {
 }
 
-.day-active:nth-child(1), 
-.day-active:nth-child(2) {
+.day-active:nth-child(2), 
+.day-active:nth-child(3) {
 	background-color: #dedeb9;
 	border-bottom: 1px dotted #bdcb99;
 	border-right: 1px dotted #bdcb99;
