@@ -11,7 +11,7 @@ Our good friends from Sydney's [Serenade](https://serenade.games/) are collabora
 
 *TANGENTS* is an exhibit of weird and wonderful games from NSW, fostering connections on the fringes during [Freeplay](https://www.freeplay.net.au/) week in Melbourne.
 
-Jae from Serenade will be talking at Freeplay on Day One. That's Thursday 6th June at 1.30PM. Their talk will be followed by our very own Null and Siobhan who will be delivering a talk about Sabby.
+The Serenade team will be talking at Freeplay on Day One. That's Thursday 6th June at 1.30PM. Their talk will be followed by our very own Null and Siobhan who will be delivering a talk about Sabby.
 
 Don't miss that double-header, and don't miss *TANGENTS*!
 
@@ -24,6 +24,5 @@ Don't miss that double-header, and don't miss *TANGENTS*!
 - [Rohan Nowell](https://x.com/rotub) - [Doggy Don't Care](https://store.steampowered.com/app/2438180/Doggy_Dont_Care/)
 - [Fuzzy Ghost](https://fuzzyg.host/) - [Pebble Witch](https://store.steampowered.com/app/1501150/Pebble_Witch/)
 - [Kurt Tikoft](https://x.com/iwbrcb) - [Your Holy and Virtuous Heretic](https://store.steampowered.com/app/2621030/Your_Holy__Virtuous_Heretic/)
-- [Pixel Pasture](https://pixelpasture.studio/) - TBA
-- [Reece Williams](https://reecewilliams.itch.io/) - Car of Theseus
+- [Reece Williams](https://reecewilliams.itch.io/) - [Car of Theseus](https://reecewilliams.itch.io/car-of-theseus)
 
