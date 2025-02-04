@@ -92,13 +92,15 @@ module.exports = function(config) {
 		})
 	});
 
-	config.addCollection("byYear", (collection) => {
-		const posts = collection.getFilteredByTag('events').reverse();
-		const years = posts.map(post => post.date.getFullYear());
+	config.addCollection("pastByYear", (collection) => {
+		const pastPosts = collection.getFilteredByTag('events').reverse().filter((item) => {
+			return item.data.date < current;
+		});
+		const years = pastPosts.map(post => post.date.getFullYear());
 		const uniqueYears = [...new Set(years)];
 
 		const postsByYear = uniqueYears.reduce((prev, year) => {
-			const filteredPosts = posts.filter(post => post.date.getFullYear() === year);
+			const filteredPosts = pastPosts.filter(post => post.date.getFullYear() === year);
 
 			return [
 				...prev,

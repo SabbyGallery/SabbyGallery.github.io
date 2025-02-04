@@ -19,13 +19,16 @@ permalink: /past-events/
 
 	<p>These are all the events that ran at Sabby... so far!</p>
 
+	{% for year in collections.pastByYear %}
+	<h2>{{year[0]}}</h2>
 	<ul class="event-list">
-	{% for event in collections.past | reverse %}
+	{%- for event in year[1] -%}
 		<li> <a href="{{event.url}}">
 		<img class="poster-thumb" src="/img/posters/{{ event.data.poster }}"></img></a>
 		</li>
-	{% endfor %}
+	{%- endfor -%}
 	</ul>
+	{% endfor %}
 </section>
 <hr>
 <section>
