@@ -8,6 +8,7 @@ layout: base.njk
 		{% if date -%}
 			<date>
 			{{ date | readableDate }}
+			{% if endDate %} — {{ endDate | readableDate}} {%- endif -%}
 			{% if time %} <span class="divider">—</span> {{ time }} {%- endif -%}
 			</date>
 		{%- endif %}

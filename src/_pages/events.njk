@@ -23,7 +23,7 @@ eleventyImport:
 		{# <i>{{ event.data.date | readableDate }} </i> #}
 		{% if event.data.date -%}
 			<i>
-			{{ event.data.date | shortDate }}
+			{{ event.data.date | shortDate }} {% if event.data.endDate %} — {{ event.data.endDate | shortDate }} {%- endif -%}
 			{% if event.data.time %} <span class="divider">—</span> {{ event.data.time }} {%- endif -%}
 			</i>
 		{%- endif %}

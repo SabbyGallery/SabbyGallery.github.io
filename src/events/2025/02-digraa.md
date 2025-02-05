@@ -1,6 +1,7 @@
 ---
 title: DIGRAA 2025 Watch Party
 date: 2025-02-05
+endDate: 2025-02-07
 time: 9AM - 6PM
 tags: [talks]
 poster: "DiGRAA-Feb2025.jpg"

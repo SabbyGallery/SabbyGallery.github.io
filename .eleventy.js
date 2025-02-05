@@ -42,7 +42,7 @@ module.exports = function(config) {
 
 	config.addCollection("upcoming", (collection) => {
 		return collection.getFilteredByTag('events').filter((item) => {
-			return item.data.date > current;
+			return (item.data.date > current || item.data.endDate > current);
 		});
 	});
 
