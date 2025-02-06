@@ -29,7 +29,11 @@
 							{%- for event in collections.thisMonth -%}
 								{%- if getMonth(event.data.date) == currMonth -%}
 									{%- if getDate(event.data.date) == day -%}
-										<a class="calendar-link" href="{{ event.url }}">{{event.data.title}}</a>
+										{%- if event.data.link == null -%}
+											<a class="calendar-link" href="{{ event.url }}">{{event.data.title}}</a>
+										{%- else  -%}
+											<a class="calendar-link" href="{{ event.data.link }}">{{event.data.title}}</a>
+										{%- endif -%}
 									{%- endif -%}
 								{%- endif -%}
 							{%- endfor -%}

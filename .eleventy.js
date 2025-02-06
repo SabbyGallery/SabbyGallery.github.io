@@ -42,7 +42,7 @@ module.exports = function(config) {
 
 	config.addCollection("upcoming", (collection) => {
 		return collection.getFilteredByTag('events').filter((item) => {
-			return (item.data.date > current || item.data.endDate > current);
+			return (item.data.date > current || item.data.endDate > current) && item.data.calendarOnly != true;
 		});
 	});
 
@@ -94,7 +94,7 @@ module.exports = function(config) {
 
 	config.addCollection("pastByYear", (collection) => {
 		const pastPosts = collection.getFilteredByTag('events').reverse().filter((item) => {
-			return item.data.date < current;
+			return item.data.date < current && item.data.calendarOnly != true;
 		});
 		const years = pastPosts.map(post => post.date.getFullYear());
 		const uniqueYears = [...new Set(years)];
