@@ -52,6 +52,7 @@ module.exports = function(config) {
 	var dateNextMonth = new Date();
 	dateNextMonth.setMonth(dateNextMonth.getMonth() + 1);
 	dateNextMonth.setDate(1);
+	dateNextMonth.setHours(0);// if we don't compare dates from the start of the day when the site is rebuilt later in the day events on the first day may not appear
 
 	config.addCollection('thisMonth', (collection) => {
 		const currentMonth = current.getMonth();
