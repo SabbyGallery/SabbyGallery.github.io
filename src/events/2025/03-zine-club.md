@@ -3,8 +3,7 @@ title: Zine Club
 date: 2025-03-22
 time: 2PM to 6PM
 tags: [zine-club]
-calendarOnly: true
-poster: "ZineClub-March2024.jpg"
+poster: "ZineClub-March2025.jpg"
 blurb: "Zine Club is back for 2025!"
 ---
 The next zine club will be Saturday March 22nd! 🎉 
