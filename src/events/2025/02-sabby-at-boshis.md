@@ -24,3 +24,13 @@ From 7pm US Eastern Standard Time
 
 ## Address
 1002 Metropolitan Avenue Brooklyn, New York 11211
+
+## Devs & Games
+- WHISKEY.ST2007S (Bora Erdogan)
+- Brandon Teaches Typing (Brandonhare)
+- SUDDEN DEATH (Cecile Richard & Nat_Pussy)
+- Gabe's Secret Game (Gabriel Wake)
+- Threshold (Jade Britzman)
+- FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
+- City of Piss (Siobhan Dent & Maxwell Kearney)
+- Nobody Nose (Zac Lucarelli)
