@@ -28,3 +28,7 @@ Autograv by A.C. Gaudette
 <hr>
 
 To read about the games we're sending to New York please see the page for [Sabby At Boshi's Place](../02-sabby-at-boshis).
+
+<hr>
+
+This is an official [Max International Games Weekend (MIGW)](../02-max-international-games-weekend) event.
