@@ -1,6 +1,6 @@
 ---
 title: WIP Night Feedback Forum
-date: 2025-03-01
+date: 2025-03-04
 time: 7PM to 10PM
 tags: [wip-night]
 poster: "WIPNight-Mar2025.jpg"
