@@ -1,6 +1,6 @@
 ---
 title: Caretaker Sundays
-poster: "Caretaker-Callout.jpg"
+poster: "Caretaker-Callout-Sunday.jpg"
 blurb: "Help make this space stay amazing."
 ---
 
