@@ -145,12 +145,13 @@ module.exports = function(config) {
 
 	const currFirstWeekday = new Date(currentYear, currentMonth, 1).getDay();
 	const currLastWeekday  = new Date(currentYear, currentMonth + 1, 0).getDay();
-	const nextFirstWeekday = new Date(currentYear, currentMonth + 1, 1).getDay();
+	let nextFirstWeekday = new Date(currentYear, currentMonth + 1, 1).getDay();
 	const nextLastWeekday  = new Date(currentYear, currentMonth + 2, 0).getDay();
 
 	const currMonthDays = [...Array(currMonthLastDate)].map((_, i) => i + 1);
 	const nextMonthDays = [...Array(nextMonthLastDate)].map((_, i) => i + 1);
 
+	nextFirstWeekday = (nextFirstWeekday != 0) ? nextFirstWeekday : 7;// Handle months starting on a Sunday
 	const prevMonthPeek = [...Array(currFirstWeekday - 1)].map((_, i) => prevMonthLastDate - i).reverse();
 	const currMonthPeek = [...Array(nextFirstWeekday - 1)].map((_, i) => currMonthLastDate - i).reverse();
 	const nextMonthPeek = (currLastWeekday > 0) ? [...Array(7 - currLastWeekday)].map((_, i) => i + 1) : [];
