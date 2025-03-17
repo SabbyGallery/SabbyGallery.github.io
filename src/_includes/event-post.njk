@@ -14,7 +14,9 @@ layout: base.njk
 		{%- endif %}
 	</div>
 
-	<img class="poster flex-child" src="/img/posters/{{ poster }}"></img>
+	{% if poster -%}
+		<img class="poster flex-child" src="/img/posters/{{ poster }}"></img>
+	{%- endif %}
 
 	<article id="description" class="flex-child">
 	<h2>{{ blurb }}</h2>
