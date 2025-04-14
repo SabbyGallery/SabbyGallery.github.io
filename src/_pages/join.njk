@@ -4,9 +4,76 @@ layout: base.njk
 permalink: /join/
 blurb: Become A Member of Sabby
 ---
+<style>
+	nav[aria-labelledby="plans"] {
+		display: block;
+	}
+
+	nav[aria-labelledby="plans"] ul {
+		display: block;
+		list-style-type: "— ";
+		padding-left: revert;
+	}
+
+	#links ul {
+		margin: 0;
+		display: block;
+	}
+
+	#links li {
+		aspect-ratio: revert;
+		width: revert;
+		height: revert;
+		padding: 0;
+	}
+
+	#links a {
+		display: block;
+		width: revert;
+		height: revert;
+		justify-content: revert;
+		align-items: revert;
+		text-align: revert;
+		inline-size: fit-content;
+		transition: background-color 0.5s ease, color 0.5s ease;
+	}
+
+	#links a:hover {
+		color: var(--frameText);
+		transition: background-color 0.25s ease, color 0.25s ease;
+	}
+	
+	.frame> :first-child {
+		margin-block-start: 0;
+		margin-block-end: 12px;
+	}
+
+	.frame h2 small {
+		text-transform: none;
+	}
+
+	.frame ul {}
+
+	.frame li:not(:last-child) {
+		margin-block-end: 16px;
+	}
+
+	.frame a {
+		padding-block: 8px;
+		padding-inline: 16px;
+	}
+</style>
 
 <section>
 <h1>Join Sabby Co-op</h1>
+<nav aria-labelledby="plans">
+	<h3 id="plans">Membership Plans</h3>
+	<ul>
+		<li><a href="#concession">Concession</a></li>
+		<li><a href="#standard">Standard</a></li>
+		<li><a href="#guardian">Guardian</a></li>
+	</ul>
+</nav>
 <p>
 After the 2022 opening of Sabby in Collingwood as a coworking, gallery and event space, Sabby has been a hub of game making activity, launching careers and supporting the growth of studios with real community impact. Sabby is now opening its doors the widest they’ve ever been, to transform into a member owned co-op.
 </p>
@@ -28,9 +95,42 @@ Sabby has:
 
 <p><b>Sabby is looking forward to your support!</b></p>
 
-<p>General membership is $486 for yearly or $256.50 for  6 monthly renewal. Additionally, there will be opportunities for a lower “no questions asked concession” rate for those suffering financial hardship, and a “guardian membership” rate for those with a little extra cash to spare.</p>
+<p>Standard membership is $540 for yearly or $270 for 6 monthly renewal. Additionally, there will be opportunities for a lower “no questions asked concession” rate for those experiencing financial hardship, and a “guardian membership” rate for those with a little extra cash to spare. We recommend 6 month or more membership as that helps with Sabby's financial stability.</p>
 
 <p><b>If our goal of 100 members is met, payments will be processed in September, when Sabby is looking to move to a new bigger venue!</b></p>
+
+<br/>
+
+<section>
+	<h2>Sign Up</h2>
+	<section class="frame" id="links">
+		<h2 id="concession" tabindex="-1">Concession<small> -- $5/week</small></h2>
+		<p>No questions asked concession rate for those experiencing financial hardship.</p>
+		<ul>
+			<li><a href="https://square.link/u/ExSex0FF">$22.50 Monthly</a></li>
+		</ul>
+	</section>
+
+	<section class="frame" id="links">
+		<h2 id="standard" tabindex="-1">Standard<small> -- $10/week</small></h2>
+		<p>Standard membership of Sabby Co-operative.</p>
+		<ul>
+			<li><a href="https://square.link/u/feCeHPN5">$45 Monthly</a></li>
+			<li><a href="https://square.link/u/MMc927yg">$270 6-Monthly</a></li>
+			<li><a href="https://square.link/u/8rkApzba">$540 12-Monthly</a></li>
+		</ul>
+	</section>
+
+	<section class="frame" id="links">
+		<h2 id="guardian" tabindex="-1">Guardian<small> -- $20/week</small></h2>
+		<p>Membership for yourself and an additional contribution to support Sabby in offering Concession memberships for community members experiencing financial hardship.</p>
+		<ul>
+			<li><a href="https://square.link/u/DET7rPGG">$90 Monthly</a></li>
+			<li><a href="https://square.link/u/0H796WWM">$540 6-Monthly</a></li>
+			<li><a href="https://square.link/u/M3bxM5su">$1,080 12-Monthly</a></li>
+		</ul>
+	</section>
+</section>
 
 <p>Below is some of the impact Sabby has had on the local industry, and why Sabby deserves support:</p>
 
@@ -70,4 +170,6 @@ Testimonial from Venusia:
 <blockquote>
 I love spending time at Sabby, from just chatting to people while idly making a zine to getting feedback for my projects at their WIP nights. It's a great place to connect with other creatives who are passionate about their craft and helping others. Sabby is a very welcoming space that fosters community and creativity.
 </blockquote>
+<br/>
+<p>Read more <a href="/testimonials/">Testimonials</a> on the impact Sabby has had on the local industry.</p>
 </section>
