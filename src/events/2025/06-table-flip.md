@@ -12,3 +12,5 @@ Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!
 Hang out after co-working ends and play some board games or Magic: The Gathering Commander. Games and cards provided but feel free to BYO.
 
 Hosted by Magic: The Gathering enthusiast Ellie!
+
+[Reservations](https://events.humanitix.com/table-flip){.button}

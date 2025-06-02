@@ -13,4 +13,6 @@ You’ll be given a theme and have 3 days to hangout and make whatever silly pro
 
 This will be our last jam at 141 Victoria Parade, so don’t miss out!
 
+[Reservations](https://events.humanitix.com/sabby-jam-25){.button}
+
 Hosted by the gregarious Kira and [Nique](https://tritake.com/)!
