@@ -143,7 +143,7 @@ module.exports = function(config) {
 	const currMonthLastDate = new Date(currentYear, currentMonth + 1, 0).getDate();
 	const nextMonthLastDate = new Date(currentYear, currentMonth + 2, 0).getDate();
 
-	const currFirstWeekday = new Date(currentYear, currentMonth, 1).getDay();
+	let currFirstWeekday = new Date(currentYear, currentMonth, 1).getDay();
 	const currLastWeekday  = new Date(currentYear, currentMonth + 1, 0).getDay();
 	let nextFirstWeekday = new Date(currentYear, currentMonth + 1, 1).getDay();
 	const nextLastWeekday  = new Date(currentYear, currentMonth + 2, 0).getDay();
