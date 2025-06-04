@@ -1,10 +1,10 @@
 ---
-title: Caretaker Sundays
-poster: "Caretaker-Callout-Sunday.jpg"
+title: Caretaker Fridays
+poster: "Caretaker-Callout.jpg"
 blurb: "Help make this space stay amazing."
 ---
 
-Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Sundays.
+Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Fridays.
 
 Come by and help out if you want to!
 
