@@ -13,4 +13,4 @@ Hang out after co-working ends and play some board games or Magic: The Gathering
 
 Hosted by Magic: The Gathering enthusiast Ellie!
 
-[Reservations](https://events.humanitix.com/table-flip){.button}
+[Reserve A Spot!](https://events.humanitix.com/table-flip){.button}
