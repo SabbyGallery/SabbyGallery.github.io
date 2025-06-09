@@ -1,6 +1,6 @@
 ---
 title: Retro Games Club
-date: 2025-07-12
+date: 2025-07-05
 time: From 7PM
 tags: [retro-game-club]
 poster: "RetroGamesClub-Jul2025.jpg"
@@ -12,4 +12,6 @@ PS2 Book Club is gone, long live Retro Games Club! Come present games from from 
 There's no console theme for July so feel free to present whatever weird or interesting stuff that you wanna show off, or just come along and listen to passionate folks talk about older games!
 
 Hosted by the gregarious Stella and Zach.
+[Reserve A Spot!](https://events.humanitix.com/retro-games-club){.button}
+
 [Signup to talk!](https://forms.gle/TaNh2JhfwrDKvScw6){.button}
