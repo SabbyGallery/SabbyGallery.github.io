@@ -88,7 +88,7 @@
 	border-right: 1px dotted #bdcb99;
 }
 
-.day-active:nth-child(7) {
+.day-active:nth-child(5) {
 	background-color: #ffc7b3;
 	border-bottom: 1px dotted #ff8d7d;
 	border-right: 1px dotted #ff8d7d;
