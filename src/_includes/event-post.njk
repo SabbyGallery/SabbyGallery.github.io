@@ -21,6 +21,9 @@ layout: base.njk
 	<article id="description" class="flex-child">
 	<h2>{{ blurb }}</h2>
 	{{ content | safe }}
+	{% if tickets -%}
+		<a href="{{tickets}}" class="button">Reserve A Spot!</a>
+	{%- endif %}
 	</article>
 </section>
 
