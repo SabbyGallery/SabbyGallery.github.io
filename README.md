@@ -84,4 +84,4 @@ This repo is currently set up with `Github Actions` so that commits pushed to `o
 
 ## Questions
 
-If you are stuck or need help, please ask @heygleeson!
+If you are stuck or need help, please ask @heygleeson or @jemztones!
