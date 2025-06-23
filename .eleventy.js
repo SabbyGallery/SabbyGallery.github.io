@@ -137,6 +137,7 @@ module.exports = function(config) {
 	let now = new Date();
 	const currentYear = now.getFullYear();
 	const currentMonth = now.getMonth();
+	const nextMonth = new Date(currentYear, currentMonth + 1, 1).getMonth();
 
 	// Collect data for *this month* and *next month*
 	const prevMonthLastDate = new Date(currentYear, currentMonth, 0).getDate();
@@ -157,8 +158,6 @@ module.exports = function(config) {
 	const currMonthPeek = [...Array(nextFirstWeekday - 1)].map((_, i) => currMonthLastDate - i).reverse();
 	const nextMonthPeek = (currLastWeekday > 0) ? [...Array(7 - currLastWeekday)].map((_, i) => i + 1) : [];
 	const afterMonthPeek = (nextLastWeekday > 0) ? [...Array(7 - nextLastWeekday)].map((_, i) => i + 1) : [];
-
-	const nextMonth = new Date(currentYear, currentMonth + 1, 1).getMonth();
 
 	const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
