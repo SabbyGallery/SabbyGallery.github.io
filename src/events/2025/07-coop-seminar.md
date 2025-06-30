@@ -5,6 +5,7 @@ time: from 7PM
 tags: [meeting]
 poster: "Coop-Jul2025.jpg"
 blurb: "Learn what Sabby becoming a co-op means & how to get involved!"
+tickets: https://events.humanitix.com/co-op-sign-up-seminar
 ---
 
 We’ll explain what a co-op is, how Sabby’s structure would change and how you can contribute! 
