@@ -11,6 +11,8 @@ Lal and Mads' Hallowbound: Halloween Trivia II, a twisted journey into the darke
 
 Prepare for fair questions and unfair challenges with the hosts you love to hate. Let's play a game.
 
+The sequel to [Hallowbound Halloween Trivia I](../../2023/10-halloween-trivia).
+
 <hr>
 
 *Register Now*
