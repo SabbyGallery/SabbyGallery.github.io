@@ -5,6 +5,7 @@ time: from 7PM
 tags: [meeting]
 poster: "CoopOnline-Jul2025.jpg"
 blurb: "Learn what Sabby becoming a co-op means & how to get involved!"
+calendarOnly: true
 ---
 
 We're doing a livestream Co-op Seminar for anyone unable to make it to our in-person seminars.
