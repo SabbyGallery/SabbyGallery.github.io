@@ -60,18 +60,17 @@
 	</script>
 
 	<header>
-		<a href="/" title="Home" id="masthead">
-			<img id="logo" src="/img/logo.png" alt="Sabby's logo">
+		<a href="/" id="masthead">
+			<img id="logo" src="/img/logo.png" alt="Sabby">
 			<!--<div id="subtitle">Gallery ✧ Events ✧ Coworking ✧ Rentals</div>-->
 		</a>
 		<nav>
 			<ul>
-				<li><button onclick="document.location='/join/'">Join The Co-Op</button></li>
-				<li><button onclick="document.location='/events/'">What's On</button></li>
-				
-				<li><button onclick="document.location='/about/'">About</button></li>
-				<li><button onclick="document.location='/contact/'">Contact</button></li>
-				<li><button id="lightToggle" title="Toggle Light/Dark Mode"><i id="lighticon" class="fa-solid fa-sun"></i></button></li>
+				<li><a href="/join/">Join The Co-Op</a></li>
+				<li><a href="/events/">What's On</a></li>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><button id="lightToggle"><i id="lighticon" class="fa-solid fa-sun"></i><span role="status" class="visually-hidden">Light mode</span></button></li>
 			</ul>
 		</nav>
 	</header>
@@ -138,7 +137,7 @@
 			<script>
 				document.getElementById("currentYear").innerText = new Date().getFullYear();
 			</script> / website by <a href="https://cecilerichard.design/">cecile</a> and <a href="https://gleeson.dev/">andy</a></p>
-			<a href="#"><p id="toTop">Back to Top ↑</p></a>
+			<a href="#masthead"><p id="toTop">Back to Top ↑</p></a>
 		</section>
 	</footer>
 </body>

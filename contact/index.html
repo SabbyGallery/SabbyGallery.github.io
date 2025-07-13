@@ -60,18 +60,17 @@
 	</script>
 
 	<header>
-		<a href="/" title="Home" id="masthead">
-			<img id="logo" src="/img/logo.png" alt="Sabby's logo">
+		<a href="/" id="masthead">
+			<img id="logo" src="/img/logo.png" alt="Sabby">
 			<!--<div id="subtitle">Gallery ✧ Events ✧ Coworking ✧ Rentals</div>-->
 		</a>
 		<nav>
 			<ul>
-				<li><button onclick="document.location='/join/'">Join The Co-Op</button></li>
-				<li><button onclick="document.location='/events/'">What's On</button></li>
-				
-				<li><button onclick="document.location='/about/'">About</button></li>
-				<li><button onclick="document.location='/contact/'">Contact</button></li>
-				<li><button id="lightToggle" title="Toggle Light/Dark Mode"><i id="lighticon" class="fa-solid fa-sun"></i></button></li>
+				<li><a href="/join/">Join The Co-Op</a></li>
+				<li><a href="/events/">What's On</a></li>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><button id="lightToggle"><i id="lighticon" class="fa-solid fa-sun"></i><span role="status" class="visually-hidden">Light mode</span></button></li>
 			</ul>
 		</nav>
 	</header>
@@ -101,17 +100,18 @@
 <hr>
 <section id="links" class="frame flex-col">
 	<h3 style="margin: 4px;">Socials</h3>
-	<ul class="flex-child">
-		<li><a href="https://bsky.app/profile/sabbygallery.bsky.social" target="_blank" aria-label="Link to our Bluesky"><i class="fa-brands fa-bluesky"></i></a></li>
-		<li><a href="https://www.instagram.com/sabby_gally/" target="_blank" aria-label="Link to our Instagram"><i class="fa-brands fa-instagram"></i></a></li>
-		<li><a href="https://twitter.com/sabby_gally/" target="_blank" aria-label="Link to our Twitter"><i class="fa-brands fa-twitter"></i></a></li>
-		<li><a href="https://www.twitch.tv/sabbygallery" target="_blank" aria-label="Link to our Twitch"><i class="fa-brands fa-twitch"></i></a></li>
-		<li><a href="https://discord.com/invite/5uRbFg2QXa" target="_blank" aria-label="Link/Invite to our Discord server"><i class="fa-brands fa-discord"></i></a></li>
+	<ul class="flex-child socials">
+		<li><a href="https://bsky.app/profile/sabbygallery.bsky.social"><i class="fa-brands fa-bluesky"></i><span class="visually-hidden">Bluesky</span></a></li>
+		<li><a href="https://www.instagram.com/sabby_gally/"><i class="fa-brands fa-instagram"></i><span class="visually-hidden">Instagram</span></a></li>
+		<li><a href="https://twitter.com/sabby_gally/"><i class="fa-brands fa-twitter"></i><span class="visually-hidden">Twitter</span></a></li>
+		<li><a href="https://www.twitch.tv/sabbygallery"><i class="fa-brands fa-twitch"></i><span class="visually-hidden">Twitch</span></a></li>
+		<li><a href="https://discord.com/invite/5uRbFg2QXa"><i class="fa-brands fa-discord"></i><span class="visually-hidden">Discord server</span></a></li>
 	</ul>
 	<div class="flex-child">
 		<p>Follow us on social media and join our Discord!</p>
 	</div>
 </section>
+
 <hr>
 	</main>
 
@@ -126,7 +126,7 @@
 			<script>
 				document.getElementById("currentYear").innerText = new Date().getFullYear();
 			</script> / website by <a href="https://cecilerichard.design/">cecile</a> and <a href="https://gleeson.dev/">andy</a></p>
-			<a href="#"><p id="toTop">Back to Top ↑</p></a>
+			<a href="#masthead"><p id="toTop">Back to Top ↑</p></a>
 		</section>
 	</footer>
 </body>
