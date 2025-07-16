@@ -3,7 +3,7 @@ const buttonLight = document.getElementById('lightToggle');
 const lightIcon = document.getElementById('lighticon');
 const emblem = document.getElementById('emblem');
 
-if (theme == 'system') {
+if (theme === 'system') {
 	theme = (window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
 }
 
@@ -13,7 +13,7 @@ setTheme(theme);
 function setTheme(theme) {
 	document.documentElement.dataset.theme = theme;
 	// Update Icons/Emblems
-	if (theme == 'light') {
+	if (theme === 'light') {
 		lightIcon.classList.remove("fa-sun");
 		lightIcon.classList.add("fa-moon");
 	} else {
@@ -23,7 +23,8 @@ function setTheme(theme) {
 }
 
 buttonLight.addEventListener('click', () => {
-	theme = (theme == 'light') ? 'dark' : 'light';
+	buttonLight.querySelector('.visually-hidden').textContent = `${theme} mode`;
+	theme = (theme === 'light') ? 'dark' : 'light';
 	localStorage.setItem('theme', theme);
 	setTheme(theme);
 });
