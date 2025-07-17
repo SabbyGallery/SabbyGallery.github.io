@@ -1,0 +1,320 @@
+---
+title: Thermometer
+permalink: /thermometer/
+---
+
+<!DOCTYPE html>
+<html lang=en>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/css/fonts.css">
+</head>
+<body>
+	<main>
+		<h1><label for=subProgress>Members</label></h1>
+		<div class=ticks>
+			<progress id=subProgress max=100 step=0.5></progress>
+		</div>
+		<section>
+			<img src=/img/teledog.webp alt class=teledog>
+			<div id=waves>
+				<div class=background></div>
+				<div class=foreground></div>
+			</div>
+		</section>
+
+		<style>
+			* {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+			}
+
+			main {
+				max-block-size: 100dvb;
+				display: grid;
+				grid-template-areas:
+					"progress title"
+					"progress .";
+				grid-template-columns: auto minmax(0, 1fr);
+				grid-template-rows: auto minmax(0, 1fr);
+				font-family: "Argent Pixel CF", serif;
+			}
+
+			h1 {
+				grid-area: title;
+				-webkit-text-stroke: 2px white;
+				paint-order: stroke fill;
+				z-index: 1;
+				margin-inline-start: 16px;
+			}
+
+			.ticks {
+				grid-area: progress;
+				margin: 8px;
+
+				&::after {
+					margin: 8px;
+					margin-inline-start: -8px;
+					content: "";
+					position: absolute;
+					block-size: calc(100% - 8px * 4);
+					inline-size: 5%;
+					background: linear-gradient(black 5%, transparent 5%);
+					background-size: auto 9.95%;
+					background-repeat: repeat-y;
+					z-index: -1;
+				}
+			}
+
+			progress {
+				appearance: none;
+				writing-mode: sideways-lr;
+				block-size: 50px;
+				inline-size: 100%;
+				border: 8px solid #596be1;
+				background: #181369;
+				border-radius: calc(1px * infinity);
+
+				&::-webkit-progress-bar {
+					background: none;
+					border-radius: calc(1px * infinity);
+				}
+
+				&::-webkit-progress-value {
+					background: #f9c836;
+					border-start-start-radius: calc(1px * infinity);
+					border-end-start-radius: calc(1px * infinity);
+				}
+
+				&::-moz-progress-bar {
+					background: #f9c836;
+					border-start-start-radius: calc(1px * infinity);
+					border-end-start-radius: calc(1px * infinity);
+				}
+			}
+
+			section {
+				grid-area: 1 / 1 / -1 / -1;
+				display: grid;
+				grid-template-rows: minmax(0, 9fr) minmax(0, 1fr);
+				overflow: clip;
+			}
+
+			.teledog {
+				animation: dangle 5s infinite alternate cubic-bezier(0.5, 0, 0.5, 1);
+				transform-origin: 42% 0%;
+				translate: 0 min(0%, calc(-1 * var(--members) + 25%));
+				block-size: 100%;
+				inline-size: auto;
+				margin-inline: auto;
+				display: block;
+			}
+
+			#waves {
+				display: grid;
+
+				> * {
+					grid-area: 1 / -1;
+					background: url(/img/waves.webp);
+					animation: waves 10s linear infinite;
+				}
+
+				.foreground {
+					block-size: 10dvb;
+					background-size: auto 10dvb;
+				}
+
+				.background {
+					block-size: 5dvb;
+					background-size: auto 5vb;
+					rotate: y 0.5turn;
+					animation-duration: 20s;
+					z-index: -2;
+					position: relative;
+
+					&::after {
+						content: "";
+						position: absolute;
+						inset: 0;
+						inset-block-start: 100%;
+						background: linear-gradient(#596be1, #181369);
+						block-size: 5dvb;
+					}
+				}
+			}
+
+			@keyframes waves {
+				from {
+					background-position-x: 0%;
+				}
+				to {
+					background-position-x: -300px;
+				}
+			}
+
+			@keyframes dangle {
+				from {
+					rotate: -5deg;
+				}
+				to {
+					rotate: 5deg;
+				}
+			}
+		</style>
+
+		<script>
+			// version 1.0.0
+
+			/**
+			* blah
+			* @typedef {Object} PlanInfo
+			* @property {string} planId - blah
+			* @property {string} planName - blah
+			* @property {number} monthlyPrice - blah
+			* @property {number} billFreq - blah
+			* @property {number} subCount - blah
+			*/
+
+			/**
+			* blah
+			* @typedef {Object} CustomerInfo
+			* @property {string} customerId - blah
+			* @property {string=} nickname - blah
+			* @property {string=} givenName - blah
+			* @property {string=} familyName - blah
+			*/
+
+			/**
+			* blah
+			* @typedef {Object} SubInfo
+			* @property {string} subId - blah
+			* @property {PlanInfo} plan - blah
+			* @property {CustomerInfo} customer - blah
+			*/
+
+			/**
+			* blah
+			* @callback OnSubscriptionCreatedCallback
+			* @param {SubInfo} event - blah
+			*/
+			/**
+			* blah
+			* @callback OnSubscriptionDeletedCallback
+			* @param {SubInfo} event - blah
+			*/
+			/**
+			* blah
+			* @callback OnSubscriptionsChangedCallback
+			*/
+
+			/**
+			* blah
+			* @type {PlanInfo[]}
+			*/
+			const subscriptionPlans = [];
+
+			let onSubscriptionCreatedCallback = () => {};
+			let onSubscriptionDeletedCallback = () => {};
+			let onSubscriptionsUpdatedCallback = () => {};
+
+			/**
+			* blah
+			* @param {OnSubscriptionCreatedCallback} callback 
+			*/
+			function onSubscriptionCreated(callback) {
+				onSubscriptionCreatedCallback = callback;
+			}
+			/**
+			* blah
+			* @param {OnSubscriptionDeletedCallback} callback 
+			*/
+			function onSubscriptionDeleted(callback) {
+				onSubscriptionDeletedCallback = callback;
+			}
+			/**
+			* blah
+			* @param {OnSubscriptionsUpdatedCallback} callback 
+			*/
+			function onSubscriptionsUpdated(callback) {
+				onSubscriptionsUpdatedCallback = callback;
+			}
+
+			/** @param {SubInfo} event */
+			function handleSubscriptionChanged(event) {
+				for (const plan of subscriptionPlans) {
+					if (plan.planId !== event.plan.planId)
+						continue;
+					plan.subCount = event.plan.subCount;
+					onSubscriptionsUpdatedCallback();
+					break;
+				}
+			}
+
+			function onWebsocketMessage({ data }) {
+				/** @type {SubInfo} */
+				const event = JSON.parse(data);
+				switch (event.event) {
+					case "subscriptionCreated": {
+						handleSubscriptionChanged(event);
+						onSubscriptionCreatedCallback(event);
+						break;
+					}
+					case "subscriptionDeleted": {
+						handleSubscriptionChanged(event);
+						onSubscriptionDeletedCallback(event);
+						break;
+					}
+				}
+			}
+
+			function onWebsocketClose() {
+				websocket = undefined;
+				setTimeout(openWebsocket, 1000);
+			}
+
+			let websocket = undefined;
+			function openWebsocket() {
+				if (websocket)
+					return;
+				websocket = new WebSocket("https://sabby.brandonhare.com/api/square/subscriptions.ws");
+				websocket.onmessage = onWebsocketMessage;
+				websocket.onclose = onWebsocketClose;
+			}
+
+			// download subs and start websocket automatically
+			(async function() {
+				/** @type {PlanInfo[]} */
+				const plans = await (await fetch("https://sabby.brandonhare.com/api/square/subscriptionCounts")).json();
+				for (const plan of plans) {
+					subscriptionPlans.push(plan);
+				}
+				onSubscriptionsUpdatedCallback();
+				openWebsocket();
+			})();
+
+			function updateSubscriptions() {
+				let totalCount = 0;
+				let totalPrice = 0;
+
+				for (const plan of subscriptionPlans) {
+					totalCount += plan.subCount;
+					totalPrice += plan.subCount * plan.monthlyPrice;
+				}
+
+				// update progress bar
+				const numSubscriptions = totalPrice / totalCount;
+				document.querySelector('label[for="subProgress"]').innerText = `Members: ${numSubscriptions}/100`;
+				document.getElementById("subProgress").value = numSubscriptions;
+				document.documentElement.style.setProperty("--members", `${numSubscriptions}%`);
+			}
+
+			onSubscriptionsUpdated(() => {
+				updateSubscriptions();
+			});
+		</script>
+	</main>
+</body>
+</html>
