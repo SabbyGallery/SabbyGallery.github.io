@@ -2,6 +2,7 @@
 title: Caretaker Fridays
 poster: "Caretaker-Callout.jpg"
 blurb: "Help make this space stay amazing."
+hidden: true
 ---
 
 Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Fridays.
