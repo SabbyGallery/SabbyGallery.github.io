@@ -1,6 +1,6 @@
 ---
 title: Caretaking
-date: 2025-08-01
+date: 2025-07-31
 time: 3PM
 link: "../events/caretaker"
 calendarOnly: true
