@@ -301,7 +301,7 @@
 				}
 
 				// update progress bar
-				const numSubscriptions = totalPrice / totalCount;
+				const numSubscriptions = totalPrice / 45; // $45 is the price of one standard membership
 				document.querySelector('label[for="subProgress"]').innerText = `Members: ${numSubscriptions}/100`;
 				document.getElementById("subProgress").value = numSubscriptions;
 				document.documentElement.style.setProperty("--members", `${numSubscriptions}%`);
