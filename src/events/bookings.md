@@ -2,6 +2,7 @@
 title: Book an Event
 poster: "Booking-Callout.jpg"
 blurb: "Sabby is open for event bookings!"
+hidden: true
 ---
 
 Game Jam? 
