@@ -8,7 +8,13 @@ blurb: "A games showcase before Freeplay!"
 tickets: https://events.humanitix.com/tangents25
 ---
 
-[Serenade](https://serenade.games/) is proud to present an exhibit of weird and wonderful games from across Australia, fostering connections on the fringes during [Freeplay](https://www.freeplay.net.au/) week in Melbourne.
+[Tangents](../../2024/06-serenade-tangents) returns for 2025!
+
+[Serenade](https://serenade.games/) is proud to present an exhibit of weird and wonderful games from Australia and beyond, fostering connections on the fringes during [Freeplay](https://www.freeplay.net.au/) week in Melbourne.
+
+# New Zealand
+
+Rainbows Are Carnivores by [Robert Yang](https://debacle.us/)
 
 # New South Wales
 
