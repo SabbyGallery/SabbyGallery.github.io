@@ -169,8 +169,8 @@
 			}
 
 			#waves {
-				--waves-width: 779;
-				--waves-height: 171;
+				--waves-width: 3508;
+				--waves-height: 780;
 
 				display: grid;
 				max-inline-size: 100vi;
@@ -186,6 +186,20 @@
 
 				.foreground {
 					--background-height: 10dvb;
+
+					position: relative;
+
+					&::after {
+						content: "";
+						background: inherit;
+						background-image: url(/img/shark.webp);
+						position: absolute;
+						inset: 0;
+						z-index: -1;
+						animation:
+							waves 7.5s linear infinite reverse,
+							shark 10s ease-in-out infinite alternate;
+					}
 				}
 
 				.background {
@@ -201,7 +215,7 @@
 						position: absolute;
 						inset: 0;
 						inset-block-start: 100%;
-						background: linear-gradient(#596be1, #181369);
+						background: linear-gradient(#181369, #000);
 						block-size: 5dvb;
 					}
 				}
@@ -212,7 +226,19 @@
 					background-position-x: 0;
 				}
 				to {
-					background-position-x: calc(var(--waves-width) / var(--waves-height) * -10dvb);
+					background-position-x: calc(var(--waves-width) / var(--waves-height) * 10dvb);
+				}
+			}
+
+			@keyframes shark {
+				0%, 20%, 40%, 60% {
+					background-position-y: 0;
+				}
+				10%, 30%, 50% {
+					background-position-y: 5px;
+				}
+				100% {
+					background-position-y: 50px;
 				}
 			}
 
