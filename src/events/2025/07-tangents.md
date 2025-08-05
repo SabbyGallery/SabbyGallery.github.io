@@ -12,7 +12,7 @@ tickets: https://events.humanitix.com/tangents25
 
 [Serenade](https://serenade.games/) is proud to present an exhibit of weird and wonderful games from Australia and beyond, fostering connections on the fringes during [Freeplay](https://www.freeplay.net.au/) week in Melbourne.
 
-# New Zealand
+# Aotearoa New Zealand
 
 Rainbows Are Carnivores by [Robert Yang](https://debacle.us/)
 
@@ -30,6 +30,6 @@ Rainbows Are Carnivores by [Robert Yang](https://debacle.us/)
 
 # South Australia
 
-Angelsphere Nightscape by [Angas Smith](https://bsky.app/profile/yikescg.bsky.social)
+Angelsphere Nightscape by [Angas Smith](https://bsky.app/profile/neurotikcg.bsky.social)
 
 [Beauty Within Its Flaws](https://rosden.itch.io/beauty-within-its-flaws) by [Rosden Shadow (Mark Signorelli)](https://x.com/Rosden_Shadow)
