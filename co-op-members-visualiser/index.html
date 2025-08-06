@@ -27,23 +27,25 @@
 			grid-template-areas:
 				"progress ticks title"
 				"progress ticks .";
-			grid-template-columns: auto auto minmax(0, 1fr);
+			grid-template-columns: auto 32px minmax(0, 1fr);
 			grid-template-rows: auto minmax(0, 1fr);
-			font-family: "Argent Pixel CF", serif;
+			font-family: "Speeches And Cream", serif;
+			font-weight: bold;
 		}
 
 		.title {
 			grid-area: title;
 			z-index: 1;
+			margin-block-start: 16px;
 
-			& p {
-				position: absolute;
-				inset-block-end: calc(var(--min-members) / var(--progress-max) * 100% - 8px);
+			& h1 {
+				font-size: 3rem;
 			}
 		}
 
 		h1, p {
-			-webkit-text-stroke: 2px white;
+			color: #f9c836;
+			-webkit-text-stroke: 0.4em #181369;
 			paint-order: stroke fill;
 		}
 
@@ -64,45 +66,39 @@
 				border-radius: calc(1px * infinity);
 			}
 
-			& .min {
+			& .min:not(#\#) {
 				position: relative;
+				inline-size: 84px;
+				block-size: 8px;
 
 				& p {
 					position: absolute;
-					inset-inline-start: calc(100% + 16px);
+					inset-inline-start: 14px;
 					inline-size: max-content;
-					translate: 0 -50%;
-					font-weight: 700;
+					translate: 0 -65%;
+					font-size: 1.5rem;
 				}
 			}
 		}
 
-		progress {
+		.progress {
 			grid-area: progress;
-			appearance: none;
-			writing-mode: sideways-lr;
-			block-size: var(--progress-width);
-			inline-size: calc(100% - 8px * 2);
-			border: var(--progress-border-width) solid #596be1;
-			background: #181369;
+			block-size: calc(100% - 8px * 2);
+			inline-size: var(--progress-width);
+			border: var(--progress-border-width) solid #181369;
+			background: #596be1;
 			border-radius: calc(1px * infinity);
 			margin: 8px;
+			overflow: clip;
+			position: relative;
 
-			&::-webkit-progress-bar {
-				background: none;
-				border-radius: calc(1px * infinity);
-			}
-
-			&::-webkit-progress-value {
+			&::after {
+				content: "";
+				position: absolute;
+				inset-block-end: 0;
+				block-size: calc(var(--min-members) / var(--progress-max) * var(--members));
+				inline-size: 100%;
 				background: #f9c836;
-				border-start-start-radius: calc(1px * infinity);
-				border-end-start-radius: calc(1px * infinity);
-			}
-
-			&::-moz-progress-bar {
-				background: #f9c836;
-				border-start-start-radius: calc(1px * infinity);
-				border-end-start-radius: calc(1px * infinity);
 			}
 		}
 
@@ -230,8 +226,7 @@
 
 			// update progress bar
 			const numSubscriptions = totalPrice / 45; // $45 is the price of one standard membership
-			document.querySelector("h1").innerText = `Members: ${numSubscriptions}/125`;
-			document.getElementById("subProgress").value = numSubscriptions;
+			document.querySelector("h1").innerText = `${numSubscriptions}%`;
 			document.documentElement.style.setProperty("--members", `${numSubscriptions}%`);
 		}
 
@@ -245,16 +240,18 @@
 <body>
 	<main>
 		<div class=title>
-			<h1>Members</h1>
+			<h1>0%</h1>
 		</div>
-		<progress id=subProgress max=125 step=0.5 aria-hidden=true></progress>
+		<div class=progress id=subProgress>
+			<div class=value></div>
+		</div>
 		<div class=ticks>
 			<div></div>
 			<div></div>
 			<div></div>
 			<div></div>
 			<div></div>
-			<div class=min><p>100 (min survival)</p></div>
+			<div class=min><p>100%</p></div>
 			<div></div>
 			<div></div>
 			<div></div>
