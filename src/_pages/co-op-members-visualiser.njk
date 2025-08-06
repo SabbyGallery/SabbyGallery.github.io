@@ -11,20 +11,251 @@ permalink: /co-op-members-visualiser/
 	<title>{{ title }}</title>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/css/fonts.css">
+	<style>
+		:root {
+			--min-members: 100;
+			--progress-max: 125;
+			--progress-width: clamp(16px, 7.5vmin, 64px);
+			--progress-border-width: clamp(4px, 1.75vmin, 8px);
+		}
+
+		* {
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+		}
+
+		main {
+			max-block-size: 100dvb;
+			display: grid;
+			grid-template-areas:
+				"progress ticks title"
+				"progress ticks .";
+			grid-template-columns: auto 32px minmax(0, 1fr);
+			grid-template-rows: auto minmax(0, 1fr);
+			font-family: "Speeches And Cream", serif;
+			font-weight: bold;
+		}
+
+		.title {
+			grid-area: title;
+			z-index: 1;
+			margin-block-start: 16px;
+
+			& h1 {
+				font-size: 3rem;
+			}
+		}
+
+		h1, p {
+			color: #f9c836;
+			-webkit-text-stroke: 0.4em #181369;
+			paint-order: stroke fill;
+		}
+
+		.ticks {
+			grid-area: ticks;
+			margin: 16px;
+			margin-inline-start: -16px;
+			display: grid;
+			align-content: space-between;
+			block-size: calc(100% - 16px * 2);
+			grid-template-rows: repeat(24, auto);
+			z-index: -1;
+
+			> div:nth-child(2n) {
+				background: #181369;
+				inline-size: 32px;
+				block-size: 4px;
+				border-radius: calc(1px * infinity);
+			}
+
+			& .min:not(#\#) {
+				position: relative;
+				inline-size: 84px;
+				block-size: 8px;
+
+				& p {
+					position: absolute;
+					inset-inline-start: 14px;
+					inline-size: max-content;
+					translate: 0 -65%;
+					font-size: 1.5rem;
+				}
+			}
+		}
+
+		.progress {
+			grid-area: progress;
+			block-size: calc(100% - 8px * 2);
+			inline-size: var(--progress-width);
+			border: var(--progress-border-width) solid #181369;
+			background: #596be1;
+			border-radius: calc(1px * infinity);
+			margin: 8px;
+			overflow: clip;
+			position: relative;
+
+			&::after {
+				content: "";
+				position: absolute;
+				inset-block-end: 0;
+				block-size: calc(var(--min-members) / var(--progress-max) * var(--members));
+				inline-size: 100%;
+				background: #f9c836;
+			}
+		}
+
+		section {
+			grid-area: 1 / 1 / -1 / -1;
+			display: grid;
+			grid-template-rows: minmax(0, 9fr) minmax(0, 1fr);
+			overflow: clip;
+		}
+
+		.teledog {
+			animation: dangle 5s infinite alternate cubic-bezier(0.5, 0, 0.5, 1);
+			transform-origin: 42% 0%;
+			translate: -25% calc(min(0%, -1 * var(--min-members) / var(--progress-max) * var(--members)) + 20%);
+			block-size: 100%;
+			inline-size: auto;
+			display: block;
+			z-index: -2;
+			position: relative;
+			inset-inline-start: 50vi;
+			transition: translate .5s cubic-bezier(.5, -2, .1, 3.5);
+			/* If the new linear() func is supported use that instead bc it's a much nicer easing than the bezier above */
+			transition-timing-function: linear(0, -0.001 0.8%, -0.004 1.7%, -0.016 3.4%, -0.036 5.2%, -0.065 7.1%, -0.134 10.8%, -0.284 17.6%, -0.338 20.2%, -0.385 22.9%, -0.417 25.3%, -0.43 26.7%, -0.438 28%, -0.441 29.3%, -0.439 30.6%, -0.433 31.8%, -0.421 33%, -0.404 34.2%, -0.383 35.3%, -0.354 36.5%, -0.322 37.6%, -0.241 39.8%, -0.134 42%, -0.007 44.1%, 0.116 45.8%, 0.257 47.5%, 0.651 51.5%, 0.82 53.4%, 0.98 55.5%, 1.117 57.7%, 1.236 60.1%, 1.325 62.5%, 1.359 63.7%, 1.389 65%, 1.412 66.3%, 1.427 67.6%, 1.435 68.5%, 1.44 69.5%, 1.441 70.5%, 1.44 71.5%, 1.436 72.5%, 1.428 73.6%, 1.404 75.8%, 1.372 77.9%, 1.328 80.3%, 1.137 89.1%, 1.068 92.7%, 1.038 94.7%, 1.017 96.5%, 1.004 98.3%, 1.001 99.2%, 1);
+		}
+
+		#waves {
+			--waves-width: 3508;
+			--waves-height: 780;
+
+			display: grid;
+			max-inline-size: 100vi;
+
+			> * {
+				grid-area: 1 / -1;
+				background: url(/img/waves.webp);
+				background-repeat: repeat-x;
+				animation: waves 10s linear infinite;
+				block-size: var(--background-height);
+				background-size: calc(var(--waves-width) / var(--waves-height) * var(--background-height)) var(--background-height);
+			}
+
+			.foreground {
+				--background-height: 10dvb;
+
+				position: relative;
+
+				&::after {
+					content: "";
+					background: inherit;
+					background-image: url(/img/shark.webp);
+					position: absolute;
+					inset: 0;
+					z-index: -1;
+					animation:
+						waves 7.5s linear infinite reverse,
+						shark 10s ease-in-out infinite alternate;
+				}
+			}
+
+			.background {
+				--background-height: 5dvb;
+
+				rotate: y 0.5turn;
+				animation-duration: 20s;
+				z-index: -2;
+				position: relative;
+
+				&::after {
+					content: "";
+					position: absolute;
+					inset: 0;
+					inset-block-start: 100%;
+					background: linear-gradient(#181369, #000);
+					block-size: 5dvb;
+				}
+			}
+		}
+
+		@keyframes waves {
+			from {
+				background-position-x: 0;
+			}
+			to {
+				background-position-x: calc(var(--waves-width) / var(--waves-height) * 10dvb);
+			}
+		}
+
+		@keyframes shark {
+			0%, 20%, 40%, 60% {
+				background-position-y: 0;
+			}
+			10%, 30%, 50% {
+				background-position-y: 5px;
+			}
+			100% {
+				background-position-y: 50px;
+			}
+		}
+
+		@keyframes dangle {
+			from {
+				rotate: -5deg;
+			}
+			to {
+				rotate: 5deg;
+			}
+		}
+	</style>
+	<script type="module">
+		import { onSubscriptionsUpdated, subscriptionPlans, start } from "https://sabby.brandonhare.com/square/square.js";
+
+		function updateSubscriptions() {
+			let totalCount = 0;
+			let totalPrice = 0;
+
+			for (const plan of subscriptionPlans) {
+				totalCount += plan.subCount;
+				if (plan.monthlyPrice === 90) {
+					// make guardian count for 1.5 instead of 2
+					totalPrice += plan.subCount * plan.monthlyPrice * 0.75;
+				} else {
+					totalPrice += plan.subCount * plan.monthlyPrice;
+				}
+			}
+
+			// update progress bar
+			const numSubscriptions = totalPrice / 45; // $45 is the price of one standard membership
+			document.querySelector("h1").innerText = `${numSubscriptions}%`;
+			document.documentElement.style.setProperty("--members", `${numSubscriptions}%`);
+		}
+
+		onSubscriptionsUpdated(() => {
+			updateSubscriptions();
+		});
+
+		start();
+	</script>
 </head>
 <body>
 	<main>
 		<div class=title>
-			<h1>Members</h1>
+			<h1>0%</h1>
 		</div>
-		<progress id=subProgress max=125 step=0.5 aria-hidden=true></progress>
+		<div class=progress id=subProgress>
+			<div class=value></div>
+		</div>
 		<div class=ticks>
 			<div></div>
 			<div></div>
 			<div></div>
 			<div></div>
 			<div></div>
-			<div class=min><p>100 (min survival)</p></div>
+			<div class=min><p>100%</p></div>
 			<div></div>
 			<div></div>
 			<div></div>
@@ -53,359 +284,6 @@ permalink: /co-op-members-visualiser/
 				<div class=foreground></div>
 			</div>
 		</section>
-
-		<style>
-			:root {
-				--min-members: 100;
-				--progress-max: 125;
-				--progress-width: clamp(16px, 7.5vmin, 64px);
-				--progress-border-width: clamp(4px, 1.75vmin, 8px);
-			}
-
-			* {
-				box-sizing: border-box;
-				margin: 0;
-				padding: 0;
-			}
-
-			main {
-				max-block-size: 100dvb;
-				display: grid;
-				grid-template-areas:
-					"progress ticks title"
-					"progress ticks .";
-				grid-template-columns: auto auto minmax(0, 1fr);
-				grid-template-rows: auto minmax(0, 1fr);
-				font-family: "Argent Pixel CF", serif;
-			}
-
-			.title {
-				grid-area: title;
-				z-index: 1;
-
-				& p {
-					position: absolute;
-					inset-block-end: calc(var(--min-members) / var(--progress-max) * 100% - 8px);
-				}
-			}
-
-			h1, p {
-				-webkit-text-stroke: 2px white;
-				paint-order: stroke fill;
-			}
-
-			.ticks {
-				grid-area: ticks;
-				margin: 16px;
-				margin-inline-start: -16px;
-				display: grid;
-				align-content: space-between;
-				block-size: calc(100% - 16px * 2);
-				grid-template-rows: repeat(24, auto);
-				z-index: -1;
-
-				> div:nth-child(2n) {
-					background: #181369;
-					inline-size: 32px;
-					block-size: 4px;
-					border-radius: calc(1px * infinity);
-				}
-
-				& .min {
-					position: relative;
-
-					& p {
-						position: absolute;
-						inset-inline-start: calc(100% + 16px);
-						inline-size: max-content;
-						translate: 0 -50%;
-						font-weight: 700;
-					}
-				}
-			}
-
-			progress {
-				grid-area: progress;
-				appearance: none;
-				writing-mode: sideways-lr;
-				block-size: var(--progress-width);
-				inline-size: calc(100% - 8px * 2);
-				border: var(--progress-border-width) solid #596be1;
-				background: #181369;
-				border-radius: calc(1px * infinity);
-				margin: 8px;
-
-				&::-webkit-progress-bar {
-					background: none;
-					border-radius: calc(1px * infinity);
-				}
-
-				&::-webkit-progress-value {
-					background: #f9c836;
-					border-start-start-radius: calc(1px * infinity);
-					border-end-start-radius: calc(1px * infinity);
-				}
-
-				&::-moz-progress-bar {
-					background: #f9c836;
-					border-start-start-radius: calc(1px * infinity);
-					border-end-start-radius: calc(1px * infinity);
-				}
-			}
-
-			section {
-				grid-area: 1 / 1 / -1 / -1;
-				display: grid;
-				grid-template-rows: minmax(0, 9fr) minmax(0, 1fr);
-				overflow: clip;
-			}
-
-			.teledog {
-				animation: dangle 5s infinite alternate cubic-bezier(0.5, 0, 0.5, 1);
-				transform-origin: 42% 0%;
-				translate: -25% calc(min(0%, -1 * var(--min-members) / var(--progress-max) * var(--members)) + 20%);
-				block-size: 100%;
-				inline-size: auto;
-				display: block;
-				z-index: -2;
-				position: relative;
-				inset-inline-start: 50vi;
-			}
-
-			#waves {
-				--waves-width: 3508;
-				--waves-height: 780;
-
-				display: grid;
-				max-inline-size: 100vi;
-
-				> * {
-					grid-area: 1 / -1;
-					background: url(/img/waves.webp);
-					background-repeat: repeat-x;
-					animation: waves 10s linear infinite;
-					block-size: var(--background-height);
-					background-size: calc(var(--waves-width) / var(--waves-height) * var(--background-height)) var(--background-height);
-				}
-
-				.foreground {
-					--background-height: 10dvb;
-
-					position: relative;
-
-					&::after {
-						content: "";
-						background: inherit;
-						background-image: url(/img/shark.webp);
-						position: absolute;
-						inset: 0;
-						z-index: -1;
-						animation:
-							waves 7.5s linear infinite reverse,
-							shark 10s ease-in-out infinite alternate;
-					}
-				}
-
-				.background {
-					--background-height: 5dvb;
-
-					rotate: y 0.5turn;
-					animation-duration: 20s;
-					z-index: -2;
-					position: relative;
-
-					&::after {
-						content: "";
-						position: absolute;
-						inset: 0;
-						inset-block-start: 100%;
-						background: linear-gradient(#181369, #000);
-						block-size: 5dvb;
-					}
-				}
-			}
-
-			@keyframes waves {
-				from {
-					background-position-x: 0;
-				}
-				to {
-					background-position-x: calc(var(--waves-width) / var(--waves-height) * 10dvb);
-				}
-			}
-
-			@keyframes shark {
-				0%, 20%, 40%, 60% {
-					background-position-y: 0;
-				}
-				10%, 30%, 50% {
-					background-position-y: 5px;
-				}
-				100% {
-					background-position-y: 50px;
-				}
-			}
-
-			@keyframes dangle {
-				from {
-					rotate: -5deg;
-				}
-				to {
-					rotate: 5deg;
-				}
-			}
-		</style>
-
-		<script>
-			// version 1.0.0
-
-			/**
-			* blah
-			* @typedef {Object} PlanInfo
-			* @property {string} planId - blah
-			* @property {string} planName - blah
-			* @property {number} monthlyPrice - blah
-			* @property {number} billFreq - blah
-			* @property {number} subCount - blah
-			*/
-
-			/**
-			* blah
-			* @typedef {Object} CustomerInfo
-			* @property {string} customerId - blah
-			* @property {string=} nickname - blah
-			* @property {string=} givenName - blah
-			* @property {string=} familyName - blah
-			*/
-
-			/**
-			* blah
-			* @typedef {Object} SubInfo
-			* @property {string} subId - blah
-			* @property {PlanInfo} plan - blah
-			* @property {CustomerInfo} customer - blah
-			*/
-
-			/**
-			* blah
-			* @callback OnSubscriptionCreatedCallback
-			* @param {SubInfo} event - blah
-			*/
-			/**
-			* blah
-			* @callback OnSubscriptionDeletedCallback
-			* @param {SubInfo} event - blah
-			*/
-			/**
-			* blah
-			* @callback OnSubscriptionsChangedCallback
-			*/
-
-			/**
-			* blah
-			* @type {PlanInfo[]}
-			*/
-			const subscriptionPlans = [];
-
-			let onSubscriptionCreatedCallback = () => {};
-			let onSubscriptionDeletedCallback = () => {};
-			let onSubscriptionsUpdatedCallback = () => {};
-
-			/**
-			* blah
-			* @param {OnSubscriptionCreatedCallback} callback 
-			*/
-			function onSubscriptionCreated(callback) {
-				onSubscriptionCreatedCallback = callback;
-			}
-			/**
-			* blah
-			* @param {OnSubscriptionDeletedCallback} callback 
-			*/
-			function onSubscriptionDeleted(callback) {
-				onSubscriptionDeletedCallback = callback;
-			}
-			/**
-			* blah
-			* @param {OnSubscriptionsUpdatedCallback} callback 
-			*/
-			function onSubscriptionsUpdated(callback) {
-				onSubscriptionsUpdatedCallback = callback;
-			}
-
-			/** @param {SubInfo} event */
-			function handleSubscriptionChanged(event) {
-				for (const plan of subscriptionPlans) {
-					if (plan.planId !== event.plan.planId)
-						continue;
-					plan.subCount = event.plan.subCount;
-					onSubscriptionsUpdatedCallback();
-					break;
-				}
-			}
-
-			function onWebsocketMessage({ data }) {
-				/** @type {SubInfo} */
-				const event = JSON.parse(data);
-				switch (event.event) {
-					case "subscriptionCreated": {
-						handleSubscriptionChanged(event);
-						onSubscriptionCreatedCallback(event);
-						break;
-					}
-					case "subscriptionDeleted": {
-						handleSubscriptionChanged(event);
-						onSubscriptionDeletedCallback(event);
-						break;
-					}
-				}
-			}
-
-			function onWebsocketClose() {
-				websocket = undefined;
-				setTimeout(openWebsocket, 1000);
-			}
-
-			let websocket = undefined;
-			function openWebsocket() {
-				if (websocket)
-					return;
-				websocket = new WebSocket("https://sabby.brandonhare.com/api/square/subscriptions.ws");
-				websocket.onmessage = onWebsocketMessage;
-				websocket.onclose = onWebsocketClose;
-			}
-
-			// download subs and start websocket automatically
-			(async function() {
-				/** @type {PlanInfo[]} */
-				const plans = await (await fetch("https://sabby.brandonhare.com/api/square/subscriptionCounts")).json();
-				for (const plan of plans) {
-					subscriptionPlans.push(plan);
-				}
-				onSubscriptionsUpdatedCallback();
-				openWebsocket();
-			})();
-
-			function updateSubscriptions() {
-				let totalCount = 0;
-				let totalPrice = 0;
-
-				for (const plan of subscriptionPlans) {
-					totalCount += plan.subCount;
-					totalPrice += plan.subCount * plan.monthlyPrice;
-				}
-
-				// update progress bar
-				const numSubscriptions = totalPrice / 45; // $45 is the price of one standard membership
-				document.querySelector("h1").innerText = `Members: ${numSubscriptions}/125`;
-				document.getElementById("subProgress").value = numSubscriptions;
-				document.documentElement.style.setProperty("--members", `${numSubscriptions}%`);
-			}
-
-			onSubscriptionsUpdated(() => {
-				updateSubscriptions();
-			});
-		</script>
 	</main>
 </body>
 </html>
