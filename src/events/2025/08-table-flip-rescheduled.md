@@ -1,14 +1,12 @@
 ---
-title: "Table Flip: Board Game Night"
-date: 2025-08-20
+title: "Table Flip Rescheduled Edition"
+date: 2025-08-27
 time: 6PM to 11PM
 tags: [table-flip]
-poster: "TableFlip-Aug2025.jpg"
-blurb: "Hang Out And Play Some Board Games"
+poster: "TableFlip-Aug2025_27.jpg"
+blurb: "Board Game Hangs Rescheduled!"
 tickets: https://events.humanitix.com/table-flip
 ---
-
-*Postponed to [August 27](../08-table-flip-rescheduled/)!*
 
 Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!
 
