@@ -8,13 +8,13 @@ blurb: "Work-In-Progress Night!"
 tickets: https://events.humanitix.com/wip-night-2025-sep
 ---
 
-*Registration and full details coming soon!*
-
 Work-In-Progress Night!
 
 Present your work and get feedback by peers in a laid-back, supportive environment.
 
 Any creative project, any state of development welcome!
+
+Hosted by [Max](https://bsky.app/profile/kearneymax.bsky.social).
 
 <hr>
 

@@ -7,7 +7,6 @@ poster: "ZineClub-Sep2025.jpg"
 blurb: "Craft zines and share them!"
 tickets: https://events.humanitix.com/zine-club-2025-sep
 ---
-*Registration and full details coming soon!*
 
 Our bi-monthly Zine Club returns on for September! 🎉
 

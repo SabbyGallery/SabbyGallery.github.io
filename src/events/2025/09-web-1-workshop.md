@@ -5,6 +5,7 @@ time: 7PM
 tags: [workshop]
 poster: "Web1Workshop-Sep2025.jpg"
 blurb: "Let's go back to when the web was nice ☮"
+tickets: https://events.humanitix.com/web-1-0-workshop
 ---
 
 *Registration and full details coming soon!*

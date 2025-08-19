@@ -5,9 +5,8 @@ time: 6PM to 11PM
 tags: [table-flip]
 poster: "TableFlip-Sep2025.jpg"
 blurb: "Hang Out And Play Some Board Games"
+tickets: https://events.humanitix.com/table-flip-2025-sep
 ---
-
-*Registration and full details coming soon!*
 
 Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!
 
