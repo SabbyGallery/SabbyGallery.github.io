@@ -1,7 +1,7 @@
 ---
 title: Web 1.0 Workshop
 date: 2025-09-13
-time: 7PM
+time: 2PM
 tags: [workshop]
 poster: "Web1Workshop-Sep2025.jpg"
 blurb: "Let's go back to when the web was nice ☮"
@@ -16,4 +16,4 @@ How to set up a basic framework
 How to upload and host your site
 How to start adding new content and change your layout
 
-Hosted by Tom and Yue.
+Hosted by [Tom](https://bsky.app/profile/tomsghost.bsky.social) and [Yue](https://unfortunateaccident.neocities.org/).
