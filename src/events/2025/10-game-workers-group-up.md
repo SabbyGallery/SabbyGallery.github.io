@@ -3,8 +3,8 @@ title: Game Workers Australia Games Week Meetup
 date: 2025-10-09
 time: 12PM - 2PM
 tags: [meetup]
+poster: "GWA-Oct2025.jpg"
 blurb: "Solidarity Forever!"
-calendarOnly: true
 tickets: https://www.eventbrite.com/e/game-workers-group-up-tickets-1642039376979
 ---
 
