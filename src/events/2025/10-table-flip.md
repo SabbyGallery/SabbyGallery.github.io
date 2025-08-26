@@ -3,8 +3,9 @@ title: "Table Flip: Grand Finale"
 date: 2025-10-15
 time: 6PM to 11PM
 tags: [table-flip]
+poster: "TableFlip-Oct2025.jpg"
 blurb: "Hang Out And Play Some Board Games"
-calendarOnly: true
+tickets: https://events.humanitix.com/table-flip
 ---
 
 *Registration and full details coming soon!*
