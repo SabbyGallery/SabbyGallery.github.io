@@ -1,6 +1,7 @@
 ---
 title: Co-Working
 blurb: "Tuesdays and Wednesdays from 11 a.m. to 6 p.m."
+hidden: true
 ---
 
 Join fellow game makers and artists at our co-working space!
