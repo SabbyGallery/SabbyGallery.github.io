@@ -1,7 +1,7 @@
 ---
 title: Caretaker Fridays
 poster: "Caretaker-Callout.jpg"
-blurb: "Help make this space stay amazing."
+blurb: "Currently paused while we settle in to our new building!"
 hidden: true
 ---
 
