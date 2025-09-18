@@ -15,4 +15,4 @@ This will be our last jam at 141 Victoria Parade, so don’t miss out!
 
 [Reserve A Spot!](https://events.humanitix.com/sabby-jam-25){.button}
 
-Hosted by the gregarious Kira and [Nique](https://tritake.com/)!
+Hosted by the gregarious [Kira](https://kiramakesgames.itch.io/) and [Nique](https://tritake.com/)!
