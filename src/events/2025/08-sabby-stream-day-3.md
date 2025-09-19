@@ -12,7 +12,7 @@ A hot network is available in your local area! Join our LAN party in person or r
 
 ## Schedule
 
-# 2pm Welcome To Day 3
+# 2:00pm Welcome To Day 3
 # 2:30pm LAN Party
 Did Somebody say Minecraft Speedrun? How fast can we get to the end and slay a Dragon?
 
