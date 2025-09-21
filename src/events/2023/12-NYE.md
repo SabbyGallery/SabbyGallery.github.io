@@ -3,7 +3,7 @@ title: Sabby NYE
 date: 2023-12-31
 tags: [nye]
 poster: "NYE-Dec2023.jpg"
-blurb: "A screening of Tampopo with a serving of Ramen."
+blurb: "Come party and look back at Sabby from 2023!"
 ---
 
 The offical launch of Sabby and the new branding. Come celebrate all the wonderful memories we've made here throughout our first year.
