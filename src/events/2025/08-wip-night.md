@@ -14,6 +14,8 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
+Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
+
 <hr>
 
 [Submit your project](https://forms.gle/2qV4Zu9DrGhRCHy49){.button}
