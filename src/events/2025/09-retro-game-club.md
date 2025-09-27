@@ -12,6 +12,6 @@ PS2 Book Club is gone, long live Retro Games Club! Come present games from from 
 
 There's no console theme for September so feel free to present whatever weird or interesting stuff that you wanna show off, or just come along and listen to passionate folks talk about older games!
 
-Hosted by the gregarious Stella and Zach.
+Hosted by the gregarious [Stella](https://bsky.app/profile/caterwauling.bsky.social) and [Zach](https://zachariahchandler.itch.io/).
 	
 [Signup to talk!](https://forms.gle/TaNh2JhfwrDKvScw6){.button}
