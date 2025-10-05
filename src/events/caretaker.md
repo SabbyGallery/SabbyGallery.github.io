@@ -1,11 +1,11 @@
 ---
-title: Caretaker Fridays
+title: Caretaker Thursdays
 poster: "Caretaker-Callout.jpg"
 blurb: "Currently paused while we settle in to our new building!"
 hidden: true
 ---
 
-Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Fridays.
+Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Thursdays.
 
 Come by and help out if you want to!
 
