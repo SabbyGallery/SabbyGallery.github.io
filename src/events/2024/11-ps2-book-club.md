@@ -9,3 +9,5 @@ blurb: "The Penultimate PS2 Book Club!?"
 Our second last PS2 Book Club, a chill time where two presenters show off a PS2 game. Now hosted by [Stella Karalis](https://caterwauling.itch.io/)!
 
 PS2 "Book" Club is a casual event where people come together to present PS2 games. Maybe they're an old favourite, or maybe there's just one forgotten *thing* about one that urgently *needs* to be talked about.
+
+Hosted by the wonderful [Fraser](https://bsky.app/profile/brumley53.bsky.social).
