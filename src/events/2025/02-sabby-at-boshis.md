@@ -27,7 +27,7 @@ From 7pm US Eastern Standard Time
 
 ## Devs & Games
 - WHISKEY.ST2007S (Bora Erdogan)
-- Brandon Teaches Typing (Brandonhare)
+- [Brandon Teaches Typing](https://brandonhare.itch.io/typing) ([Brandonhare](https://brandonhare.com/))
 - SUDDEN DEATH (Cecile Richard & Nat_Pussy)
 - Gabe's Secret Game (Gabriel Wake)
 - Threshold (Jade Britzman)
