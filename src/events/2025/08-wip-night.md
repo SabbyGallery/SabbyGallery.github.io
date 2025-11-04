@@ -16,6 +16,13 @@ Any creative project, any state of development welcome!
 
 Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
 
+# Games
+Drag Face Recognition Prototype by James Bot
+Namtarot by Kira
+Pixel Sand Game Prototype by Angel
+Purr Plate by LeankomGames
+The New World by Ling Zheng
+Wizard Punks by Hugh
 <hr>
 
 [Submit your project](https://forms.gle/2qV4Zu9DrGhRCHy49){.button}
