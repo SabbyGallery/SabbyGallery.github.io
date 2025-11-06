@@ -29,7 +29,7 @@ From 7pm US Eastern Standard Time
 - WHISKEY.ST2007S (Bora Erdogan)
 - [Brandon Teaches Typing](https://brandonhare.itch.io/typing) ([Brandonhare](https://brandonhare.com/))
 - SUDDEN DEATH (Cecile Richard & Nat_Pussy)
-- Gabe's Secret Game (Gabriel Wake)
+- Gabe's Secret Game ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
 - Threshold (Jade Britzman)
 - FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
 - City of Piss (Siobhan Dent & Maxwell Kearney)
