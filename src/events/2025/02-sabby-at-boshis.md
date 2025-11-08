@@ -32,5 +32,5 @@ From 7pm US Eastern Standard Time
 - Gabe's Secret Game ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
 - Threshold (Jade Britzman)
 - FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
-- City of Piss (Siobhan Dent & Maxwell Kearney)
+- [City of Piss](https://siobhan-dent.itch.io/city-of-piss) ([Siobhan Dent](https://siobhan.creature.love/) & [Maxwell Kearney](https://bsky.app/profile/kearneymax.bsky.social))
 - Nobody Nose (Zac Lucarelli)
