@@ -22,7 +22,7 @@ Namtarot by Kira
 Pixel Sand Game Prototype by Angel
 Purr Plate by LeankomGames
 The New World by Ling Zheng
-Wizard Punks by Hugh
+[Wizard Punks](https://store.steampowered.com/app/3332770/WIZARD_PUNKS/) by [Hugh](http://www.stormcatgames.com/)
 <hr>
 
 [Submit your project](https://forms.gle/2qV4Zu9DrGhRCHy49){.button}
