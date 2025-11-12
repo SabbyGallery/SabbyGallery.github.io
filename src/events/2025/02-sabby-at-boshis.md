@@ -17,7 +17,7 @@ Boshi's Place will be showing Sabby's curation of games and zines from the melbo
 
 We may even find a beautiful portal opening between our two spaces at some point during the night...
 
-Poster by [Duncan Corrigan](https://www.instagram.com/workboyduncan/) and Sav.
+Poster by [Duncan Corrigan](https://www.instagram.com/workboyduncan/) and [Sav](https://www.instagram.com/beeflover1_/).
 
 ## Time
 From 7pm US Eastern Standard Time
