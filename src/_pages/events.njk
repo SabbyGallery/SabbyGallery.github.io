@@ -48,14 +48,24 @@ eleventyImport:
 	<ul class="event-list">
 	{% for event in collections.recurring %}
 		<li> 
-		<a href="{{event.url}}">
-			{% if event.data.poster -%}
-				<img class="poster-thumb" src="/img/posters/{{ event.data.poster }}">
-			{%- else %}
-				<img class="poster-thumb" src="/img/posters/MysteryEvent.jpg">
-			{%- endif %}
+		{%- if event.data.link == null -%}
+            <a href="{{ event.url }}">
+        {%- else  -%}
+            <a href="{{ event.data.link }}">
+        {%- endif -%}
+        {% if event.data.poster -%}
+            <img class="poster-thumb" src="/img/posters/{{ event.data.poster }}">
+        {%- else %}
+            <img class="poster-thumb" src="/img/posters/MysteryEvent.jpg">
+        {%- endif %}
 		</a>
-		<p><a href="{{event.url}}">{{ event.data.title }}</a>
+		<p>
+            {%- if event.data.link == null -%}
+            <a href="{{ event.url }}">
+            {%- else  -%}
+                <a href="{{ event.data.link }}">
+            {%- endif -%}
+            {{ event.data.title }}</a>
 
 		<br>{{ event.data.blurb }}</p>
 		</li>
