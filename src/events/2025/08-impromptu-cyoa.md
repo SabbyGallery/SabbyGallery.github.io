@@ -19,6 +19,6 @@ Everyone votes to decide which game is played and the outcomes to those games...
 
 🙊 Telling Lies: A FMV mystery game where we vote on what threads we pursue on the ongoing mystery of what actually happened to a small group of eco warriors. 
 
-👑 Long Live the Queen: This game has a heap of stats to choose to focus on. Do we spend time learning Falconry or Naval Warfare, Dancing or Court Manners? How long can we keep the princess alive with assassins around every corner?
+👑 [Long Live the Queen](https://store.steampowered.com/app/251990/Long_Live_The_Queen/): This game has a heap of stats to pick between focusing on. Do we spend time learning Falconry or Naval Warfare, Dancing or Court Manners? How long can we keep the princess alive with assassins around every corner?
 
 [Join The Discord]({{site.link.discord}}){.button}
