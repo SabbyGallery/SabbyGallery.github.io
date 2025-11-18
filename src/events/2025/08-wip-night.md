@@ -20,7 +20,7 @@ Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.s
 Drag Face Recognition Prototype by James Bot
 Namtarot by Kira
 Pixel Sand Game Prototype by Angel
-Purr Plate by LeankomGames
+Purr Plate by [LeankomGames](https://store.steampowered.com/app/4056210/Purrplate_Demo/)
 [The New World](https://ling8848.itch.io/the-new-world) by [Ling Zheng](https://lingzheng8848.myportfolio.com/about-me)
 [Wizard Punks](https://store.steampowered.com/app/3332770/WIZARD_PUNKS/) by [Hugh](http://www.stormcatgames.com/)
 <hr>
