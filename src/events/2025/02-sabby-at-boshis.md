@@ -28,7 +28,7 @@ From 7pm US Eastern Standard Time
 ## Devs & Games
 - [WHISKEY.ST2007S](https://bonicle.itch.io/whiskey-st2007nes) ([Bora Erdogan](https://bsky.app/profile/bonicle.bsky.social))
 - [Brandon Teaches Typing](https://brandonhare.itch.io/typing) ([Brandonhare](https://brandonhare.com/))
-- SUDDEN DEATH (Cecile Richard & Nat_Pussy)
+- [SUDDEN DEATH](https://dominoclub.itch.io/sudden-death) ([Cecile Richard](https://cecilerichard.design/) & [Nat_Pussy](https://nat-pussy.itch.io/))
 - Gabe's Secret Game ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
 - Threshold (Jade Britzman)
 - FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
