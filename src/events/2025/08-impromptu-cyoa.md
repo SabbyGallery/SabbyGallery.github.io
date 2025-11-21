@@ -17,7 +17,7 @@ Everyone votes to decide which game is played and the outcomes to those games...
 
 🧛‍ Monster Con: Only 4 Players Max, multiplayer comedy romance VN where players take on the role of a monster experiencing a whirlwind convention romance. 
 
-🙊 Telling Lies: A FMV mystery game where we vote on what threads we pursue on the ongoing mystery of what actually happened to a small group of eco warriors. 
+🙊 [Telling Lies](https://store.steampowered.com/app/762830/Telling_Lies/): A FMV mystery game where we vote on what threads we pursue in the ongoing mystery of what actually happened to a small group of eco warriors. 
 
 👑 [Long Live the Queen](https://store.steampowered.com/app/251990/Long_Live_The_Queen/): This game has a heap of stats to pick between focusing on. Do we spend time learning Falconry or Naval Warfare, Dancing or Court Manners? How long can we keep the princess alive with assassins around every corner?
 
