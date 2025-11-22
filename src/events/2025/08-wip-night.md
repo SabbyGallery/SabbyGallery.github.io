@@ -17,7 +17,7 @@ Any creative project, any state of development welcome!
 Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
 
 # Games
-Drag Face Recognition Prototype by James Bot
+Drag Face Recognition Prototype by [James Bot](https://www.instagram.com/bonk.jamesbonk/)
 Namtarot by Kira
 Pixel Sand Game Prototype by Angel
 Purr Plate by [LeankomGames](https://store.steampowered.com/app/4056210/Purrplate_Demo/)
