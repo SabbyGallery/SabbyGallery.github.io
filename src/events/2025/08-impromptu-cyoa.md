@@ -15,7 +15,7 @@ Everyone votes to decide which game is played and the outcomes to those games...
 
 🩸 Shrouded Isle: Each player takes on the role of a family or individual to advocate for why their family should be spared from the cult's altar. 
 
-🧛‍ Monster Con: Only 4 Players Max, multiplayer comedy romance VN where players take on the role of a monster experiencing a whirlwind convention romance. 
+🧛‍ [Monster Con](https://store.steampowered.com/app/2869860/Monster_Prom_4_Monster_Con/): 4 Players Max. Multiplayer comedy romance VN where players take on the role of a monster experiencing a whirlwind convention romance. 
 
 🙊 [Telling Lies](https://store.steampowered.com/app/762830/Telling_Lies/): A FMV mystery game where we vote on what threads we pursue in the ongoing mystery of what actually happened to a small group of eco warriors. 
 
