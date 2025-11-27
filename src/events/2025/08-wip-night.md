@@ -18,7 +18,7 @@ Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.s
 
 # Games
 Drag Face Recognition Prototype by [James Bot](https://www.instagram.com/bonk.jamesbonk/)
-Namtarot by Kira
+Namtarot by [Kira](https://kiramakesgames.itch.io/)
 Pixel Sand Game Prototype by Angel
 Purr Plate by [LeankomGames](https://store.steampowered.com/app/4056210/Purrplate_Demo/)
 [The New World](https://ling8848.itch.io/the-new-world) by [Ling Zheng](https://lingzheng8848.myportfolio.com/about-me)
