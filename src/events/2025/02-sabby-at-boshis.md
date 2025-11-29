@@ -30,7 +30,7 @@ From 7pm US Eastern Standard Time
 - [Brandon Teaches Typing](https://brandonhare.itch.io/typing) ([Brandonhare](https://brandonhare.com/))
 - [SUDDEN DEATH](https://dominoclub.itch.io/sudden-death) ([Cecile Richard](https://cecilerichard.design/) & [Nat_Pussy](https://nat-pussy.itch.io/))
 - [Sabby Doom](https://www.youtube.com/watch?v=ip2wVUpytek) ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
-- Threshold (Jade Britzman)
+- [Threshold](https://faeriefire.itch.io/threshold) ([Jade Britzman](https://bsky.app/profile/jadefae.bsky.social))
 - FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
 - [City of Piss](https://siobhan-dent.itch.io/city-of-piss) ([Siobhan Dent](https://siobhan.creature.love/) & [Maxwell Kearney](https://bsky.app/profile/kearneymax.bsky.social))
 - Nobody Nose (Zac Lucarelli)
