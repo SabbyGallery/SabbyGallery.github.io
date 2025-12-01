@@ -14,7 +14,7 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
-Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
+Hosted by [Brandonhare](https://brandonhare.com/) and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
 
 # Games
 Drag Face Recognition Prototype by [James Bot](https://www.instagram.com/bonk.jamesbonk/)
