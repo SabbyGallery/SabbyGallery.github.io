@@ -13,7 +13,7 @@ Everyone votes to decide which game is played and the outcomes to those games...
 
 # Game details
 
-🩸 Shrouded Isle: Each player takes on the role of a family or individual to advocate for why their family should be spared from the cult's altar. 
+🩸 [Shrouded Isle](https://store.steampowered.com/app/501320/The_Shrouded_Isle/): Each player takes on the role of a family or individual to advocate for why their family should be spared from the cult's altar.
 
 🧛‍ [Monster Con](https://store.steampowered.com/app/2869860/Monster_Prom_4_Monster_Con/): 4 Players Max. Multiplayer comedy romance VN where players take on the role of a monster experiencing a whirlwind convention romance. 
 
