@@ -31,6 +31,6 @@ From 7pm US Eastern Standard Time
 - [SUDDEN DEATH](https://dominoclub.itch.io/sudden-death) ([Cecile Richard](https://cecilerichard.design/) & [Nat_Pussy](https://nat-pussy.itch.io/))
 - [Sabby Doom](https://www.youtube.com/watch?v=ip2wVUpytek) ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
 - [Threshold](https://faeriefire.itch.io/threshold) ([Jade Britzman](https://bsky.app/profile/jadefae.bsky.social))
-- FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
+- FelineQuest 2455: Rise of the Dogminion (Piper Adam & [Stella Karalis](https://bsky.app/profile/caterwauling.bsky.social))
 - [City of Piss](https://siobhan-dent.itch.io/city-of-piss) ([Siobhan Dent](https://siobhan.creature.love/) & [Maxwell Kearney](https://bsky.app/profile/kearneymax.bsky.social))
 - Nobody Nose (Zac Lucarelli)
