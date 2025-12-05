@@ -33,4 +33,4 @@ From 7pm US Eastern Standard Time
 - [Threshold](https://faeriefire.itch.io/threshold) ([Jade Britzman](https://bsky.app/profile/jadefae.bsky.social))
 - FelineQuest 2455: Rise of the Dogminion (Piper Adam & [Stella Karalis](https://bsky.app/profile/caterwauling.bsky.social))
 - [City of Piss](https://siobhan-dent.itch.io/city-of-piss) ([Siobhan Dent](https://siobhan.creature.love/) & [Maxwell Kearney](https://bsky.app/profile/kearneymax.bsky.social))
-- Nobody Nose (Zac Lucarelli)
+- [Nobody Nose](https://duck.pizza/Games/nose/) ([Zac Lucarelli](https://bsky.app/profile/duck.pizza))
