@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+<section>
+<h1>{{ title }}</h1>
+<nav aria-labelledby="toc-heading" class="toc-container">
+	<h2 id="toc-heading">Table of contents</h2>
+	<div class="toc">{{ content | toc | safe }}</div>
+</nav>
+{{ content | safe }}
+</section>

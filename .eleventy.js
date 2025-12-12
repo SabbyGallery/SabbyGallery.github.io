@@ -11,6 +11,7 @@ const markdownItFigures = require('markdown-it-image-figures');
 
 // Other plugins
 const { DateTime } = require("luxon");
+const pluginToc = require("eleventy-plugin-toc");
 
 module.exports = function(config) {
 
@@ -18,14 +19,7 @@ module.exports = function(config) {
 	// Customised markdown library
 
 	var md = markdownIt({html: true, breaks: true, linkify: true});
-	// md.use(markdownItAnchor, {
-	// 	permalink: markdownItAnchor.permalink.ariaHidden({
-	// 		placement: 'after',
-	// 		class: 'direct-link',
-	// 		symbol: '#',
-	// 		level: [1,2,3,4],
-	// 	}),
-	// });
+	md.use(markdownItAnchor);
 	md.use(markdownItAttrs, {});
 	md.use(markdownItFigures, {
 		// lazy: true,
@@ -172,14 +166,18 @@ module.exports = function(config) {
 	config.addNunjucksGlobal('nextMonthDays',  nextMonthDays);
 	config.addNunjucksGlobal('prevMonthPeek',  prevMonthPeek);
 	config.addNunjucksGlobal('currMonthPeek',  currMonthPeek);
-  	config.addNunjucksGlobal('nextMonthPeek',  nextMonthPeek);
-  	config.addNunjucksGlobal('afterMonthPeek', afterMonthPeek);
+	config.addNunjucksGlobal('nextMonthPeek',  nextMonthPeek);
+	config.addNunjucksGlobal('afterMonthPeek', afterMonthPeek);
 
 	// -------------------------------------------------------------------- //
 	// Plugins
 	config.addPlugin(EleventyHtmlBasePlugin);
 	config.addPlugin(pluginNavigation);
 	//config.addPlugin(pluginRSS);
+	config.addPlugin(pluginToc, {
+		tags: ["h2", "h3", "h4", "h5", "h6"],
+		wrapper: "div",
+	});
 
 	// Passthrough
 	config.addPassthroughCopy({"src/_": "."});

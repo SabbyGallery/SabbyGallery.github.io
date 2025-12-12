@@ -50,9 +50,12 @@ body {
 
 	width: 100%; height: 100vh;
 	margin: 0;
-	padding: 1em;
 
 	font-family: "Argent Pixel CF", serif;
+}
+
+body > *:not(footer) {
+	padding: 1em;
 }
 
 header {
@@ -81,7 +84,7 @@ header {
 	transform: rotate(-5deg);
 }
 
-nav {
+nav:not([aria-labelledby]) {
 	display: flex;
 	align-items: center;
 }
@@ -111,8 +114,8 @@ header nav :is(a, button) {
 	font-weight: bold;
 	text-transform: uppercase;
 
+	display: block;
 	padding: 12px;
-	height: 100%;
 
 	color: var(--pink);
 }
@@ -134,11 +137,11 @@ nav :is(a, button):active {
 	box-shadow: none;
 }
 
+.toc ol {
+	list-style-type: "— ";
+}
+
 footer {
-	display: flex;
-	flex-flow: column;
-	justify-content: space-between;
-	margin-inline: -1rem;
 	font-size: 0.9em;
 	line-height: 1.4;
 }
@@ -167,7 +170,6 @@ footer a {
 }
 
 #footer-credits {
-	margin-bottom:-1em;
 	background-color: var(--grey);
 }
 
@@ -217,8 +219,10 @@ main > hr { margin-inline: 1em }
 	font-size: calc(1vi + 1vb + 1em);
 	font-style: italic;
 	max-width: 30ch;
-	color: var(--dark);
-	text-shadow: -6px 6px var(--light);
+	color: var(--textCol);
+	text-shadow: -4px 4px var(--bgCol);
+	-webkit-text-stroke: 2px var(--bgCol);
+	paint-order: stroke fill;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -240,7 +244,6 @@ li {
 }
 
 a {
-	display: inline-block;
 	color: var(--pink);
 	text-decoration: underline 2px;
 }
