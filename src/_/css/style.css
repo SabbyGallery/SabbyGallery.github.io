@@ -217,8 +217,10 @@ main > hr { margin-inline: 1em }
 	font-size: calc(1vi + 1vb + 1em);
 	font-style: italic;
 	max-width: 30ch;
-	color: var(--dark);
-	text-shadow: -6px 6px var(--light);
+	color: var(--textCol);
+	text-shadow: -4px 4px var(--bgCol);
+	-webkit-text-stroke: 2px var(--bgCol);
+	paint-order: stroke fill;
 }
 
 h1, h2, h3, h4, h5, h6 {
