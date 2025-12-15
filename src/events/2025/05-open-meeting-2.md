@@ -1,5 +1,5 @@
 ---
-title: May Open Meeting 2
+title: "May Open Meeting #2"
 date: 2025-05-24
 time: from 2PM
 tags: [meeting]
