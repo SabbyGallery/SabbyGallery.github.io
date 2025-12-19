@@ -7,6 +7,14 @@ blurb: "Farewell to our old building!"
 tickets: https://events.humanitix.com/goodbye-to-sabby-s-current-building
 ---
 
-*Registration and full details coming soon!*
+A sentimental showcase as we bid farewell to Sabby's home for the last 3 years. 
 
-A sentimental showcase as we bid farewell to the building that has housed Sabby for the last 3 years. 
+Featuring:
+- a beyblade tournament
+- a final games showcase
+- a sausage sizzle
+- chill sketching and zines
+- gunpla
+- talks and speeches
+
+... and probably some tears 😭
