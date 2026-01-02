@@ -24,6 +24,7 @@
     <language>{{ metadata.language }}</language>
     {%- for event in collections.events | reverse %}
     {%- set absoluteEventUrl = event.url | absoluteUrl(metadata.url) %}
+    {%- if event.date != null and event.data.time != null and event.data.calendarOnly == null -%}
     <item>
       <title>{{ event.data.title }}</title>
       <link>{{ absoluteEventUrl }}</link>
@@ -31,6 +32,7 @@
       <pubDate>{{ event.date | dateToRfc822 }}</pubDate>
       <guid>{{ absoluteEventUrl }}</guid>
     </item>
+    {%- endif -%}
     {%- endfor %}
   </channel>
 </rss>
