@@ -81,6 +81,7 @@
 .day-active {
 }
 
+/*
 .day-active:nth-child(2), 
 .day-active:nth-child(3) {
 	background-color: #dedeb9;
@@ -93,6 +94,7 @@
 	border-bottom: 1px dotted #ff8d7d;
 	border-right: 1px dotted #ff8d7d;
 }
+*/
 
 .day-current, .day-current a {
 	background: var(--pink) !important;
