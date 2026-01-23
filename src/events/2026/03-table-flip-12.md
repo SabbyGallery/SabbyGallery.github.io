@@ -5,6 +5,7 @@ time: 6PM to 11PM
 tags: [table-flip]
 blurb: "Hang Out And Play Some Board Games"
 calendarOnly: true
+tickets: https://events.humanitix.com/table-flip
 ---
 
 Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!

@@ -5,6 +5,7 @@ time: 2PM till late
 tags: [table-flip]
 blurb: "Your favourite social deduction game"
 calendarOnly: true
+tickets: https://events.humanitix.com/sabby-botc
 ---
 
 *Table flip fans pencil this tentative date for blood on the clocktower in your diary!*
