@@ -5,56 +5,7 @@
     <link>https://sabby.gallery</link>
     <atom:link href="https://sabby.gallery/events/feed" rel="self" type="application/rss+xml" />
     <description>Events at Sabby</description>
-    <language>en</language>
-    <item>
-      <title>Co-Working</title>
-      <link>https://sabby.gallery/events/coworking/</link>
-      <description>&lt;p&gt;Join fellow game makers and artists at our co-working space!&lt;/p&gt;
-&lt;p&gt;Enjoy comforts such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fast NBN internet and air conditioning.&lt;/li&gt;
-&lt;li&gt;A cool media room, a kitchen, a library full of reference books, equipment you can borrow, etc...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Co-working at Sabby is free, although donations are greatly appreciated.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 27 Jan 2026 01:55:44 +0000</pubDate>
-      <guid>https://sabby.gallery/events/coworking/</guid>
-    </item>
-    <item>
-      <title>Join The Co-op</title>
-      <link>https://sabby.gallery/events/coop/</link>
-      <description></description>
-      <pubDate>Tue, 27 Jan 2026 01:55:44 +0000</pubDate>
-      <guid>https://sabby.gallery/events/coop/</guid>
-    </item>
-    <item>
-      <title>Caretaker Thursdays</title>
-      <link>https://sabby.gallery/events/caretaker/</link>
-      <description>&lt;p&gt;Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Thursdays.&lt;/p&gt;
-&lt;p&gt;Come by and help out if you want to!&lt;/p&gt;
-&lt;p&gt;Weekly tasks are posted in the &lt;em&gt;tasks&lt;/em&gt; channel on our &lt;a href=&quot;https://discord.com/invite/5uRbFg2QXa&quot; target=&quot;_blank&quot;&gt;Discord&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 27 Jan 2026 01:55:44 +0000</pubDate>
-      <guid>https://sabby.gallery/events/caretaker/</guid>
-    </item>
-    <item>
-      <title>Book an Event</title>
-      <link>https://sabby.gallery/events/bookings/</link>
-      <description>&lt;p&gt;Game Jam?&lt;br /&gt;
-Launch Party?&lt;br /&gt;
-Gallery Show?&lt;br /&gt;
-Playtest Session?&lt;br /&gt;
-Birthday Party?&lt;br /&gt;
-Film Screening?&lt;br /&gt;
-Book Club?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Need a space for your next event?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We can accomodate for public and private events.&lt;/p&gt;
-&lt;p&gt;If you&#39;re interested, &lt;a href=&quot;https://sabby.gallery/contact/&quot;&gt;get in touch!&lt;/a&gt;&lt;/p&gt;
-</description>
-      <pubDate>Tue, 27 Jan 2026 01:55:44 +0000</pubDate>
-      <guid>https://sabby.gallery/events/bookings/</guid>
-    </item>
-    <item>
+    <language>en</language><item>
       <title>Sabby Keep Cool Day Again!</title>
       <link>https://sabby.gallery/events/2026/01-keep-cool-day-27/</link>
       <description>&lt;p&gt;Join us for chill co-working and hangs in our air conditioned new building as part of the second iteration of our Keep Cool Days with the glorious full title of &lt;em&gt;Sabby Keep Cool Day (Again) The Sequel: Electric Boogaloo&lt;/em&gt;.&lt;/p&gt;
@@ -62,22 +13,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2026/01-keep-cool-day-27/</guid>
-    </item>
-    <item>
-      <title>Sabby Keep Cool Day</title>
-      <link>https://sabby.gallery/events/2026/01-keep-cool-day-3/</link>
-      <description></description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2026/01-keep-cool-day-3/</guid>
-    </item>
-    <item>
-      <title>Sabby Keep Cool Day</title>
-      <link>https://sabby.gallery/events/2026/01-keep-cool-day-2/</link>
-      <description></description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2026/01-keep-cool-day-2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Keep Cool Day</title>
       <link>https://sabby.gallery/events/2026/01-keep-cool-day-1/</link>
       <description>&lt;p&gt;Join us for chill co-working and hangs in our air conditioned new building.&lt;/p&gt;
@@ -85,15 +21,13 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2026/01-keep-cool-day-1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Brandon Teaches New Year&#39;s Eve</title>
       <link>https://sabby.gallery/events/2025/12-NYE/</link>
       <description></description>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/12-NYE/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Annual General Meeting</title>
       <link>https://sabby.gallery/events/2025/12-annual-general-meeting/</link>
       <description>&lt;p&gt;Are you a Sabby member?&lt;/p&gt;
@@ -101,8 +35,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/12-annual-general-meeting/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Garage Sale</title>
       <link>https://sabby.gallery/events/2025/10-garage-sale/</link>
       <description>&lt;p&gt;&lt;em&gt;Registration and full details coming soon!&lt;/em&gt;&lt;/p&gt;
@@ -110,8 +43,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-garage-sale/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Catalogue-athon #2</title>
       <link>https://sabby.gallery/events/2025/10-catalogue-athon-2/</link>
       <description>&lt;p&gt;Have you ever wondered what weird and wonderful things are contained within Sabby&#39;s walls? We have!&lt;/p&gt;
@@ -121,8 +53,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-catalogue-athon-2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Goodbye 141 Victoria Parade</title>
       <link>https://sabby.gallery/events/2025/10-goodbye-141-vic/</link>
       <description>&lt;p&gt;A sentimental showcase as we bid farewell to Sabby&#39;s home for the last 3 years.&lt;/p&gt;
@@ -139,8 +70,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-goodbye-141-vic/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Catalogue-athon #1</title>
       <link>https://sabby.gallery/events/2025/10-catalogue-athon-1/</link>
       <description>&lt;p&gt;Have you ever wondered what weird and wonderful things are contained within Sabby&#39;s walls? We have!&lt;/p&gt;
@@ -150,8 +80,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-catalogue-athon-1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip: Grand Finale</title>
       <link>https://sabby.gallery/events/2025/10-table-flip/</link>
       <description>&lt;p&gt;&lt;em&gt;Registration and full details coming soon!&lt;/em&gt;&lt;/p&gt;
@@ -162,8 +91,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Game Workers Australia Games Week Meetup</title>
       <link>https://sabby.gallery/events/2025/10-game-workers-group-up/</link>
       <description>&lt;p&gt;This is a unique chance for union members and non-members to come together, connect, and learn more about how &lt;a href=&quot;https://www.gameworkers.com.au/&quot;&gt;Game Workers Australia&lt;/a&gt; is building solidarity and stronger networks within the game workers&#39; community.&lt;/p&gt;
@@ -171,8 +99,7 @@ Book Club?&lt;/p&gt;
 </description>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/10-game-workers-group-up/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2025/09-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -193,8 +120,7 @@ Whisper Bound&lt;/p&gt;
 </description>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2025/09-zine-club/</link>
       <description>&lt;p&gt;Our bi-monthly Zine Club returns on for September! 🎉&lt;/p&gt;
@@ -204,8 +130,7 @@ Whisper Bound&lt;/p&gt;
 </description>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip: Board Game Night</title>
       <link>https://sabby.gallery/events/2025/09-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -214,8 +139,7 @@ Whisper Bound&lt;/p&gt;
 </description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Web 1.0 Workshop</title>
       <link>https://sabby.gallery/events/2025/09-web-1-workshop/</link>
       <description>&lt;p&gt;&lt;em&gt;Registration and full details coming soon!&lt;/em&gt;&lt;/p&gt;
@@ -227,8 +151,7 @@ How to start adding new content and change your layout&lt;/p&gt;
 </description>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-web-1-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/09-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -238,8 +161,7 @@ How to start adding new content and change your layout&lt;/p&gt;
 </description>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-retro-game-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Paint Smol: Mini Painting</title>
       <link>https://sabby.gallery/events/2025/09-mini-painting/</link>
       <description>&lt;p&gt;Paint!&lt;/p&gt;
@@ -249,8 +171,7 @@ How to start adding new content and change your layout&lt;/p&gt;
 </description>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/09-mini-painting/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2025/08-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -269,15 +190,7 @@ Purr Plate by &lt;a href=&quot;https://store.steampowered.com/app/4056210/Purrpl
 </description>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-wip-night/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/08-caretaking5/</link>
-      <description></description>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-caretaking5/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip Rescheduled Edition</title>
       <link>https://sabby.gallery/events/2025/08-table-flip-rescheduled/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -286,22 +199,7 @@ Purr Plate by &lt;a href=&quot;https://store.steampowered.com/app/4056210/Purrpl
 </description>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-table-flip-rescheduled/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking8/</link>
-      <description></description>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking8/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking7/</link>
-      <description></description>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking7/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/08-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -315,15 +213,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-retro-game-club/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/08-caretaking4/</link>
-      <description></description>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-caretaking4/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip: Board Game Night</title>
       <link>https://sabby.gallery/events/2025/08-table-flip/</link>
       <description>&lt;p&gt;&lt;em&gt;Postponed to &lt;a href=&quot;https://sabby.gallery/events/2025/08-table-flip-rescheduled/&quot;&gt;August 27&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
@@ -333,8 +223,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Impromptu CYOA Night</title>
       <link>https://sabby.gallery/events/2025/08-impromptu-cyoa/</link>
       <description>&lt;p&gt;As a replacement for the cancelled Table Flip session we&#39;re going to stream some chill choose your own adventure games on discord.&lt;/p&gt;
@@ -348,22 +237,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-impromptu-cyoa/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking6/</link>
-      <description></description>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking6/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking5/</link>
-      <description></description>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking5/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>The Big Open Meeting</title>
       <link>https://sabby.gallery/events/2025/08-open-meeting/</link>
       <description>&lt;p&gt;Discuss the results of the &lt;a href=&quot;https://sabby.gallery/join/&quot;&gt;Sabby membership drive&lt;/a&gt; and decide our plans and priorities for the future including location options and how the co-op will work!&lt;/p&gt;
@@ -371,29 +245,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-open-meeting/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/08-caretaking3/</link>
-      <description></description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-caretaking3/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking4/</link>
-      <description></description>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking4/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking3/</link>
-      <description></description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking3/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Gunpla Workshop</title>
       <link>https://sabby.gallery/events/2025/08-gunpla-workshop/</link>
       <description>&lt;p&gt;Following last year&#39;s packed &lt;a href=&quot;https://sabby.gallery/events/2024/11-gunpla-workshop&quot;&gt;Gunpla Workshop&lt;/a&gt; hosted by &lt;a href=&quot;https://bio.link/cafemeek&quot;&gt;Mika&lt;/a&gt; we&#39;re bringing you another evening of mech making!&lt;/p&gt;
@@ -403,8 +255,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-gunpla-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Stream Week: Retro Future Party</title>
       <link>https://sabby.gallery/events/2025/08-sabby-stream-day-5/</link>
       <description>&lt;p&gt;The final day of Sabby Stream Week. We&#39;ll be wrapping up with an outdoor sausage sizzle party! Come along to hang out and enjoy some food!&lt;/p&gt;
@@ -423,8 +274,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-sabby-stream-day-5/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Stream Week: Hot Seat Game Jam</title>
       <link>https://sabby.gallery/events/2025/08-sabby-stream-day-4/</link>
       <description>&lt;p&gt;Hot Seat Game Jam! Participants will all be working collaboratively on a single game.&lt;/p&gt;
@@ -444,15 +294,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-sabby-stream-day-4/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/08-caretaking2/</link>
-      <description></description>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-caretaking2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Stream Week: LAN Party</title>
       <link>https://sabby.gallery/events/2025/08-sabby-stream-day-3/</link>
       <description>&lt;p&gt;A hot network is available in your local area! Join our LAN party in person or remotely (shhh, don’t think about it too hard). We’ll be playing video games, running a Minecraft server, showing off and hosting speed runs of some games by Sabby members.&lt;/p&gt;
@@ -473,15 +315,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-sabby-stream-day-3/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking2/</link>
-      <description></description>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Stream Week: Public Records &amp; Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/08-sabby-stream-day-2/</link>
       <description>&lt;p&gt;Today we share and make records of all things Sabby as a community. Help us build a timeline of your key memories and important moments in Sabby history. Collaborate as we digitize and document items from the Sabby artefact wall.&lt;/p&gt;
@@ -501,15 +335,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-sabby-stream-day-2/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/08-coworking1/</link>
-      <description></description>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-coworking1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Stream Week: What is Sabby?</title>
       <link>https://sabby.gallery/events/2025/08-sabby-stream-day-1/</link>
       <description>&lt;p&gt;Share and learn what Sabby is and what it means to its community. We’ll be chatting about all things Sabby, why it’s time for Sabby to become a co-op and how you can be involved in both Sabby and the importance of saving Sabby.&lt;/p&gt;
@@ -524,29 +350,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/08-sabby-stream-day-1/</guid>
-    </item>
-    <item>
-      <title>Sabby At Freeplay Day 3</title>
-      <link>https://sabby.gallery/events/2025/07-sabby-at-freeplay-3/</link>
-      <description></description>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-sabby-at-freeplay-3/</guid>
-    </item>
-    <item>
-      <title>Sabby At Freeplay Day 2</title>
-      <link>https://sabby.gallery/events/2025/07-sabby-at-freeplay-2/</link>
-      <description></description>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-sabby-at-freeplay-2/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/08-caretaking1/</link>
-      <description></description>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/08-caretaking1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby At Freeplay</title>
       <link>https://sabby.gallery/events/2025/07-sabby-at-freeplay/</link>
       <description>&lt;p&gt;We have a stall at &lt;a href=&quot;https://www.freeplay.net.au/&quot;&gt;Freeplay Angles&lt;/a&gt; 2025. Come by to discuss all things Sabby including what we do, our move to a &lt;a href=&quot;https://sabby.gallery/join/&quot;&gt;co-op&lt;/a&gt;, our plans for the future and how you can get involved.&lt;/p&gt;
@@ -564,8 +368,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-sabby-at-freeplay/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Tangents</title>
       <link>https://sabby.gallery/events/2025/07-tangents/</link>
       <description>&lt;p&gt;&lt;a href=&quot;https://sabby.gallery/events/2024/06-serenade-tangents&quot;&gt;Tangents&lt;/a&gt; returns for 2025!&lt;/p&gt;
@@ -584,8 +387,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-tangents/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>RMIT Games Talk: Maize Wallin</title>
       <link>https://sabby.gallery/events/2025/07-rmit-talk-maize/</link>
       <description>&lt;p&gt;Sabby co-founder &lt;a href=&quot;https://maizewallin.com/&quot;&gt;Maize Wallin&lt;/a&gt; talks with &lt;a href=&quot;https://www.rmit.edu.au/profiles/h/stephanie-harkin&quot;&gt;Dr Stephanie Harkin&lt;/a&gt; about their career in Games (&lt;a href=&quot;https://weirdflex.studio/&quot;&gt;Weird Flex Studio&lt;/a&gt;, &lt;a href=&quot;https://ghostpattern.net/&quot;&gt;Ghost Pattern&lt;/a&gt;) and their advocacy for solidarity and collectivism in the Games Community and beyond (&lt;a href=&quot;https://www.gameworkers.com.au/&quot;&gt;Game Workers Australia&lt;/a&gt;, Sabby).&lt;/p&gt;
@@ -597,15 +399,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-rmit-talk-maize/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking9/</link>
-      <description></description>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking9/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2025/07-zine-club/</link>
       <description>&lt;p&gt;Our bi-monthly Zine Club returns on July 26th! 🎉&lt;/p&gt;
@@ -616,48 +410,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-zine-club/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/07-caretaking4/</link>
-      <description></description>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-caretaking4/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking8/</link>
-      <description></description>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking8/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking7/</link>
-      <description></description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking7/</guid>
-    </item>
-    <item>
-      <title>Sabby Co-op Online Seminar</title>
-      <link>https://sabby.gallery/events/2025/07-coop-seminar-online/</link>
-      <description>&lt;p&gt;We&#39;re doing a livestream Co-op Seminar for anyone unable to make it to our in-person seminars.&lt;/p&gt;
-&lt;p&gt;What&#39;s a Co-op? Why Should you join? We&#39;ll discuss how Sabby&#39;s structure will change and how to get involved!&lt;/p&gt;
-&lt;p&gt;Join &lt;a href=&quot;https://discord.com/invite/5uRbFg2QXa&quot;&gt;our discord&lt;/a&gt; and contact Christina for information on the many volunteer roles that keep Sabby functioning!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Follow the &lt;a href=&quot;https://www.twitch.tv/sabbygallery&quot;&gt;Sabby Twitch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Join the &lt;a href=&quot;https://sabby.gallery/join/&quot;&gt;Sabby Co-op&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Join the &lt;a href=&quot;https://discord.com/invite/5uRbFg2QXa&quot;&gt;Sabby discord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Read Marie Leblanc Flanagan&#39;s &lt;a href=&quot;https://drive.google.com/file/d/1Ac3rR0L4xUJbl1D6gav5uccfgawMQhhJ/view&quot;&gt;Change The Rules Comic&lt;/a&gt; about Co-operatives&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&quot;https://cehl.com.au/seven-cooperative-principles/&quot;&gt;Seven Co-operative Principles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Watch the &lt;a href=&quot;https://www.youtube.com/watch?v=P9gg-u-ztds&quot;&gt;Co-ops &amp;amp; Small Businesses&lt;/a&gt; Talk at Freeplay 2019&lt;/li&gt;
-&lt;li&gt;Watch the &lt;a href=&quot;https://www.youtube.com/watch?v=_GvpNZuptG0&quot;&gt;Australian Game Dev Co-ops: A Fireside Chat&lt;/a&gt; Talk at Freeplay 2021&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coop-seminar-online/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sip And Sketch</title>
       <link>https://sabby.gallery/events/2025/07-sip-and-sketch/</link>
       <description>&lt;p&gt;Sip ‘n’ Sketch Returns! A very low-key night for chilling, drawing and sipping drinks with friends.&lt;/p&gt;
@@ -665,8 +418,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-sip-and-sketch/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>July Open Meeting #2</title>
       <link>https://sabby.gallery/events/2025/07-open-meeting-2/</link>
       <description>&lt;p&gt;Join the discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -674,29 +426,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-open-meeting-2/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/07-caretaking3/</link>
-      <description></description>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-caretaking3/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking6/</link>
-      <description></description>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking6/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking5/</link>
-      <description></description>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking5/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Co-op Sign-up Seminar</title>
       <link>https://sabby.gallery/events/2025/07-coop-seminar/</link>
       <description>&lt;p&gt;We’ll explain what a co-op is, how Sabby’s structure would change and how you can contribute!&lt;/p&gt;
@@ -713,8 +443,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-coop-seminar/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night Roaming Showcase</title>
       <link>https://sabby.gallery/events/2025/07-wip-night/</link>
       <description>&lt;p&gt;This month we have a showcase format -- Set up your computer or physical game and get playtests from people as they go around the building!&lt;/p&gt;
@@ -726,8 +455,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Co-op Recruitment Seminar</title>
       <link>https://sabby.gallery/events/2025/07-coop-recruitment-seminar/</link>
       <description>&lt;p&gt;Do you want to be best equipped to talk to your friends and others about &lt;a href=&quot;https://sabby.gallery/join/&quot;&gt;joining the Co-op&lt;/a&gt;?&lt;/p&gt;
@@ -746,15 +474,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-coop-recruitment-seminar/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/07-caretaking2/</link>
-      <description></description>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-caretaking2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip: Board Game Night</title>
       <link>https://sabby.gallery/events/2025/07-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -764,15 +484,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-table-flip/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking4/</link>
-      <description></description>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking4/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby At IGDAM Meetup</title>
       <link>https://sabby.gallery/events/2025/07-sabby-at-igdam/</link>
       <description>&lt;p&gt;Sabby&#39;s very own &lt;a href=&quot;https://tritake.com/&quot;&gt;Nique&lt;/a&gt; and &lt;a href=&quot;https://kiramakesgames.itch.io/&quot;&gt;Kira&lt;/a&gt; will be speaking at &lt;a href=&quot;https://igdamelbourne.au/&quot;&gt;IGDA Melbourne&#39;s&lt;/a&gt; Monthly Meetup at &lt;a href=&quot;https://missiontoseafarers.com.au/&quot;&gt;Mission to Seafarers Victoria&lt;/a&gt; about Sabby&#39;s move to a co-op structure.&lt;/p&gt;
@@ -789,15 +501,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-sabby-at-igdam/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking3/</link>
-      <description></description>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking3/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/07-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -808,8 +512,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-retro-game-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>July Open Meeting</title>
       <link>https://sabby.gallery/events/2025/07-open-meeting/</link>
       <description>&lt;p&gt;Join the discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -817,29 +520,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/07-open-meeting/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/07-caretaking1/</link>
-      <description></description>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-caretaking1/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking2/</link>
-      <description></description>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking2/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/07-coworking1/</link>
-      <description></description>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/07-coworking1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Jam 2025</title>
       <link>https://sabby.gallery/events/2025/06-sabby-jam-2025/</link>
       <description>&lt;p&gt;Friday 27th June — 1PM until Sunday 29th June 6PM.&lt;/p&gt;
@@ -850,8 +531,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/06-sabby-jam-2025/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>June Open Meeting</title>
       <link>https://sabby.gallery/events/2025/06-open-meeting/</link>
       <description>&lt;p&gt;Join the discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -859,8 +539,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/06-open-meeting/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Vaccine Drive 2025</title>
       <link>https://sabby.gallery/events/2025/06-vaccine-drive/</link>
       <description>&lt;p&gt;Sabby is doing a Free Vaccine drive.&lt;/p&gt;
@@ -872,8 +551,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/06-vaccine-drive/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/06-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -884,8 +562,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/06-retro-game-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip: Card Game Night</title>
       <link>https://sabby.gallery/events/2025/06-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -895,8 +572,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/06-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Co-op Sign-up Seminar</title>
       <link>https://sabby.gallery/events/2025/05-coop-seminar/</link>
       <description>&lt;p&gt;At this event we&#39;ll finally open up preliminary co-op membership signups!&lt;/p&gt;
@@ -914,29 +590,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-coop-seminar/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking8/</link>
-      <description></description>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking8/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking7/</link>
-      <description></description>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking7/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/05-caretaking4/</link>
-      <description></description>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-caretaking4/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night Feedback Forum</title>
       <link>https://sabby.gallery/events/2025/05-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -949,8 +603,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>May Open Meeting #2</title>
       <link>https://sabby.gallery/events/2025/05-open-meeting-2/</link>
       <description>&lt;p&gt;Join the discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -958,29 +611,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-open-meeting-2/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking6/</link>
-      <description></description>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking6/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking5/</link>
-      <description></description>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking5/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/05-caretaking3/</link>
-      <description></description>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-caretaking3/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2025/05-zine-club/</link>
       <description>&lt;p&gt;The next zine club will be Saturday May 17th! 🎉&lt;/p&gt;
@@ -991,8 +622,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/05-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -1001,29 +631,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-retro-game-club/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking4/</link>
-      <description></description>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking4/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking3/</link>
-      <description></description>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking3/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/05-caretaking2/</link>
-      <description></description>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-caretaking2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>May Open Meeting #1</title>
       <link>https://sabby.gallery/events/2025/05-open-meeting-1/</link>
       <description>&lt;p&gt;Join the discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -1031,8 +639,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-open-meeting-1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Cursed Videogame Movie Night</title>
       <link>https://sabby.gallery/events/2025/05-cursed-videogame-movie-night/</link>
       <description>&lt;p&gt;The Sabby community&#39;s very own Giwake brings us a truly cursed night of cinema at Sabby.&lt;/p&gt;
@@ -1045,29 +652,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-cursed-videogame-movie-night/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking2/</link>
-      <description></description>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking2/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/05-coworking1/</link>
-      <description></description>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-coworking1/</guid>
-    </item>
-    <item>
-      <title>Caretaking</title>
-      <link>https://sabby.gallery/events/2025/05-caretaking1/</link>
-      <description></description>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/05-caretaking1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Gunpla Workshop</title>
       <link>https://sabby.gallery/events/2025/05-gunpla-workshop/</link>
       <description>&lt;p&gt;Following last year&#39;s packed &lt;a href=&quot;https://sabby.gallery/events/2024/11-gunpla-workshop&quot;&gt;Gunpla Workshop&lt;/a&gt; hosted by &lt;a href=&quot;https://bio.link/cafemeek&quot;&gt;Mika&lt;/a&gt; we&#39;re bringing you another evening of mech making!&lt;/p&gt;
@@ -1077,16 +662,14 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/05-gunpla-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>April Open Meeting</title>
       <link>https://sabby.gallery/events/2025/04-open-meeting/</link>
       <description>&lt;p&gt;Join the monthly discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
 </description>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/04-open-meeting/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/04-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
@@ -1094,8 +677,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/04-retro-game-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night Feedback Forum</title>
       <link>https://sabby.gallery/events/2025/04-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -1107,8 +689,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/04-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Game-A-Week Play Party 2025</title>
       <link>https://sabby.gallery/events/2025/03-game-a-week/</link>
       <description>&lt;p&gt;A showcase of spectacular local games made in only a week!&lt;/p&gt;
@@ -1116,22 +697,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/03-game-a-week/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking8/</link>
-      <description></description>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking8/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking7/</link>
-      <description></description>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking7/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2025/03-zine-club/</link>
       <description>&lt;p&gt;The next zine club will be Saturday March 22nd! 🎉&lt;/p&gt;
@@ -1141,22 +707,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/03-zine-club/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking6/</link>
-      <description></description>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking6/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking5/</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking5/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>March Open Meeting</title>
       <link>https://sabby.gallery/events/2025/03-open-meeting/</link>
       <description>&lt;p&gt;Join the monthly discussion of upcoming Sabby plans and priorities.&lt;/p&gt;
@@ -1164,37 +715,14 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/03-open-meeting/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking4/</link>
-      <description></description>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking4/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking3/</link>
-      <description></description>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking3/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/03-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
 </description>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/03-retro-game-club/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking2/</link>
-      <description></description>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night Feedback Forum</title>
       <link>https://sabby.gallery/events/2025/03-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -1206,29 +734,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/03-wip-night/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/03-coworking1/</link>
-      <description></description>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/03-coworking1/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/02-coworking2/</link>
-      <description></description>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/02-coworking2/</guid>
-    </item>
-    <item>
-      <title>Co-working</title>
-      <link>https://sabby.gallery/events/2025/02-coworking1/</link>
-      <description></description>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/02-coworking1/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby At Boshi&#39;s Place</title>
       <link>https://sabby.gallery/events/2025/02-sabby-at-boshis/</link>
       <description>&lt;p&gt;For the Melbourne event at Sabby, please see &lt;a href=&quot;https://sabby.gallery/events/2025/02-boshis-place&quot;&gt;Boshi&#39;s At Sabby&lt;/a&gt;.&lt;/p&gt;
@@ -1255,8 +761,7 @@ Ryan - Dinosaur Discovery&lt;/p&gt;
 </description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/02-sabby-at-boshis/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Boshi&#39;s At Sabby</title>
       <link>https://sabby.gallery/events/2025/02-boshis-place/</link>
       <description>&lt;p&gt;Sabby and &lt;a href=&quot;https://boshis.place/&quot;&gt;Boshi&#39;s Place&lt;/a&gt; are having a simultaneous cultural exchange!&lt;/p&gt;
@@ -1279,59 +784,21 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/02-boshis-place/</guid>
-    </item>
-    <item>
-      <title>Max International Games Weekend 2025</title>
-      <link>https://sabby.gallery/events/2025/02-max-international-games-weekend/</link>
-      <description>&lt;p&gt;Official Max International Games Weekend Events:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://sabby.gallery/events/2025/02-boshis-place&quot;&gt;Boshi&#39;s At Sabby (Melbourne)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://sabby.gallery/events/2025/02-sabby-at-boshis&quot;&gt;Sabby At Boshi&#39;s Place (New York)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Unofficial Max International Games Weekend Events:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.acmi.net.au/whats-on/big-screen-premiere-grand-theft-hamlet/&quot;&gt;Grand Theft Hamlet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gameworkers.com.au/join/&quot;&gt;Game Workers Australia Monthly Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.acmi.net.au/whats-on/sims-25/&quot;&gt;The Sims™ 25th Birthday&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.acmi.net.au/whats-on/sims-25-talk/&quot;&gt;In Conversation: 25 Years of The Sims™&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;(Sabby is not actually open on Friday, we&#39;ll be setting up for &lt;a href=&quot;https://sabby.gallery/events/2025/02-boshis-place&quot;&gt;Boshi&#39;s At Sabby&lt;/a&gt;. See you on Saturday &amp;lt;3 )&lt;/p&gt;
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;Sabby is not affiliated with or responsible for Max International Games Weekend. Max International Games Weekend is not affliated with Melbourne International Games Week, Creative Victoria or any of the other organisations involved in Melbourne International Games Week. Any similarities with the MIGW logo are because it&#39;s an edit done in loving tribute to the most exhausting week of the Australian gamedev calendar.&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/02-max-international-games-weekend/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Co-Working Returns</title>
       <link>https://sabby.gallery/events/2025/02-coworking-returns/</link>
       <description>&lt;p&gt;&lt;a href=&quot;https://sabby.gallery/events/coworking&quot;&gt;Co-working&lt;/a&gt; at Sabby returns for 2025!&lt;/p&gt;
 </description>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/02-coworking-returns/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Retro Games Club</title>
       <link>https://sabby.gallery/events/2025/02-retro-game-club/</link>
       <description>&lt;p&gt;PS2 Book Club is gone, long live Retro Games Club! Come present games from from PS3/360/Wii era and back.&lt;/p&gt;
 </description>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/02-retro-game-club/</guid>
-    </item>
-    <item>
-      <title>DIGRAA 2025 Watch Party</title>
-      <link>https://sabby.gallery/events/2025/02-digraa-day3/</link>
-      <description></description>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/02-digraa-day3/</guid>
-    </item>
-    <item>
-      <title>DIGRAA 2025 Watch Party</title>
-      <link>https://sabby.gallery/events/2025/02-digraa-day2/</link>
-      <description></description>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2025/02-digraa-day2/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>DIGRAA 2025 Watch Party</title>
       <link>https://sabby.gallery/events/2025/02-digraa/</link>
       <description>&lt;p&gt;&lt;a href=&quot;https://digraa.org/&quot;&gt;DiGRAA&lt;/a&gt; (Digital Games Research Association Australia) is the main conference for the Academic study of Games in Australia.&lt;/p&gt;
@@ -1346,24 +813,21 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2025/02-digraa/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>NYE Party</title>
       <link>https://sabby.gallery/events/2024/12-nye-party/</link>
       <description>&lt;p&gt;Pick your favourite event and move it into the stairwell, check out photos from the year and then we’ll head on down to the gardens to watch the fireworks!&lt;/p&gt;
 </description>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/12-nye-party/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Holiday Party</title>
       <link>https://sabby.gallery/events/2024/12-holiday-party/</link>
       <description>&lt;p&gt;Bring along a plate and try to keep Null away from the eggnog (if you dare).&lt;/p&gt;
 </description>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/12-holiday-party/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/12-zine-club/</link>
       <description>&lt;p&gt;A Zine Club for those who can’t make our normal Saturday time slot. Come along and celebrate all the good zine times from this year!&lt;/p&gt;
@@ -1372,8 +836,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/12-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Holiday Market</title>
       <link>https://sabby.gallery/events/2024/12-holiday-market/</link>
       <description>&lt;p&gt;Looking for a last minute gift? Want to come check out incredible art from local artists? Want to check out a lovely market with lots of pretty fairy lights? Then come along!&lt;/p&gt;
@@ -1381,8 +844,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/12-holiday-market/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Final PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/12-ps2-book-club/</link>
       <description>&lt;p&gt;We say goodbye to a weird and wacky year of PS2 Games with a series of short presentations featuring games we didn’t get around to!&lt;/p&gt;
@@ -1390,8 +852,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/12-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Gunpla Workshop</title>
       <link>https://sabby.gallery/events/2024/11-gunpla-workshop/</link>
       <description>&lt;p&gt;Come learn to make some mech buds with your human buds! We’ll have a handful of kits but if you can BYO that would be preferred.&lt;/p&gt;
@@ -1400,8 +861,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-gunpla-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Student Game-A-Week Showcase 2024</title>
       <link>https://sabby.gallery/events/2024/11-game-a-week/</link>
       <description>&lt;p&gt;A showcase of student games made in only a week!&lt;/p&gt;
@@ -1409,16 +869,14 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-game-a-week/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Fundraiser</title>
       <link>https://sabby.gallery/events/2024/11-sabby-fundraiser/</link>
       <description>&lt;p&gt;Help raise money for Sabby during 4 days of in person and live streamed events! Lots of shenanigans planned!&lt;/p&gt;
 </description>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-sabby-fundraiser/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/11-zine-club/</link>
       <description>&lt;p&gt;Zine Club needs no introduction, and it’s back in November!&lt;/p&gt;
@@ -1427,8 +885,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/11-ps2-book-club/</link>
       <description>&lt;p&gt;Our second last PS2 Book Club, a chill time where two presenters show off a PS2 game. Now hosted by &lt;a href=&quot;https://caterwauling.itch.io/&quot;&gt;Stella Karalis&lt;/a&gt;!&lt;/p&gt;
@@ -1437,16 +894,14 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>U.S. Election Solidarity Doom Watch</title>
       <link>https://sabby.gallery/events/2024/11-election-doomwatch/</link>
       <description>&lt;p&gt;Support group to watch the initial results of the U.S. election and play some games to distract from the horrors. If the horrors persist, so will we.&lt;/p&gt;
 </description>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-election-doomwatch/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Ink Jam &amp; Ink Workshop</title>
       <link>https://sabby.gallery/events/2024/11-ink-jam/</link>
       <description>&lt;p&gt;&lt;a href=&quot;https://itch.io/jam/inkjam-2024&quot;&gt;Ink Jam&lt;/a&gt; is back for 2024 and this year Sabby is hosting an in person venue!&lt;/p&gt;
@@ -1475,8 +930,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/11-ink-jam/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Hallowbound Halloween Trivia II</title>
       <link>https://sabby.gallery/events/2024/10-hallowbound/</link>
       <description>&lt;p&gt;Lal and Mads&#39; Hallowbound: Halloween Trivia II, a twisted journey into the darkest parts of the human psyche, where only the worst facts are found.&lt;/p&gt;
@@ -1488,8 +942,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/10-hallowbound/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night Feedback Forum</title>
       <link>https://sabby.gallery/events/2024/10-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -1501,8 +954,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/10-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/10-zine-club/</link>
       <description>&lt;p&gt;Zine Club needs no introduction, and it’s back in October!&lt;/p&gt;
@@ -1511,8 +963,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/10-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Game Workers Group Up</title>
       <link>https://sabby.gallery/events/2024/10-group-up/</link>
       <description>&lt;p&gt;TICKETS SOLD OUT (but feel free to come round anyway)&lt;/p&gt;
@@ -1526,8 +977,7 @@ Autograv by A.C. Gaudette&lt;/p&gt;
 </description>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/10-group-up/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Fun Fact Trivia Night</title>
       <link>https://sabby.gallery/events/2024/09-trivia/</link>
       <description>&lt;p&gt;Kay-Lynn is hosting a fun little trivia night for our last event of September!&lt;br /&gt;
@@ -1535,8 +985,7 @@ Come test your knowledge, trivial, specific or useful!&lt;/p&gt;
 </description>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-trivia/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/09-zine-club/</link>
       <description>&lt;p&gt;Come hang out, make a zine or two.&lt;br /&gt;
@@ -1544,8 +993,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Doom Map Jam</title>
       <link>https://sabby.gallery/events/2024/09-doom-map-jam/</link>
       <description>&lt;p&gt;A low-stakes mapping jam for Doom 2, complete with a short introduction and tutorial to the level editor.&lt;br /&gt;
@@ -1553,8 +1001,7 @@ Beginners welcome! This is going to be a chill jam!&lt;/p&gt;
 </description>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-doom-map-jam/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Roaming Showcase</title>
       <link>https://sabby.gallery/events/2024/09-wip-roaming-showcase/</link>
       <description>&lt;p&gt;Work-In-Progress Roaming Showcase!&lt;/p&gt;
@@ -1566,8 +1013,7 @@ Check out Roaming Showcase to see cool work in progress projects from local devs
 </description>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-wip-roaming-showcase/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/09-ps2-book-club/</link>
       <description>&lt;p&gt;This Month: Simpsons Road Rage // Ratchet and Clank 2&lt;/p&gt;
@@ -1577,16 +1023,14 @@ Check out Roaming Showcase to see cool work in progress projects from local devs
 </description>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Fake Beyblade Tournament the Re-Re-Revenge</title>
       <link>https://sabby.gallery/events/2024/09-beyblade/</link>
       <description>&lt;p&gt;The Sabby Beyblade Tournament is back! Bring your own real Beyblade, bootleg Beyblade, modified CD that is also a spinning top, or other weird and almost dangerous rapidly rotating object.&lt;/p&gt;
 </description>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/09-beyblade/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2024/08-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Feedback Forum!&lt;/p&gt;
@@ -1598,8 +1042,7 @@ Check out Roaming Showcase to see cool work in progress projects from local devs
 </description>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/08-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip</title>
       <link>https://sabby.gallery/events/2024/08-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games, Card games! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -1607,8 +1050,7 @@ Check out Roaming Showcase to see cool work in progress projects from local devs
 </description>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/08-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/08-zine-club/</link>
       <description>&lt;p&gt;Come hang out, make a zine or two.&lt;br /&gt;
@@ -1616,8 +1058,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/08-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/08-ps2-book-club/</link>
       <description>&lt;p&gt;This Month: Ratchet &amp;amp; Clank 2 // flipnic&lt;/p&gt;
@@ -1627,8 +1068,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/08-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Game Idea Tournament</title>
       <link>https://sabby.gallery/events/2024/08-game-idea-tournament/</link>
       <description>&lt;p&gt;A silly competition where the audience decides between two different game ideas. Sign a &lt;strong&gt;VERY SERIOUS NDA&lt;/strong&gt;, share a silly blimbo idea and practice your pitching in a head to head environment.&lt;/p&gt;
@@ -1636,8 +1076,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/08-game-idea-tournament/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Open Mic Monologues</title>
       <link>https://sabby.gallery/events/2024/07-open-mic-monologues/</link>
       <description>&lt;p&gt;An event for performing things such as:&lt;br /&gt;
@@ -1651,8 +1090,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/07-open-mic-monologues/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2024/07-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -1664,8 +1102,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/07-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/07-zine-club/</link>
       <description>&lt;p&gt;Come hang out, make a zine or two.&lt;br /&gt;
@@ -1673,8 +1110,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/07-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/07-ps2-book-club/</link>
       <description>&lt;p&gt;Ah, the Playstation 2. So many games, so few polygons, so much fun.&lt;/p&gt;
@@ -1684,8 +1120,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/07-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2024/06-wip-night/</link>
       <description>&lt;p&gt;Work-In-Progress Night!&lt;/p&gt;
@@ -1697,8 +1132,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>GameMaker Workshop</title>
       <link>https://sabby.gallery/events/2024/06-gamemaker-workshop/</link>
       <description>&lt;p&gt;Could this be the first workshop?&lt;/p&gt;
@@ -1711,16 +1145,14 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-gamemaker-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sip And Sketch</title>
       <link>https://sabby.gallery/events/2024/06-sip-and-sketch/</link>
       <description>&lt;p&gt;Sip and sketch is a lowkey social event for making art!&lt;/p&gt;
 </description>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-sip-and-sketch/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/06-zine-club/</link>
       <description>&lt;p&gt;Come hang out, make a zine or two.&lt;br /&gt;
@@ -1728,8 +1160,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>PS2 Book Club</title>
       <link>https://sabby.gallery/events/2024/06-ps2-book-club/</link>
       <description>&lt;p&gt;Ah, the Playstation 2. So many games, so few polygons, so much fun.&lt;/p&gt;
@@ -1739,8 +1170,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-ps2-book-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>TANGENTS</title>
       <link>https://sabby.gallery/events/2024/06-serenade-tangents/</link>
       <description>&lt;p&gt;Our good friends from Sydney&#39;s &lt;a href=&quot;https://serenade.games/&quot;&gt;Serenade&lt;/a&gt; are collaborating with Sabby to present their &lt;a href=&quot;https://www.freeplay.net.au/&quot;&gt;Freeplay&lt;/a&gt; side-show, &lt;em&gt;TANGENTS&lt;/em&gt;!&lt;/p&gt;
@@ -1761,8 +1191,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-serenade-tangents/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Melbourne Board Game Celebration</title>
       <link>https://sabby.gallery/events/2024/06-board-game-celebration/</link>
       <description>&lt;p&gt;&lt;a href=&quot;https://firenoodleeatingchamps.com/&quot;&gt;Fire Noodle Eating Champs&lt;/a&gt; are proud to host the Melbourne Board Game Celebration at Sabby!&lt;/p&gt;
@@ -1775,8 +1204,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/06-board-game-celebration/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>WIP Night</title>
       <link>https://sabby.gallery/events/2024/05-wip-night/</link>
       <description>&lt;p&gt;Our fifth Work-In-Progress Night!&lt;/p&gt;
@@ -1788,8 +1216,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/05-wip-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Market Day</title>
       <link>https://sabby.gallery/events/2024/05-market-day/</link>
       <description>&lt;p&gt;Featuring cool local art, crafts and zines, Sabby&#39;s Market Day is a cozy little fair. Come along and support local artists!&lt;/p&gt;
@@ -1801,8 +1228,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/05-market-day/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip</title>
       <link>https://sabby.gallery/events/2024/05-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -1810,8 +1236,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/05-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2024/05-zine-club/</link>
       <description>&lt;p&gt;Come hang out, make a zine or two.&lt;br /&gt;
@@ -1819,218 +1244,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2024/05-zine-club/</guid>
-    </item>
-    <item>
-      <title>PS2 Book Club</title>
-      <link>https://sabby.gallery/events/2024/05-ps2-book-club/</link>
-      <description>&lt;p&gt;Ah, the Playstation 2. So many games, so few polygons, so much fun.&lt;/p&gt;
-&lt;p&gt;PS2 &amp;quot;Book&amp;quot; Club is a casual event where people come together to present PS2 games. Maybe they&#39;re an old favourite, or maybe there&#39;s just one forgotten &lt;em&gt;thing&lt;/em&gt; about one that urgently &lt;em&gt;needs&lt;/em&gt; to be talked about.&lt;/p&gt;
-&lt;p&gt;The event starts after Co-working.&lt;/p&gt;
-&lt;p&gt;Hosted by the wonderful &lt;a href=&quot;https://bsky.app/profile/brumley53.bsky.social&quot;&gt;Fraser&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/05-ps2-book-club/</guid>
-    </item>
-    <item>
-      <title>Cybermania &#39;94</title>
-      <link>https://sabby.gallery/events/2024/05-cybermania/</link>
-      <description>&lt;p&gt;Come down to Sabby for a screening of the totally bonkers Cybermania 94: Ultimate Gamer Awards.&lt;/p&gt;
-&lt;p&gt;And what kind of award show would it be without FULL GLAM? That&#39;s right, it&#39;s a black tie event.&lt;/p&gt;
-&lt;p&gt;What&#39;s on the menu, you ask? Only the coolest 90&#39;s inspired TV dinner you&#39;ve ever seen!&lt;/p&gt;
-&lt;p&gt;RSVP Here: &lt;a href=&quot;https://forms.gle/RjQEGN1NgCy5ih4P8&quot;&gt;https://forms.gle/RjQEGN1NgCy5ih4P8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Event starts at 7 p.m.&lt;/p&gt;
-&lt;p&gt;Hosted by Duncan and Erica.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/05-cybermania/</guid>
-    </item>
-    <item>
-      <title>WIP Night</title>
-      <link>https://sabby.gallery/events/2024/04-wip-night/</link>
-      <description>&lt;p&gt;Our fourth work in progress night, come and showcase and get feedback on your creative works no matter their current state of development. Signup forms for showcasing and more info in the #WIP-Night Channel on our discord.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-wip-night/</guid>
-    </item>
-    <item>
-      <title>Zine Club</title>
-      <link>https://sabby.gallery/events/2024/04-zine-club/</link>
-      <description>&lt;p&gt;Zine Club is back in April! Come hang out, make a zine or two. Supplies are provided but feel free to BYO if you have extra stuff you want to use (and share!).&lt;/p&gt;
-</description>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-zine-club/</guid>
-    </item>
-    <item>
-      <title>Fake Beyblade Tournament</title>
-      <link>https://sabby.gallery/events/2024/04-beyblade/</link>
-      <description>&lt;p&gt;The return of our silly Beyblade tournaments, bring a spinning top, make a spinning top or use one of ours. A secret Raid Boss fight is planned for after the tournament.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-beyblade/</guid>
-    </item>
-    <item>
-      <title>Game-A-Week Play Party 2024</title>
-      <link>https://sabby.gallery/events/2024/04-game-a-week/</link>
-      <description>&lt;p&gt;A showcase of spectacular local games made in only a week!&lt;/p&gt;
-</description>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-game-a-week/</guid>
-    </item>
-    <item>
-      <title>PS2 Book Club</title>
-      <link>https://sabby.gallery/events/2024/04-ps2-book-club/</link>
-      <description>&lt;p&gt;Hosted by the wonderful &lt;a href=&quot;https://bsky.app/profile/brumley53.bsky.social&quot;&gt;Fraser&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-ps2-book-club/</guid>
-    </item>
-    <item>
-      <title>Crafternoon</title>
-      <link>https://sabby.gallery/events/2024/04-crafternoon/</link>
-      <description>&lt;p&gt;We ae having a chill event to do some fun crafts - we’ve got some rolled banners to be painted and plenty of materials for folks to craft however they like.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/04-crafternoon/</guid>
-    </item>
-    <item>
-      <title>Presentation Day</title>
-      <link>https://sabby.gallery/events/2024/03-presentation-day/</link>
-      <description>&lt;p&gt;An afternoon of silly AND interesting PowerPoint presentations. To expect: Chill vibes, infodumping, people being professionally silly (or absurdly professional?).&lt;/p&gt;
-&lt;p&gt;(SUBMISSIONS CLOSED)&lt;/p&gt;
-</description>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/03-presentation-day/</guid>
-    </item>
-    <item>
-      <title>Sabby Movie Night: Room (2015) and Ex Machins (2014)</title>
-      <link>https://sabby.gallery/events/2024/03-movie-night/</link>
-      <description></description>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/03-movie-night/</guid>
-    </item>
-    <item>
-      <title>Zine Club</title>
-      <link>https://sabby.gallery/events/2024/03-zine-club/</link>
-      <description>&lt;p&gt;Zine Club is back in April! Come hang out, make a zine or two. Supplies are provided but feel free to BYO if you have extra stuff you want to use (and share!).&lt;/p&gt;
-</description>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/03-zine-club/</guid>
-    </item>
-    <item>
-      <title>PS2 Book Club</title>
-      <link>https://sabby.gallery/events/2024/03-ps2-book-club/</link>
-      <description>&lt;p&gt;Hosted by the wonderful &lt;a href=&quot;https://bsky.app/profile/brumley53.bsky.social&quot;&gt;Fraser&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/03-ps2-book-club/</guid>
-    </item>
-    <item>
-      <title>Stretches for the Stationary</title>
-      <link>https://sabby.gallery/events/2024/03-stretches/</link>
-      <description>&lt;p&gt;A free workshop to help the deskbound, hosted by exercise physiologist Zoe! Suited for folks at any level of flexibility and fitness.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/03-stretches/</guid>
-    </item>
-    <item>
-      <title>WIP Night</title>
-      <link>https://sabby.gallery/events/2024/02-wip-night/</link>
-      <description>&lt;p&gt;Our fourth work in progress night, come and showcase and get feedback on your creative works no matter their current state of development. Signup forms for showcasing and more info in the &lt;code&gt;#WIP-Night&lt;/code&gt; channel on our discord.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-wip-night/</guid>
-    </item>
-    <item>
-      <title>Stretches for the Stationary</title>
-      <link>https://sabby.gallery/events/2024/02-stretches/</link>
-      <description>&lt;p&gt;A free workshop to help the deskbound, hosted by exercise physiologist Zoe! Suited for folks at any level of flexibility and fitness.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-stretches/</guid>
-    </item>
-    <item>
-      <title>Zine Club</title>
-      <link>https://sabby.gallery/events/2024/02-zine-club/</link>
-      <description>&lt;p&gt;Our Monthly Zine Club event. Come make cool zines no matter what your previous experience. Resources available here but folks are always welcome to bring in their own.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-zine-club/</guid>
-    </item>
-    <item>
-      <title>Lovely Letters</title>
-      <link>https://sabby.gallery/events/2024/02-lovely-letters/</link>
-      <description>&lt;p&gt;This envelope wall and messages will be up for a week for folks to read and share.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-lovely-letters/</guid>
-    </item>
-    <item>
-      <title>PS2 Book Club</title>
-      <link>https://sabby.gallery/events/2024/02-ps2-book-club/</link>
-      <description>&lt;p&gt;Two folks have picked out a PS2 game to talk about then we play through them a bit as a group.&lt;/p&gt;
-&lt;p&gt;Hosted by the wonderful &lt;a href=&quot;https://bsky.app/profile/brumley53.bsky.social&quot;&gt;Fraser&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-ps2-book-club/</guid>
-    </item>
-    <item>
-      <title>Modular People</title>
-      <link>https://sabby.gallery/events/2024/02-modular-people/</link>
-      <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/02-modular-people/</guid>
-    </item>
-    <item>
-      <title>WIP Night</title>
-      <link>https://sabby.gallery/events/2024/01-wip-night/</link>
-      <description>&lt;p&gt;Our first ever work in progress night. Sign-ups for those wanting to show work otherwise come along and give your thoughts and have some drinks. See the &lt;code&gt;#WIP-Night&lt;/code&gt; discord channel for more deets.&lt;/p&gt;
-&lt;p&gt;(SIGNUPS CLOSED)&lt;/p&gt;
-</description>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/01-wip-night/</guid>
-    </item>
-    <item>
-      <title>Beyblade Tournament 2</title>
-      <link>https://sabby.gallery/events/2024/01-beyblade/</link>
-      <description>&lt;p&gt;Calling all spinning top enjoyers it&#39;s time for another beyblade battle!! Make your own silly spinning top and spin to win! See poster for additional rules.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/01-beyblade/</guid>
-    </item>
-    <item>
-      <title>Zine Club</title>
-      <link>https://sabby.gallery/events/2024/01-zine-club/</link>
-      <description>&lt;p&gt;Our monthly Zine club. Come along and chill while making some Zines. Prep for Festival of the Photocopier likely.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Zine Clubs will now always be the third Saturday of the Month.&lt;/em&gt;&lt;/p&gt;
-</description>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/01-zine-club/</guid>
-    </item>
-    <item>
-      <title>Sabby Movie Night: Tampopo (1985) and ramen</title>
-      <link>https://sabby.gallery/events/2024/01-movie-night/</link>
-      <description>&lt;p&gt;Doors at 6pm&lt;/p&gt;
-&lt;p&gt;Movie at 7pm&lt;/p&gt;
-&lt;p&gt;Please RSVP so we know how many bowls of ramen to make.&lt;/p&gt;
-&lt;p&gt;Vegan ramen for $10&lt;/p&gt;
-&lt;p&gt;Tonkotsu (Pork) ramen for $15&lt;/p&gt;
-&lt;p&gt;Cup noodles for $5&lt;/p&gt;
-&lt;p&gt;&amp;quot;Tampopo&amp;quot; (1985) is a Japanese film directed by Juzo Itami, celebrated for its whimsical comedy. The story centers around Tampopo, a widow aspiring to perfect her ramen shop. With the help of a charismatic truck driver and a diverse cast of characters, the film explores the pursuit of culinary excellence while offering satirical commentary on Japanese culture. Known for its playful tone and inventive storytelling, &amp;quot;Tampopo&amp;quot; is a delightful blend of comedy, drama, and surreal elements that makes it a memorable cinematic experience.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2024/01-movie-night/</guid>
-    </item>
-    <item>
-      <title>Sabby NYE</title>
-      <link>https://sabby.gallery/events/2023/12-NYE/</link>
-      <description>&lt;p&gt;The offical launch of Sabby and the new branding. Come celebrate all the wonderful memories we&#39;ve made here throughout our first year.&lt;/p&gt;
-&lt;p&gt;Red Carpet vibes so dress up if you want!&lt;/p&gt;
-</description>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2023/12-NYE/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Tales &amp; Threads</title>
       <link>https://sabby.gallery/events/2023/12-tales-and-threads/</link>
       <description>&lt;p&gt;Games&lt;/p&gt;
@@ -2044,8 +1258,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/12-tales-and-threads/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2023/12-zine-club/</link>
       <description>&lt;p&gt;The final Zine Club for 2023!&lt;/p&gt;
@@ -2054,8 +1267,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/12-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Animated Shorts Night</title>
       <link>https://sabby.gallery/events/2023/11-animated-shorts/</link>
       <description>&lt;p&gt;Bring in shorts with no more than a combined length of twenty minutes per person.&lt;/p&gt;
@@ -2064,24 +1276,14 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/11-animated-shorts/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Fake Beyblade Tournament</title>
       <link>https://sabby.gallery/events/2023/11-beyblade/</link>
       <description>&lt;p&gt;Calling all spinning top enjoyers it&#39;s time for a fake beyblade battle!! Make your own silly spinning top and spin to win! See the poster for rules.&lt;/p&gt;
 </description>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/11-beyblade/</guid>
-    </item>
-    <item>
-      <title>Modular People</title>
-      <link>https://sabby.gallery/events/2023/11-modular-people/</link>
-      <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2023/11-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip</title>
       <link>https://sabby.gallery/events/2023/11-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -2089,8 +1291,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/11-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2023/11-zine-club/</link>
       <description>&lt;p&gt;Zine Club needs no introduction, and it’s back in November!&lt;/p&gt;
@@ -2099,8 +1300,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/11-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>At Least Seven</title>
       <link>https://sabby.gallery/events/2023/11-at-least-seven/</link>
       <description>&lt;p&gt;The official unveiling of Sabby&#39;s new viewing room!! Come along to celebrate film history, play themed games, plan future movie nights and rent out media yourself!&lt;/p&gt;
@@ -2108,8 +1308,7 @@ Supplies are provided but feel free to BYO if you have extra stuff you want to u
 </description>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/11-at-least-seven/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Hallowbound Halloween Trivia I</title>
       <link>https://sabby.gallery/events/2023/10-halloween-trivia/</link>
       <description>&lt;p&gt;Is your mind burdened by terrible knowledge? Or have your brains already rotted away? Whatever state your skull is in, get ready for Halloween Trivia!&lt;br /&gt;
@@ -2119,16 +1318,7 @@ Hosted by Mads!&lt;/p&gt;
 </description>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/10-halloween-trivia/</guid>
-    </item>
-    <item>
-      <title>Modular People</title>
-      <link>https://sabby.gallery/events/2023/10-modular-people/</link>
-      <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2023/10-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2023/10-zine-club/</link>
       <description>&lt;p&gt;Zine Club needs no introduction, and it’s back in October!&lt;/p&gt;
@@ -2137,16 +1327,14 @@ Hosted by Mads!&lt;/p&gt;
 </description>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/10-zine-club/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Crafternoon</title>
       <link>https://sabby.gallery/events/2023/09-crafternoon/</link>
       <description>&lt;p&gt;We ae having a chill event to do some fun crafts - we’ve got some rolled banners to be painted and plenty of materials for folks to craft however they like.&lt;/p&gt;
 </description>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/09-crafternoon/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Horror Movie Night</title>
       <link>https://sabby.gallery/events/2023/08-horror-movie-night/</link>
       <description>&lt;p&gt;6pm - Barbarian&lt;br /&gt;
@@ -2154,8 +1342,7 @@ Hosted by Mads!&lt;/p&gt;
 </description>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/08-horror-movie-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Zine Workshop</title>
       <link>https://sabby.gallery/events/2023/8-zine-workshop/</link>
       <description>&lt;p&gt;Come along for a chill and cosy afternoon of zine making at Sabbatical Gallery!  Seasoned zine maker Tegan (&lt;a href=&quot;https://teganewebb.neocities.org/&quot;&gt;https://teganewebb.neocities.org/&lt;/a&gt;) will be around to show you some techniques and share zines from her collection for inspiration. It&#39;s gonna be fun!&lt;/p&gt;
@@ -2163,16 +1350,14 @@ Hosted by Mads!&lt;/p&gt;
 </description>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/8-zine-workshop/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Modular People</title>
       <link>https://sabby.gallery/events/2023/08-modular-people/</link>
       <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
 </description>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/08-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Sabby Movie Night</title>
       <link>https://sabby.gallery/events/2023/08-sabby-movie-night/</link>
       <description>&lt;p&gt;6pm - Pride&lt;br /&gt;
@@ -2180,24 +1365,21 @@ Hosted by Mads!&lt;/p&gt;
 </description>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/08-sabby-movie-night/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Modular People</title>
       <link>https://sabby.gallery/events/2023/07-modular-people/</link>
       <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
 </description>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/07-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Modular People</title>
       <link>https://sabby.gallery/events/2023/06-modular-people/</link>
       <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
 </description>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/06-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Ancestral Threads: Season 2</title>
       <link>https://sabby.gallery/events/2023/05-ancestral-threads/</link>
       <description>&lt;p&gt;This exhibition presents work from first year students doing the course Creative Practice 1 in the Bachelor of Design, Games at RMIT University.&lt;/p&gt;
@@ -2217,8 +1399,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/05-ancestral-threads/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Fire Noodle Eating Champs Launch</title>
       <link>https://sabby.gallery/events/2023/05-fire-noodle-eating-champs-launch/</link>
       <description>&lt;p&gt;Celebrate the launch of Fire Noodle Eating Champs: The Dice Game with a Food Themed Game Night!&lt;/p&gt;
@@ -2231,8 +1412,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/05-fire-noodle-eating-champs-launch/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Table Flip</title>
       <link>https://sabby.gallery/events/2023/05-table-flip/</link>
       <description>&lt;p&gt;Table Flip! Board games! Card games (as a treat?)! &amp;quot;Anything but video&amp;quot; games!&lt;/p&gt;
@@ -2240,8 +1420,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/05-table-flip/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Andy Brophy Tricennial</title>
       <link>https://sabby.gallery/events/2023/04-andy-brophy-tricennial/</link>
       <description>&lt;p&gt;An Andy Brophy retrospective, showing 12 games made between ages 12-30 including never-released projects.&lt;/p&gt;
@@ -2249,8 +1428,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/04-andy-brophy-tricennial/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Modular People</title>
       <link>https://sabby.gallery/events/2023/04-modular-people/</link>
       <description>&lt;p&gt;Our Monthly Modular Synth Night, come along with some gear and jam and chill with folks.&lt;/p&gt;
@@ -2258,16 +1436,14 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/04-modular-people/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Game-A-Week Play Party 2023</title>
       <link>https://sabby.gallery/events/2023/03-game-a-week/</link>
       <description>&lt;p&gt;A showcase of spectacular local games made in only a week!&lt;/p&gt;
 </description>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/03-game-a-week/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Serenade Showcase</title>
       <link>https://sabby.gallery/events/2023/02-serenade/</link>
       <description>&lt;p&gt;Our good friends from Sydney&#39;s &lt;a href=&quot;https://serenade.games/&quot;&gt;Serenade&lt;/a&gt; are collaborating with Sabby to bring a showcase of weird and wonderful games made in NSW.&lt;/p&gt;
@@ -2283,8 +1459,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/02-serenade/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Queer Boardgame Afternoon</title>
       <link>https://sabby.gallery/events/2023/01-queer-boardgame-afternoon/</link>
       <description>&lt;p&gt;We have a great selection of the finest board games for you!&lt;/p&gt;
@@ -2294,8 +1469,7 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/01-queer-boardgame-afternoon/</guid>
-    </item>
-    <item>
+    </item><item>
       <title>Ready Set Go</title>
       <link>https://sabby.gallery/events/2023/01-ready-set-go/</link>
       <description>&lt;h2 id=&quot;games-and-devs&quot; tabindex=&quot;-1&quot;&gt;Games and Devs&lt;/h2&gt;
@@ -2310,27 +1484,6 @@ Selecting a theme common to their individual works, small groups have come toget
 </description>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2023/01-ready-set-go/</guid>
-    </item>
-    <item>
-      <title>Ludum Dare 52</title>
-      <link>https://sabby.gallery/events/2023/01-ludum-dare/</link>
-      <description>&lt;p&gt;The Theme for Ludum Dare 52 is...&lt;/p&gt;
-&lt;p&gt;Harvest 🌽&lt;/p&gt;
-&lt;p&gt;For those not fmailiar with what a Game Jam is, it&#39;s a set amount of time where people will get together in to a team, make a game, and upload it for other participants to play.&lt;/p&gt;
-&lt;p&gt;Sometimes there is voting, prizes, mentors, judges, workshops in the lead up, or other opportunities. Sometimes jams are in person, usually they are online.&lt;/p&gt;
-&lt;p&gt;Ludum Dare, works that everyone leaves comments/feedback on eachother&#39;s games and votes for what elements of the game are outstanding. Then everyone gets a rank.&lt;/p&gt;
-&lt;p&gt;Ludum Dare has been going for years and years and years, and is known to be one of the more artier game jams, and one that a lot more older developers will participate in compared to others.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2023/01-ludum-dare/</guid>
-    </item>
-    <item>
-      <title>Sabby NYE</title>
-      <link>https://sabby.gallery/events/2022/12-NYE/</link>
-      <description>&lt;p&gt;Sabbatical Gallery&#39;s first event and launch!&lt;/p&gt;
-</description>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://sabby.gallery/events/2022/12-NYE/</guid>
     </item>
   </channel>
 </rss>
