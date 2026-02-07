@@ -5,6 +5,7 @@ time: 2PM to 6PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"
 calendarOnly: true
+poster: "ZineClub-March2026.jpg"
 tickets: https://events.humanitix.com/zine-club
 ---
 
