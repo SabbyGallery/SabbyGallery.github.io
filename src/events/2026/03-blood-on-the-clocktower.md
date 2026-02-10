@@ -5,6 +5,7 @@ time: 2PM till late
 tags: [table-flip]
 blurb: "Your favourite social deduction game"
 calendarOnly: true
+poster: "BloodOnTheClocktower-Mar2026.jpg"
 tickets: https://events.humanitix.com/sabby-botc
 ---
 
