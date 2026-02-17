@@ -4,7 +4,6 @@ date: 2026-03-28
 time: 5PM to 10PM
 tags: [game-a-week]
 blurb: "A night of weird and wonderful local games."
-calendarOnly: true
 tickets: https://events.humanitix.com/game-a-week
 ---
 
