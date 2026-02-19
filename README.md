@@ -58,8 +58,6 @@ The body of the markdown is simply used as the full event description (shown on 
 
 To make a new event, simply create a new file (following the naming convention `MM-event-name.md (MM = month)`, copypaste then edit the frontmatter from another event.
 
-> To make a file not appear in the build, add the field `draft: true` to the frontmatter.
-
 If you are already running a local server (by running `npm start`), the website should automatically update when you save. 
 You can use this to preview and verify your changes before committing them to the repo.
 
