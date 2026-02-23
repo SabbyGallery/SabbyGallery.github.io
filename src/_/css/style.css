@@ -243,6 +243,28 @@ li {
 	padding-block: 4px;
 }
 
+dl > div {
+	margin-block-start: 16px;
+}
+
+dt {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+dd {
+	margin-inline-start: 1em;
+}
+
+dd ul {
+	padding: 0;
+}
+
+dl:has(ul) dd:not(:has(ul))::before {
+	content: "— ";
+	margin-inline-start: -1em;
+}
+
 a {
 	color: var(--pink);
 	text-decoration: underline 2px;
@@ -271,6 +293,15 @@ section.frame {
 .flex-col {
 	display: flex;
 	flex-flow: row wrap;
+}
+
+.flex-row {
+	display: flex;
+	flex-flow: column wrap;
+
+	> * {
+		flex: 1;
+	}
 }
 
 .flex-col .title {
