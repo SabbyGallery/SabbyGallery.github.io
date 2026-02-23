@@ -15,3 +15,5 @@ What's on the menu, you ask? Only the coolest 90's inspired TV dinner you've eve
 RSVP Here: https://forms.gle/RjQEGN1NgCy5ih4P8
 
 Event starts at 7 p.m.
+
+Hosted by Duncan and Erica.

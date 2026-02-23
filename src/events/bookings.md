@@ -1,20 +1,18 @@
 ---
-title: Book an Event
+title: Host An Event At Sabby
 poster: "Booking-Callout.jpg"
 blurb: "Sabby is open for event bookings!"
-hidden: true
 ---
 
 Game Jam? 
 Launch Party?
 Gallery Show?
 Playtest Session?
-Birthday Party?
 Film Screening?
 Book Club?
 
 *Need a space for your next event?*
 
-We can accomodate for public and private events.
+We can accomodate for public and community events.
 
 If you're interested, <a href="/contact/">get in touch!</a>

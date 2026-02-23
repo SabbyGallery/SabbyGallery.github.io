@@ -7,3 +7,5 @@ blurb: "Meet up, talk about PS2 games, then play those games."
 ---
 
 Two folks have picked out a PS2 game to talk about then we play through them a bit as a group.
+
+Hosted by the wonderful [Fraser](https://bsky.app/profile/brumley53.bsky.social).

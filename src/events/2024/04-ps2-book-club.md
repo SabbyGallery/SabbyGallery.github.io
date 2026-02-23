@@ -5,3 +5,5 @@ tags: [ps2-book-club]
 poster: "PS2BookClub-April2024.jpg"
 blurb: "Meet up, talk about PS2 games, then play those games."
 ---
+
+Hosted by the wonderful [Fraser](https://bsky.app/profile/brumley53.bsky.social).

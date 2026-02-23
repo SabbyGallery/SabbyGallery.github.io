@@ -1,9 +1,9 @@
 ---
-title: May Open Meeting 2
-date: 2025-05-24
+title: "May Open Meeting #1"
+date: 2025-05-10
 time: from 2PM
 tags: [meeting]
-poster: "OpenMeeting-May2025_24.jpg"
+poster: "OpenMeeting-May2025_10.jpg"
 blurb: "Help discuss Sabby plans!"
 ---
 

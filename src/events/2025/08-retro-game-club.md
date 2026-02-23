@@ -12,6 +12,11 @@ PS2 Book Club is gone, long live Retro Games Club! Come present games from from 
 
 There's no console theme for August so feel free to present whatever weird or interesting stuff that you wanna show off, or just come along and listen to passionate folks talk about older games!
 
-Hosted by the gregarious Stella and Zach.
-	
+Hosted by the gregarious [Stella](https://bsky.app/profile/caterwauling.bsky.social) and [Zach](https://zachariahchandler.itch.io/).
+
+Speakers:
+Gabe - Duke Nukem Forever
+Audrey - Kirby 64: The Crystal Shards
+Ryan - Dinosaur Discovery
+
 [Signup to talk!](https://forms.gle/TaNh2JhfwrDKvScw6){.button}

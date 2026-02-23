@@ -14,8 +14,15 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
-Hosted by Brandon and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
+Hosted by [Brandonhare](https://brandonhare.com/) and Cam while [Max](https://bsky.app/profile/kearneymax.bsky.social) is in Japan.
 
+# Games
+Drag Face Recognition Prototype by [James Bot](https://www.instagram.com/bonk.jamesbonk/)
+Namtarot by [Kira](https://kiramakesgames.itch.io/)
+Pixel Sand Game Prototype by Angel
+Purr Plate by [LeankomGames](https://store.steampowered.com/app/4056210/Purrplate_Demo/)
+[The New World](https://ling8848.itch.io/the-new-world) by [Ling Zheng](https://lingzheng8848.myportfolio.com/about-me)
+[Wizard Punks](https://store.steampowered.com/app/3332770/WIZARD_PUNKS/) by [Hugh](http://www.stormcatgames.com/)
 <hr>
 
 [Submit your project](https://forms.gle/2qV4Zu9DrGhRCHy49){.button}

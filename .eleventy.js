@@ -1,6 +1,6 @@
 // Official Eleventy Plugins
 const pluginNavigation = require("@11ty/eleventy-navigation");
-//const pluginRSS = require("@11ty/eleventy-plugin-rss");
+const pluginRSS = require("@11ty/eleventy-plugin-rss");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 // markdown-it plugins
@@ -36,7 +36,7 @@ module.exports = function(config) {
 
 	config.addCollection("upcoming", (collection) => {
 		return collection.getFilteredByTag('events').filter((item) => {
-			return (item.data.date > current || item.data.endDate > current) && item.data.calendarOnly != true;
+			return (item.data.date > current || item.data.endDate > current || item.data.upcomingNoDate == true) && item.data.calendarOnly != true;
 		});
 	});
 
@@ -173,7 +173,7 @@ module.exports = function(config) {
 	// Plugins
 	config.addPlugin(EleventyHtmlBasePlugin);
 	config.addPlugin(pluginNavigation);
-	//config.addPlugin(pluginRSS);
+	config.addPlugin(pluginRSS);
 	config.addPlugin(pluginToc, {
 		tags: ["h2", "h3", "h4", "h5", "h6"],
 		wrapper: "div",

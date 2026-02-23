@@ -14,6 +14,16 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
+# Games
+Bug Brains
+Grind Loop
+I of the Storm
+Lamina Bruise
+Liminal
+Namtarot
+Style Slasher
+Whisper Bound
+
 Hosted by [Max](https://bsky.app/profile/kearneymax.bsky.social).
 
 <hr>

@@ -17,7 +17,7 @@ Boshi's Place will be showing Sabby's curation of games and zines from the melbo
 
 We may even find a beautiful portal opening between our two spaces at some point during the night...
 
-Poster by [Duncan Corrigan](https://www.instagram.com/workboyduncan/) and Sav.
+Poster by [Duncan Corrigan](https://www.instagram.com/workboyduncan/) and [Sav](https://www.instagram.com/beeflover1_/).
 
 ## Time
 From 7pm US Eastern Standard Time
@@ -26,11 +26,11 @@ From 7pm US Eastern Standard Time
 1002 Metropolitan Avenue Brooklyn, New York 11211
 
 ## Devs & Games
-- WHISKEY.ST2007S (Bora Erdogan)
-- Brandon Teaches Typing (Brandonhare)
-- SUDDEN DEATH (Cecile Richard & Nat_Pussy)
-- Gabe's Secret Game (Gabriel Wake)
-- Threshold (Jade Britzman)
-- FelineQuest 2455: Rise of the Dogminion (Piper Adam & Stella Karalis)
-- City of Piss (Siobhan Dent & Maxwell Kearney)
-- Nobody Nose (Zac Lucarelli)
+- [WHISKEY.ST2007S](https://bonicle.itch.io/whiskey-st2007nes) ([Bora Erdogan](https://bsky.app/profile/bonicle.bsky.social))
+- [Brandon Teaches Typing](https://brandonhare.itch.io/typing) ([Brandonhare](https://brandonhare.com/))
+- [SUDDEN DEATH](https://dominoclub.itch.io/sudden-death) ([Cecile Richard](https://cecilerichard.design/) & [Nat_Pussy](https://nat-pussy.itch.io/))
+- [Sabby Doom](https://www.youtube.com/watch?v=ip2wVUpytek) ([Gabriel Wake](https://bsky.app/profile/giwake.bsky.social))
+- [Threshold](https://faeriefire.itch.io/threshold) ([Jade Britzman](https://bsky.app/profile/jadefae.bsky.social))
+- FelineQuest 2455: Rise of the Dogminion (Piper Adam & [Stella Karalis](https://bsky.app/profile/caterwauling.bsky.social))
+- [City of Piss](https://siobhan-dent.itch.io/city-of-piss) ([Siobhan Dent](https://siobhan.creature.love/) & [Maxwell Kearney](https://bsky.app/profile/kearneymax.bsky.social))
+- [Nobody Nose](https://duck.pizza/Games/nose/) ([Zac Lucarelli](https://bsky.app/profile/duck.pizza))
