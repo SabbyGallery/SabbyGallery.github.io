@@ -1,24 +1,4 @@
-# sabby
-
-Website for Sabby Gallery, made in [Eleventy](https://www.11ty.dev/).
-
-## Requirements
-- Install [Node.js](https://nodejs.org/en)
-- **Code Editor** (VSCode, Sublime Text, etc.) for making changes.
-- **Git** for pushing updates (if you have access to this repo)
-
-Check whether you have Node installed correctly by running `node --version` in a terminal window.
-Node includes `npm` (Node Package Manager), so you should also be able to run `npm -v` as well.
-
-## Getting Started
-1. Clone/download this repository (extract the `.zip` if downloading)
-2. Open the `/sabby/` folder in your terminal window.
-3. Run `npm install` to install dependencies.
-4. Run `npm start` to serve a local version of the website, which you can open in your browser for testing. (e.g. `https://localhost:8080`)
-
-## Making Changes
-
-### Adding New Events
+# ![Sabby Co-op](./src/img/SABBY_Colour_DarkBackground_Trans.svg)
 
 If you just want to make content updates (e.g. adding new events), then you only need to pay attention to the following subfolder:
 
