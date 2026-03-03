@@ -1,12 +1,13 @@
 ---
 title: WIP Night
-date: 2026-03-21
+date: 2026-04-25
 time: 7PM to 10PM
 tags: [wip-night]
 blurb: "Work-In-Progress Night!"
-poster: "WIPNight-Mar2026.jpg"
-tickets: https://events.humanitix.com/wip-night
+calendarOnly: true
 ---
+
+*Tentative April date! Full details, tickets and poster coming soon!*
 
 Work-In-Progress Night!
 

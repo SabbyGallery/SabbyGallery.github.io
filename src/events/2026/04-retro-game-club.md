@@ -1,14 +1,15 @@
 ---
 title: Retro Games Club
-date: 2026-03-14
+date: 2026-04-11
 time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from from PS3/360/Wii era & back."
-poster: "RetroGamesClub-Mar2026.jpg"
-tickets: https://events.humanitix.com/retro-games-club
+calendarOnly: true
 ---
 
-The first Retro Games Club at our new building!
+*Tentative April date! Full details, tickets and poster coming soon!*
+
+The scond Retro Games Club at our new building!
 
 Come along and check out the weird, interesting and passionate presentations that are mostly... usually about Retro Games.
 

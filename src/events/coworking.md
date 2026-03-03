@@ -1,6 +1,6 @@
 ---
 title: Co-Working
-blurb: "Currently paused while we settle in to our new building!"
+blurb: "Monday to Thursday from 12 p.m. to 5 p.m"
 hidden: true
 ---
 

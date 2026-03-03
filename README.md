@@ -101,4 +101,4 @@ If you need help, [reach out to the web team](#questions).
 
 ## Questions
 
-If you are stuck or need help, please reach out to the website team (jae and elly) in the [IT department channel](https://discord.com/channels/1013363553723494421/1465241081946968137), we're here to help!
+If you are stuck or need help, please ask @heygleeson or @jemztones!
