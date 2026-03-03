@@ -2,6 +2,8 @@
 
 ## Making content changes
 
+First you will need to [create](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) and [setup](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) a GitHub account. Then you will need to reach out to the [IT department channel](https://discord.com/channels/1013363553723494421/1465241081946968137) to get invited as a [collaborator on the repo](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository).
+
 You can edit files directly on GitHub in any of your repositories using the file editor. Follow this guide on [Editing files with the GitHub file editor](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
 ### Adding new events
@@ -103,4 +105,4 @@ If you need help, [reach out to the web team](#questions).
 
 ## Questions
 
-If you are stuck or need help, please ask @heygleeson or @jemztones!
+If you are stuck or need help, please reach out to the website team (jae and elly) in the [IT department channel](https://discord.com/channels/1013363553723494421/1465241081946968137), we're here to help!
