@@ -5,7 +5,7 @@ permalink: /code-of-conduct-and-rules/
 ---
 
 ## Code of Conduct
-Welcome to Sabby Gallery! It is a requirement of entry that you read everything here before interacting, so please take the time to do so.
+Welcome to Sabby Co-op! It is a requirement of entry that you read everything here before interacting, so please take the time to do so.
 
 This Code of Conduct is open to adjustment by a quorum of members.
 
