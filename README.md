@@ -2,6 +2,8 @@
 
 ## Making content changes
 
+You can edit files directly on GitHub in any of your repositories using the file editor. Follow this guide on [Editing files with the GitHub file editor](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+
 ### Adding new events
 
 If you just want to make content updates (e.g. adding new events), then you only need to pay attention to the following subfolder:
