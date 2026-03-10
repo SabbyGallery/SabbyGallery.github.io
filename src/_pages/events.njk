@@ -8,31 +8,27 @@ eleventyImport:
 
 <style>.frame { --frameBg: var(--grey) }</style>
 
-<section id="upcoming">
-	<h1>Upcoming Events</h1>
+<h1>Events</h1>
+
+<section id=upcoming>
+	<h2>Upcoming Events</h2>
 
 	<p>These are the events happening soon! You can also check out the <a href="/calendar/">calendar view</a>.</p>
 
-	<ul class="event-list">
+	<ul class=event-list>
 	{% for event in collections.upcoming %}
 		<li>
-		<a href="{{event.url}}">
-		{% if event.data.poster -%}
-			<img class="poster-thumb" src="/img/posters/{{ event.data.poster }}">
-		{%- else %}
-			<img class="poster-thumb" src="/img/posters/MysteryEvent.jpg">
-		{%- endif %}
-		</a>
-		<p><a href="{{event.url}}">{{ event.data.title }}</a>
-
-		<br>{{ event.data.blurb }}</p>
-		{# <i>{{ event.data.date | readableDate }} </i> #}
-		{% if event.data.date -%}
-			<i>
-			{{ event.data.date | shortDate }} {% if event.data.endDate %} — {{ event.data.endDate | shortDate }} {%- endif -%}
-			{% if event.data.time %} <span class="divider">—</span> {{ event.data.time }} {%- endif -%}
-			</i>
-		{%- endif %}
+			<a href="{{event.url}}">
+				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEvent.jpg" }}" alt=""></span>
+				<span class=event-title>{{ event.data.title }}</span>
+			</a>
+			<p>{{ event.data.blurb }}</p>
+			{% if event.data.date -%}
+			<em>
+				{{ event.data.date | shortDate }} {% if event.data.endDate %} — {{ event.data.endDate | shortDate }} {%- endif -%}
+				{% if event.data.time %} <span class=divider>—</span> {{ event.data.time }} {%- endif -%}
+			</em>
+			{%- endif %}
 		</li>
 	{% endfor %}
 	</ul>
@@ -40,34 +36,19 @@ eleventyImport:
 
 <hr aria-hidden=true>
 
-<section id="recurring">
-	<h1>Recurring Events and Expressions of Interest</h1>
+<section id=recurring>
+	<h2>Recurring Events and Expressions of Interest</h2>
 
 	<p>These are our recurring events, call-outs and current Expressions of Interest.</p>
 
-	<ul class="event-list">
+	<ul class=event-list>
 	{% for event in collections.recurring %}
-		<li> 
-		{%- if event.data.link == null -%}
-            <a href="{{ event.url }}">
-        {%- else  -%}
-            <a href="{{ event.data.link }}">
-        {%- endif -%}
-        {% if event.data.poster -%}
-            <img class="poster-thumb" src="/img/posters/{{ event.data.poster }}">
-        {%- else %}
-            <img class="poster-thumb" src="/img/posters/MysteryEvent.jpg">
-        {%- endif %}
-		</a>
-		<p>
-            {%- if event.data.link == null -%}
-            <a href="{{ event.url }}">
-            {%- else  -%}
-                <a href="{{ event.data.link }}">
-            {%- endif -%}
-            {{ event.data.title }}</a>
-
-		<br>{{ event.data.blurb }}</p>
+		<li>
+			<a href="{{ event.data.link or event.url }}">
+				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEvent.jpg" }}" alt=""></span>
+				<span class=event-title>{{ event.data.title }}</span>
+			</a>
+			<p>{{ event.data.blurb }}</p>
 		</li>
 	{% endfor %}
 	</ul>
@@ -76,10 +57,10 @@ eleventyImport:
 <hr aria-hidden=true>
 
 <section>
-	<a class="button" href="/calendar/">See Event Calendar</a>
-	<a class="button" target="_blank" href="{{ site.link.humanitix }}">See Events on Humanitix</a>
-	<a class="button" target="_blank" href="https://calendar.google.com/calendar/embed?src=ab5d821d6b03d54c9cf28dacf754969af22f68d09d57a313d65704ea4fe5d010%40group.calendar.google.com&ctz=Australia%2FMelbourne">Sabby Google Calendar</a>
-	<a class="button" href="/past-events/">See past events</a>
+	<a class=button href=/calendar/>See Event Calendar</a>
+	<a class=button href="{{ site.link.humanitix }}">See Events on Humanitix</a>
+	<a class=button href="https://calendar.google.com/calendar/embed?src=ab5d821d6b03d54c9cf28dacf754969af22f68d09d57a313d65704ea4fe5d010%40group.calendar.google.com&ctz=Australia%2FMelbourne">Sabby Google Calendar</a>
+	<a class=button href=/past-events/>See past events</a>
 </section>
 
 <hr aria-hidden=true>
