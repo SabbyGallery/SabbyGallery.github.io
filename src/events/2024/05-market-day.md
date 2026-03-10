@@ -9,7 +9,7 @@ blurb: "Market day at Sabby!"
 
 Featuring cool local art, crafts and zines, Sabby's Market Day is a cozy little fair. Come along and support local artists!
 
-<hr>
+<hr aria-hidden=true>
 
 *Expression of Interest*
 

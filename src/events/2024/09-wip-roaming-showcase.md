@@ -12,7 +12,7 @@ Work-In-Progress Roaming Showcase!
 Our first WIP Night spin-off! A social, exhibition-style spin on our WIP events. 
 Check out Roaming Showcase to see cool work in progress projects from local devs and artists!
 
-<hr>
+<hr aria-hidden=true>
 
 *Submissions for presentations*
 

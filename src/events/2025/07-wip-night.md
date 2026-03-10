@@ -13,7 +13,7 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
-<hr>
+<hr aria-hidden=true>
 
 [Reserve A Spot!](https://events.humanitix.com/wip-night-feedback-forum){.button}
 

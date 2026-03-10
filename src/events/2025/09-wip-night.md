@@ -26,6 +26,6 @@ Whisper Bound
 
 Hosted by [Max](https://bsky.app/profile/kearneymax.bsky.social).
 
-<hr>
+<hr aria-hidden=true>
 
 [Submit your project](https://forms.gle/2qV4Zu9DrGhRCHy49){.button}
