@@ -4,7 +4,7 @@ date: 2026-03-29
 time: 12PM
 tags: [workshop]
 blurb: "Did you know that changing your legal name and gender marker is free in Victoria?"
-calendarOnly: true
+poster: "LegalNameChangeWorkshop-Mar2026.jpg"
 ---
 
 In November 2025, after decades of advocacy and activism from the trans and gender diverse community, the Victorian government removed every cost associated with changing gender markers on birth certificates.
