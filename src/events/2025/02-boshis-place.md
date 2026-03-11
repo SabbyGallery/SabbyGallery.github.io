@@ -25,10 +25,10 @@ Play Mario by d.h. croasdill
 Magenta Gunslinger by @spacelionz
 Autograv by A.C. Gaudette
 
-<hr>
+<hr aria-hidden=true>
 
 To read about the games we're sending to New York please see the page for [Sabby At Boshi's Place](../02-sabby-at-boshis).
 
-<hr>
+<hr aria-hidden=true>
 
 This is an official [Max International Games Weekend (MIGW)](../02-max-international-games-weekend) event.

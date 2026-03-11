@@ -13,7 +13,7 @@ Prepare for fair questions and unfair challenges with the hosts you love to hate
 
 The sequel to [Hallowbound Halloween Trivia I](../../2023/10-halloween-trivia).
 
-<hr>
+<hr aria-hidden=true>
 
 *Register Now*
 

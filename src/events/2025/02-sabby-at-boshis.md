@@ -9,7 +9,7 @@ blurb: "NYC, come play games from the Sabby community!"
 
 For the Melbourne event at Sabby, please see [Boshi's At Sabby](../02-boshis-place).
 
-<hr>
+<hr aria-hidden=true>
 
 New York folks, on friday the 21st of February come to [Boshi's Place](https://boshis.place/) for a collaboration event with Sabby Gallery.
 
