@@ -1,5 +1,5 @@
 ---
-title: Game-A-Week Play Party 2026
+title: Game-A-Week Showcase Party 2026
 date: 2026-03-28
 time: 5PM to 10PM
 tags: [game-a-week]
