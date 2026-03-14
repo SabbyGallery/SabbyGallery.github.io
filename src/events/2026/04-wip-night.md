@@ -1,10 +1,9 @@
 ---
 title: WIP Night
-date: 2026-04-25
 time: 7PM to 10PM
 tags: [wip-night]
 blurb: "Work-In-Progress Night!"
-calendarOnly: true
+hidden: true
 ---
 
 *Tentative April date! Full details, tickets and poster coming soon!*
