@@ -14,4 +14,10 @@ Come celebrate the re-opening:
 - Rooftop BBQ
 - More to be announced!
 
+## Games
+- Wizard Punks by Stormcat
+- Bug Brains by Ellie
+- Roshambo by Venusia
+- Doom 141 by Giwake
+
 Poster by [Nolwenn Pe](https://www.artstation.com/nolwenn_pe).
