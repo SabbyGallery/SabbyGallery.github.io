@@ -10,7 +10,7 @@ tickets: https://events.humanitix.com/retro-games-club
 
 *Tentative April date! Full details and poster coming soon!*
 
-The scond Retro Games Club at our new building!
+The second Retro Games Club at our new building!
 
 Come along and check out the weird, interesting and passionate presentations that are mostly... usually about Retro Games.
 
