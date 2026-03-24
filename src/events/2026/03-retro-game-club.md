@@ -14,7 +14,7 @@ Come along and check out the weird, interesting and passionate presentations tha
 
 “Retro” in this case being any game before the Wii-U era.
 
-Tickets and poster coming soon!
+Presentations from Stella and Alex!
 
 Hosted by the gregarious [Stella](https://bsky.app/profile/caterwauling.bsky.social) and [Zach](https://zachariahchandler.itch.io/).
 	
