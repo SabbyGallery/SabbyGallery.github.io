@@ -4,19 +4,15 @@ date: 2026-04-11
 time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from from PS3/360/Wii era & back."
-calendarOnly: true
+poster: "RetroGamesClub-Apr2026.jpg"
 tickets: https://events.humanitix.com/retro-games-club
 ---
-
-*Tentative April date! Full details and poster coming soon!*
 
 The second Retro Games Club at our new building!
 
 Come along and check out the weird, interesting and passionate presentations that are mostly... usually about Retro Games.
 
 “Retro” in this case being any game before the Wii-U era.
-
-Tickets and poster coming soon!
 
 Hosted by the gregarious [Stella](https://bsky.app/profile/caterwauling.bsky.social) and [Zach](https://zachariahchandler.itch.io/).
 	
