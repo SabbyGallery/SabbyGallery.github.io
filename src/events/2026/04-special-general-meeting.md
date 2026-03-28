@@ -4,7 +4,7 @@ date: 2026-04-04
 time: 1PM
 tags: [meeting]
 blurb: "Our first ever Special General Meeting!"
-calendarOnly: true
+poster: "SpecialGeneralMeeting-Apr2026.jpg"
 tickets: https://events.humanitix.com/sabby-sgm
 ---
 
