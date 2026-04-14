@@ -16,3 +16,5 @@ For artists by artists.
 Normally hosted at narrm ngarrgu library (a short walk from Sabby!) for the second Saturday of each month Comics Art Jam ventures to a new location and for April the venue will be Sabby!
 
 For more information please see the [Melbourne Comics Art Jam website](https://reimenayee.com/melbourne-comics-art-jam/).
+
+Poster by [Audrey](https://www.instagram.com/odd_remarks/).
