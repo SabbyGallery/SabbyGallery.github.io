@@ -4,10 +4,9 @@ date: 2026-05-30
 time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from PS3/360/Wii era & back."
-calendarOnly: true
+poster: "RetroGamesClub-May2026.jpg"
+tickets: https://events.humanitix.com/retro-games-club
 ---
-
-*Currently planned May date! Full details, tickets and poster coming soon!*
 
 The third Retro Games Club at our new building!
 
