@@ -4,10 +4,9 @@ date: 2026-05-30
 time: 2PM to 5PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"
-calendarOnly: true
+poster: "ZineClub-May2026.jpg"
+tickets: https://events.humanitix.com/zine-club
 ---
-
-*Currently planned May date! Full details, tickets and poster coming soon!*
 
 Put aside long complicated projects and come make a quick Zine in a few hours while hanging with cool folks! 
 
