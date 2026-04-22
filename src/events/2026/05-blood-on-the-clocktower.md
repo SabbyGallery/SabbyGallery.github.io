@@ -4,7 +4,8 @@ date: 2026-05-24
 time: 2PM till late
 tags: [table-flip]
 blurb: "Your favourite social deduction game"
-calendarOnly: true
+poster: "BloodOnTheClocktower-May2026.jpg"
+tickets: https://events.humanitix.com/sabby-botc
 ---
 
 *Currently planned May date! Full details, tickets and poster coming soon!*
