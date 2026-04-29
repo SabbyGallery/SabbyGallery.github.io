@@ -8,10 +8,6 @@ poster: "BloodOnTheClocktower-May2026.jpg"
 tickets: https://events.humanitix.com/sabby-botc
 ---
 
-*Currently planned May date! Full details, tickets and poster coming soon!*
-
 The game so good we spun it off un-changed! No longer will Blood on the Clocktower dominate our Tableflip nights.
 
 Join us for a full day of lying to your friends in your favourite social deduction game.
-
-Tickets and poster coming soon!

@@ -7,8 +7,6 @@ blurb: "A really nice night of standup comedy"
 poster: "ProudlySabbyShow-May2026.jpg"
 ---
 
-*Currently planned May date! Full details coming soon!*
-
 A really nice night of standup comedy
 & also a kind of interesting raffle at the end
 & also also a collaborative zine from your performers

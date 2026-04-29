@@ -1,7 +1,7 @@
 ---
 title: Sabby Vaccine Drive 2026
 date: 2026-05-11
-time: From 4PM
+time: From 3:30PM
 tags: [community]
 blurb: "Protect yourself and the community!"
 poster: "VaccineDrive-May2026.jpg"
