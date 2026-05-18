@@ -1,13 +1,14 @@
 ---
-title: Retro Games Club
-date: 2026-06-27
+title: Retro Gayms Club
+date: 2026-06-20
 time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from PS3/360/Wii era & back."
 calendarOnly: true
+tickets: https://events.humanitix.com/retro-games-club-june
 ---
 
-*Currently planned June date! Full details, tickets and poster coming soon!*
+*Currently planned June date! Full details and poster coming soon!*
 
 The fourth Retro Games Club at our new building!
 
