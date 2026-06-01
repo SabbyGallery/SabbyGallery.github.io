@@ -5,7 +5,7 @@ time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from PS3/360/Wii era & back."
 poster: RetroGamesClub-Jun2026.jpg
-tickets: https://events.humanitix.com/retro-games-club-june
+tickets: https://events.humanitix.com/retro-games-club
 ---
 
 The fourth Retro Games Club at our new building!
