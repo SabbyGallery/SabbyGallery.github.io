@@ -5,6 +5,7 @@ time: 2PM to 5PM
 tags: [tournament]
 blurb: "Become the Pokémon gym leader of the 60L building!"
 calendarOnly: true
+tickets: https://events.humanitix.com/gym-battle-monotype
 ---
 
 *Currently planned July date! Full details, poster and tickets coming soon!*
