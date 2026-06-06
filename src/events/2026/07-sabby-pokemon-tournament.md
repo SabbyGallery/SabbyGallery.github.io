@@ -4,7 +4,7 @@ date: 2026-07-05
 time: 2PM to 5PM
 tags: [tournament]
 blurb: "Become the Pokémon gym leader of the 60L building!"
-calendarOnly: true
+poster: PokemonTournament-July2026.jpg
 tickets: https://events.humanitix.com/gym-battle-monotype
 ---
 
