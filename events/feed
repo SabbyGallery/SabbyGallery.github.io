@@ -6,6 +6,34 @@
     <atom:link href="https://sabby.gallery/events/feed" rel="self" type="application/rss+xml" />
     <description>Events at Sabby</description>
     <language>en</language><item>
+      <title>Blood on the Clocktower</title>
+      <link>https://sabby.gallery/events/2026/06-blood-on-the-clocktower/</link>
+      <description>&lt;p&gt;The game so good we spun it off un-changed! No longer will Blood on the Clocktower dominate our Tableflip nights.&lt;/p&gt;
+&lt;p&gt;Join us for a full day of lying to your friends in your favourite social deduction game.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sabby.gallery/events/2026/06-blood-on-the-clocktower/</guid>
+    </item><item>
+      <title>WIP Night</title>
+      <link>https://sabby.gallery/events/2026/06-wip-night/</link>
+      <description>&lt;p&gt;Present your work and get feedback by peers in a laid-back, supportive environment.&lt;/p&gt;
+&lt;p&gt;Any creative project, any state of development welcome!&lt;/p&gt;
+&lt;p&gt;Hosted by &lt;a href=&quot;https://bsky.app/profile/brandonhare.com&quot;&gt;Brandon&lt;/a&gt;.&lt;/p&gt;
+&lt;hr aria-hidden=&quot;true&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/2qV4Zu9DrGhRCHy49&quot; class=&quot;button&quot;&gt;Submit your project&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sabby.gallery/events/2026/06-wip-night/</guid>
+    </item><item>
+      <title>Queer Zine Club</title>
+      <link>https://sabby.gallery/events/2026/06-zine-club/</link>
+      <description>&lt;p&gt;Put aside long complicated projects and come make a quick Zine in a few hours while hanging with cool folks!&lt;/p&gt;
+&lt;p&gt;Join Tegan (&lt;a href=&quot;https://teganewebb.neocities.org/&quot;&gt;https://teganewebb.neocities.org/&lt;/a&gt;) for another afternoon of zine-making.&lt;/p&gt;
+&lt;p&gt;Supplies are provided but feel free to BYO if you have extra stuff you want to use (and share!).&lt;/p&gt;
+</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sabby.gallery/events/2026/06-zine-club/</guid>
+    </item><item>
       <title>Legal Name Change Workshop + Screening</title>
       <link>https://sabby.gallery/events/2026/06-legal-name-change-workshop-and-screening/</link>
       <description>&lt;p&gt;Did you know that changing your legal name and gender marker is free in Victoria?&lt;br /&gt;
@@ -73,6 +101,13 @@ Weaving the Web poster by James &amp;amp; Kira&lt;/p&gt;
 </description>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://sabby.gallery/events/2026/06-weaving-the-web-avatar-and-identity/</guid>
+    </item><item>
+      <title>June Open Meeting</title>
+      <link>https://sabby.gallery/events/2026/06-open-meeting/</link>
+      <description>&lt;p&gt;Help discuss upcoming Sabby plans and priorities.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://sabby.gallery/events/2026/06-open-meeting/</guid>
     </item><item>
       <title>Zine Club</title>
       <link>https://sabby.gallery/events/2026/05-zine-club/</link>
