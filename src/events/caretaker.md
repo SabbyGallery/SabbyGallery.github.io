@@ -1,12 +1,11 @@
 ---
-title: Caretaker Thursdays
+title: Caretaker Fridays
 poster: "Caretaker-Callout.jpg"
-blurb: "Currently paused while we settle in to our new building!"
-hidden: true
+blurb: "Returning under a new name soon!"
 ---
 
-Repairs, cleaning, D.I.Y., there are plenty of things to do at Sabby on Thursdays.
+Help Sabby shine, one task at a time. We deep clean, organise, and decorate the space for our community, with our community.
 
 Come by and help out if you want to!
 
-Weekly tasks are posted in the *tasks* channel on our <a href="{{ site.link.discord }}" target="_blank">Discord</a>.
+Weekly plans are posted in the *upkeep* channel in our <a href="{{ site.link.discord }}" target="_blank">Discord</a>.
