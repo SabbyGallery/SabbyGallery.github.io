@@ -5,9 +5,10 @@ time: 5PM to 8PM
 tags: [gunpla]
 blurb: "Bring along a model to build and hang out!"
 calendarOnly: true
+tickets: https://events.humanitix.com/gunpla-workshop
 ---
 
-*Currently planned July date! Full details, poster and tickets coming soon!*
+*Currently planned July date! Full details and poster coming soon!*
 
 We're bringing you another evening of mech making!
 
