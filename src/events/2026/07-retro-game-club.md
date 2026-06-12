@@ -5,9 +5,10 @@ time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from PS3/360/Wii era & back."
 calendarOnly: true
+tickets: https://events.humanitix.com/demo-disc
 ---
 
-*Currently planned July date! Full details, poster and tickets coming soon!*
+*Currently planned July date! Full details and poster coming soon!*
 
 The fifth Retro Games Club at our new building!
 
