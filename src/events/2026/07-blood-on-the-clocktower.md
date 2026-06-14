@@ -5,9 +5,10 @@ time: 2PM till late
 tags: [table-flip]
 blurb: "Your favourite social deduction game"
 calendarOnly: true
+tickets: https://events.humanitix.com/botc-jul-2026
 ---
 
-*Currently planned July date! Full details, poster and tickets coming soon!*
+*Currently planned July date! Full details and poster coming soon!*
 
 The game so good we spun it off un-changed! No longer will Blood on the Clocktower dominate our Tableflip nights.
 
