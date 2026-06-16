@@ -5,9 +5,10 @@ time: 2PM to 5PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"
 calendarOnly: true
+tickets: https://events.humanitix.com/zine-club-jul-2026
 ---
 
-*Currently planned July date! Full details, poster and tickets coming soon!*
+*Currently planned July date! Full details and poster coming soon!*
 
 Put aside long complicated projects and come make a quick Zine in a few hours while hanging with cool folks! 
 
