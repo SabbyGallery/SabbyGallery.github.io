@@ -5,9 +5,10 @@ time: 2:30PM - 4:00PM
 tags: [workshop]
 blurb: "Digital Empowerment Workshops!"
 calendarOnly: true
+tickets: https://events.humanitix.com/weaving-the-web-4-kitchen-sink-computing
 ---
 
-*Currently planned July date! Full details, poster and tickets coming soon!*
+*Currently planned July date! Full details and poster coming soon!*
 
 Come hang out at beginner-friendly workshops for Trans and Gender Diverse Internet users that show how we build the Web together :)
 
