@@ -4,11 +4,9 @@ date: 2026-07-08
 time: 5PM to 8PM
 tags: [gunpla]
 blurb: "Bring along a model to build and hang out!"
-calendarOnly: true
+poster: Gunpla-Jul2026.jpg
 tickets: https://events.humanitix.com/gunpla-workshop
 ---
-
-*Currently planned July date! Full details and poster coming soon!*
 
 We're bringing you another evening of mech making!
 
