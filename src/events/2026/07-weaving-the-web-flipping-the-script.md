@@ -4,11 +4,9 @@ date: 2026-07-26
 time: 2:30PM - 5:00PM
 tags: [workshop]
 blurb: "Digital Empowerment Workshops!"
-calendarOnly: true
+poster: WeavingTheWebFlippingTheScript-Jul2026.jpg
 tickets: https://events.humanitix.com/weaving-the-web-5-flipping-the-script
 ---
-
-*Currently planned July date! Full details and poster coming soon!*
 
 Come hang out at beginner-friendly workshops for Trans and Gender Diverse Internet users that show how we build the Web together :)
 
