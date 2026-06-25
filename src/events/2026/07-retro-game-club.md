@@ -4,11 +4,10 @@ date: 2026-07-11
 time: From 7PM
 tags: [retro-game-club]
 blurb: "Present games from PS3/360/Wii era & back."
-calendarOnly: true
+poster: DemoDisc-Jul2026.jpg
 tickets: https://events.humanitix.com/demo-disc
 ---
 
-*Currently planned July date! Full details and poster coming soon!*
 
 The fifth Retro Games Club at our new building!
 
