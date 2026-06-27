@@ -1,19 +1,16 @@
 ---
-title: Retro Game Club
+title: Demo Disc
 date: 2026-07-11
 time: From 7PM
-tags: [retro-game-club]
+tags: [retro-game-club, demo-disc]
 blurb: "Present games from PS3/360/Wii era & back."
 poster: DemoDisc-Jul2026.jpg
 tickets: https://events.humanitix.com/demo-disc
 ---
 
+Demo Disc is here! Formerly Retro Games Club, we'll be alternating presentation nights as you've known them with demo nights, featuring a curated selection of games usually focusing on a peripheral, genre or series we want to highlight. 
 
-The fifth Retro Games Club at our new building!
-
-Come along and check out the weird, interesting and passionate presentations that are mostly... usually about Retro Games.
-
-“Retro” in this case being any game before the Wii-U era.
+This upcoming Demo Disc will be a demo night featuring light gun games! Expect the hum of multiple CRTs in synchronicity while we have a blast blasting bozos! Including killers like Elemental Gearbolt, Time Crisis 2 and more!
 
 Hosted by the gregarious [Stella](https://bsky.app/profile/caterwauling.bsky.social) and [Zach](https://zachariahchandler.itch.io/).
 	
