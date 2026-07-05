@@ -5,7 +5,7 @@ time: 7PM to 10PM
 tags: [wip-night]
 blurb: "Work-In-Progress Night!"
 poster: WIPNight-Jul2026.jpg
-tickets: https://events.humanitix.com/wip-night-jul-2026
+tickets: https://events.humanitix.com/wip-night
 ---
 
 Present your work and get feedback by peers in a laid-back, supportive environment.
