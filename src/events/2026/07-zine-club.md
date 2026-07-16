@@ -1,12 +1,14 @@
 ---
 title: Zine Club
-date: 2026-07-25
+date: 2026-08-01
 time: 2PM to 5PM
 tags: [zine-club]
-blurb: "Craft zines and share them!"
-poster: ZineClub-Jul2026.jpg
+blurb: "Rescheduled! Craft zines and share them!"
+poster: ZineClub-Jul2026Rescheduled.jpg
 tickets: https://events.humanitix.com/zine-club
 ---
+
+*Rescheduled due to 60L building maintenance.*
 
 Put aside long complicated projects and come make a quick Zine in a few hours while hanging with cool folks! 
 
