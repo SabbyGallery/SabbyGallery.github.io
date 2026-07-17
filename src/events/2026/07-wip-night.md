@@ -1,12 +1,14 @@
 ---
 title: WIP Night
-date: 2026-07-25
+date: 2026-08-01
 time: 7PM to 10PM
 tags: [wip-night]
-blurb: "Work-In-Progress Night!"
-poster: WIPNight-Jul2026.jpg
+blurb: "Rescheduled! Work-In-Progress Night!"
+poster: WIPNight-Jul2026Rescheduled.jpg
 tickets: https://events.humanitix.com/wip-night
 ---
+
+*Rescheduled due to 60L building maintenance.*
 
 Present your work and get feedback by peers in a laid-back, supportive environment.
 
