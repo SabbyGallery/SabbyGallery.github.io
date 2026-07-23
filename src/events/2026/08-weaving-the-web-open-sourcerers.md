@@ -1,10 +1,10 @@
 ---
 title: "Weaving The Web: Open Sourcerers"
 date: 2026-08-02
-time: 2:30PM - 4:00PM
+time: 2:30PM - 5:00PM
 tags: [workshop]
 blurb: "Digital Empowerment Workshops!"
-calendarOnly: true
+poster: WeavingTheWebOpenSourcerers-Aug2026.jpg
 tickets: https://events.humanitix.com/weaving-the-web-6-open-sourcerers
 ---
 
