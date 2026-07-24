@@ -83,7 +83,7 @@ module.exports = function(config) {
 
 	config.addCollection("recurring", (collection) => {
 		return collection.getFilteredByTag('events').filter((item) => {
-			return item.data.date == undefined && item.data.hidden == undefined;
+			return item.data.date == undefined && item.data.hidden == undefined && item.data.upcomingNoDate == undefined;
 		})
 	});
 
