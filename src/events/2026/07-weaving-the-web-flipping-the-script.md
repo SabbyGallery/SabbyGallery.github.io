@@ -1,13 +1,14 @@
 ---
 title: "Weaving The Web: Flipping the Script"
+date: 2026-08-09
+time: 2:30PM - 5PM
 tags: [workshop]
-blurb: "Digital Empowerment Workshops! New Date TBA!"
+blurb: "Rescheduled! Digital Empowerment Workshops!"
 poster: WeavingTheWebFlippingTheScript-Jul2026Rescheduled.jpg
-tickets: https://events.humanitix.com/weaving-the-web-5-flipping-the-script
-upcomingNoDate: true
+tickets: https://events.humanitix.com/rescheduled-weaving-the-web-5-flipping-the-script
 ---
 
-*Rescheduled due to 60L building maintenance. New date To Be Announced!*
+*Rescheduled due to 60L building maintenance!*
 
 Come hang out at beginner-friendly workshops for Trans and Gender Diverse Internet users that show how we build the Web together :)
 
