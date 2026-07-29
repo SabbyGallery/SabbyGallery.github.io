@@ -1,15 +1,21 @@
 ---
-title: Tarot Club
+title: Tarot Social
 date: 2026-08-15
-time: 1PM - 5PM
+time: 2PM - 5PM
 tags: [tarot]
-blurb: "A casual space for people with a shared interest in Tarot!"
-tickets: https://events.humanitix.com/tarotclub
-calendarOnly: true
+blurb: "Meet Tarot Nerds!"
+poster: TarotSocial-Aug2026.jpg
+tickets: https://events.humanitix.com/tarot-social
 ---
 
-In the shadowy depths of The 60L Building is a secret society of esoteric power - ruled by a hooded figure with a glowing yellow face. He will show you the cards.🔮
+Tarot Social is a casual in-person space for tarot nerds to practice, discuss and enhance our understanding of tarot together. Whether tarot is your World or you're the naïve Fool on the first steps of your tarot journey -- Tarot club is for you!
 
-Tarot Club is a casual in-person space for people with a shared interest in Tarot!
+Come discuss tarot, swap readings, show off your fav decks, and make cool tarot-y things. We'll have low-pressure activities to guide the gathering, and if you’re new to tarot we’ll have resources to support you.
+
+✦ Welcoming ✦ Playful ✦ Curious ✦
+- Do keep an open mind
+- Do "yes, and" interpretations
+
+Tarot Social poster by Kira and Dylan
 
 Hosted by Dylan & Kira
