@@ -1,13 +1,17 @@
 ---
 title: Sip And Sketch
 date: 2026-08-14
-time: 1PM to 5PM
+time: 6PM Till Late
 tags: [sip-and-sketch]
 blurb: "An evening of drawings and beverages."
 tickets: https://events.humanitix.com/sip-n-sketch
-calendarOnly: true
+poster: SipAndSketch-Aug2026.jpg
 ---
 
-Sip ‘n’ Sketch Returns! A very low-key afternoon for chilling, drawing and sipping drinks with friends.
+Escape the cold and join us for a cozy evening of sipping and sketching. Follow the drawing prompts to create your masterpiece.
 
-Hosted by the beloved Claudia
+Free non-alchoholic beverages provided.
+
+Hosted By Claudia
+
+Sip 'n' Sketch poster by Claudia & Kira
