@@ -1,15 +1,13 @@
 ---
-title: Release Ur Art Society
-blurb: "Mondays at 5pm starting May 25th!"
-poster: "ReleaseUrArtSociety.jpg"
+title: Finish Stuff Club
+blurb: "Check-ins Mondays at 5:30pm!"
+poster: FinishStuffClub.gif
 ---
 
-Do you struggle to finish your projects? We’re looking for around 8 - 12 participants to join our intensive program. Each week we’ll give each other quick presentations /updates on what we're making, followed by an opportunity for feedback—with an emphasis on actually finishing our projects.
+Do you struggle to finish your projects? ANYONE is welcome at this weekly gathering to show off our in progress projects and maybe even finish them 😅 
 
-Limited Availability. Signup required!
+Each week we’ll give each other quick updates on what we're making and offer kind feedback & encouragement. Finish your stuff for the ultimate reward - A cool sticker!
 
-[Sign Up](https://forms.gle/4EmQP5RCjcnRYpubA)
+Hosted by Kira and Bramble
 
-Hosted by Null.
-
-Release Ur Art Society poster by Dog.
+2026 Finish Stuff Club poster by Kira and Linus
