@@ -106,6 +106,12 @@ module.exports = function(config) {
 		return postsByYear;
 	});
 
+	config.addCollection("board", (collection) => {
+		return collection.getFilteredByTag('people').filter((person) =>{
+			return (person.data.board != null)
+		});
+	});
+
 	// -------------------------------------------------------------------- //
 	// Filters
 
