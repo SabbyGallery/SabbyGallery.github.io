@@ -1,10 +1,11 @@
 ---
-title: Videogame Movie Night
+title: Cursed Videogame Movie Night
 date: 2026-09-18
 time: 6PM
 tags: [movie-night]
 tickets: https://events.humanitix.com/video-game-movie-night
-calendarOnly: true
+poster: MovieNight-Sep2026.jpg
+blurb: "It's a Cursed Cinema Comeback!"
 ---
 
 *Full details coming soon!*
