@@ -4,9 +4,7 @@ date: 2026-09-19
 time: 1:30PM
 tags: [meeting]
 blurb: "Help discuss Sabby plans!"
-calendarOnly: true
+poster: OpenMeeting-Sep2026.jpg
 ---
-
-*Currently planned September date! Full details coming soon!*
 
 Help discuss upcoming Sabby plans and priorities.
