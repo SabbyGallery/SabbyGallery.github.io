@@ -4,10 +4,8 @@ date: 2026-09-22
 time: 12PM
 blurb: "Bring clothes you want to give a second life! Sewing supplies provided!"
 tickets: https://events.humanitix.com/mending-threads
-calendarOnly: true
+poster: MendingThreads-Sep2026.jpg
 ---
-
-*Full event details coming soon*
 
 Mending Threads is a space for anyone to learn how to mend garments, or work on any personal textile projects together!
 
