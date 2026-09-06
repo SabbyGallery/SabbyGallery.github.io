@@ -10,4 +10,6 @@ blurb: "Experimental! Walking! Action!"
 
 A short lecture on [Psychogeography](https://en.wikipedia.org/wiki/Psychogeography) - followed by putting what we learn into practice by going on a photo walk in the city! Bring a camera & some lunch!
 
-Hosted by [DW](https://bsky.app/profile/deathwombat.bsky.social). 
+Learn about Psychogeography and Games by watching the 2018 [Freeplay](https://freeplay.net.au/) panel [Psychogeography, Games, Play](https://www.youtube.com/watch?v=mp71qigjvlU).
+
+Hosted by [DW](https://bsky.app/profile/deathwombat.bsky.social).
