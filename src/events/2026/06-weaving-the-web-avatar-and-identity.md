@@ -17,7 +17,7 @@ It's about your right to choose what you share, with whom, and when. What's the 
 Free snacks provided :)
 And yes you can bring an emotional support ally.
 
-Hosted By James Bot
+Hosted By [James Bot](https://www.instagram.com/bonk.jamesbonk)
 Weaving the Web poster by James & Kira
 
 ## About James
