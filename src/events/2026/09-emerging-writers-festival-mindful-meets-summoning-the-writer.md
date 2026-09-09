@@ -16,4 +16,6 @@ This is a phone-free space, so you can fully switch off and be present. Open to 
 
 Hosted by [Ashley Misso](https://emergingwritersfestival.org.au/writer/ashley-misso/) and [Emerging Writers' Festival](https://emergingwritersfestival.org.au/).
 
+Poster by Ki.
+
 [Emerging Writers' Festival Page](https://emergingwritersfestival.org.au/event/mindful-meets-summoning-the-writer/){.button}
