@@ -18,4 +18,4 @@ Allie is a trained speech pathologist (or a professional yapper as she calls it!
 
 Hosted by Allie
 
-Gender Affirming Voice Training poster by Wizz
+Gender Affirming Voice Training poster by [Wizz](https://www.instagram.com/james58kb).
