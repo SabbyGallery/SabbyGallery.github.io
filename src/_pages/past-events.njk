@@ -21,6 +21,7 @@ permalink: /past-events/
 
 	{% for year in collections.pastByYear %}
 	<h2>{{year[0]}}</h2>
+	<p>{{year[1].length}} events.</p>
 	<ul class="event-list">
 	{%- for event in year[1] -%}
 		<li> <a href="{{event.url}}">
