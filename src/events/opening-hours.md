@@ -12,4 +12,4 @@ Hosted by our rotating roster of co-working facilitators.
 
 You can help us operate on weekdays by joining our roster - join the [Sabby discord]({{ site.link.discord }}) to get involved.
 
-2026 Opening Hours poster by Nolwenn!
+2026 Opening Hours poster by [Nolwenn Pe](https://www.artstation.com/nolwenn_pe)!
