@@ -6,7 +6,7 @@ poster: "CyberMania-May2024.jpg"
 blurb: "“It's dinner and a show!”"
 ---
 
-Come down to Sabby for a screening of the totally bonkers Cybermania 94: Ultimate Gamer Awards. 
+Come down to Sabby for a screening of the totally bonkers [Cybermania 94: Ultimate Gamer Awards](https://en.wikipedia.org/wiki/Cybermania_%2794). 
 
 And what kind of award show would it be without FULL GLAM? That's right, it's a black tie event. 
 
