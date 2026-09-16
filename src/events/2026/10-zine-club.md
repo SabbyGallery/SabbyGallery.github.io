@@ -4,7 +4,6 @@ date: 2026-10-03
 time: 2PM to 5PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"
-calendarOnly: true
 tickets: https://events.humanitix.com/zine-club
 ---
 
