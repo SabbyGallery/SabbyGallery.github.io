@@ -5,7 +5,6 @@ time: 2PM till late
 tags: [table-flip]
 blurb: "Your favourite social deduction game"
 tickets: https://events.humanitix.com/sabby-botc
-calendarOnly: true
 ---
 
 *Full details and poster coming soon*
