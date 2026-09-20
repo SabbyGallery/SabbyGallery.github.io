@@ -12,7 +12,7 @@ Present your work and get feedback by peers in a laid-back, supportive environme
 
 Any creative project, any state of development welcome!
 
-Hosted by [Brandon](https://bsky.app/profile/brandonhare.com).
+Hosted by [Jaxson](https://bsky.app/profile/jaxsongould.zone).
 
 <hr aria-hidden=true>
 
