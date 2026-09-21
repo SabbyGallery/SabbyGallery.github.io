@@ -12,4 +12,6 @@ Hosted by our rotating roster of co-working facilitators.
 
 You can help us operate on weekdays by joining our roster - join the [Sabby discord]({{ site.link.discord }}) to get involved.
 
+Co-working at Sabby during Opening Hours is free, although [donations](/donate/) are greatly appreciated.
+
 2026 Opening Hours poster by [Nolwenn Pe](https://www.artstation.com/nolwenn_pe)!
