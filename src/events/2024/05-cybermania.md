@@ -16,4 +16,4 @@ RSVP Here: https://forms.gle/RjQEGN1NgCy5ih4P8
 
 Event starts at 7 p.m.
 
-Hosted by Duncan and Erica.
+Hosted by [Duncan](https://duncan74.itch.io/) and Erica.
