@@ -2,6 +2,7 @@
 title: Cursed Videogame Movie Night
 date: 2025-05-09
 time: 7PM to Late
+tags: [movie-night]
 poster: "MovieNight-May2025.jpg"
 blurb: "It's a Cursed Cinema Comeback!"
 ---
