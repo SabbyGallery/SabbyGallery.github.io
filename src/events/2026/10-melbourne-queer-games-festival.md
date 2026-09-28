@@ -5,9 +5,10 @@ time: 6PM to 9PM
 tags: [queer,games,showcase]
 tickets: https://events.humanitix.com/the-melbourne-queer-games-festival
 blurb: "Play the 2026 Queer Games showcase!"
+poster: QueerGamesFestival-Oct2026.jpg
 ---
 
-*Full details and poster coming soon*
+*Full details and proper poster coming soon!*
 
 The [Melbourne Queer Games Festival](https://mqgf.com.au/) has been running since 2018.
 
