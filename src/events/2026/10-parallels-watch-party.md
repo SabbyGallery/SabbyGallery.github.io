@@ -4,9 +4,9 @@ date: 2026-10-08
 time: 7:30PM to 11PM
 tags: [watch-party]
 blurb: "Watch the livestream at Sabby!"
+poster: ParallelsWatchParty-Oct2026.jpg
+tickets: https://events.humanitix.com/paralells-watch-party
 ---
-
-*Full details, poster and free tickets coming soon*
 
 [Freeplay's](https://www.freeplay.net.au/) [Parallels](https://events.humanitix.com/parallels-2026) Showcase is going to be streamed online in 2026!
 
@@ -19,3 +19,5 @@ If (like many of us!) you missed out on a ticket join us at Sabby for a watch pa
 9:10PM - Intermission
 9:30PM - Games 5 - 8
 10:30PM - Parallels Ends. Further socialising until close!
+
+Poster by Wizz!
