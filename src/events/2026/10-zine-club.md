@@ -1,6 +1,6 @@
 ---
 title: Zine Club
-date: 2026-10-03
+date: 2026-10-03T14:00:00+10:00
 time: 2PM to 5PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"

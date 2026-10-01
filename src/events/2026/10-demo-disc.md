@@ -1,6 +1,6 @@
 ---
 title: "Demo Disc Excursion: Munchies Pizzeria + Pinball"
-date: 2026-10-03
+date: 2026-10-03T18:00:00+10:00
 time: From 6PM
 tags: [retro-game-club, demo-disc]	
 blurb: "Retro Games Club goes on tour!"
