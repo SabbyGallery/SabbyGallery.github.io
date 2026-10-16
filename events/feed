@@ -6,12 +6,21 @@
     <atom:link href="https://sabby.gallery/events/feed" rel="self" type="application/rss+xml" />
     <description>Events at Sabby</description>
     <language>en</language><item>
+      <title>Operations Meeting</title>
+      <link>https://sabby.gallery/events/2026/10-open-meeting/</link>
+      <description>&lt;p&gt;Join us to discuss upcoming Sabby operations, priorities and future plans.&lt;/p&gt;
+&lt;p&gt;Anyone is welcome, whether just to listen or if there&#39;s anything you&#39;d like to bring up. If you have feedback or a suggestion, we’ll point you towards the folks that can make it happen.&lt;/p&gt;
+&lt;p&gt;Poster by Dog!&lt;/p&gt;
+</description>
+      <pubDate>Sat, 17 Oct 2026 02:30:00 +0000</pubDate>
+      <guid>https://sabby.gallery/events/2026/10-open-meeting/</guid>
+    </item><item>
       <title>Tool Time Workshop</title>
       <link>https://sabby.gallery/events/2026/10-tool-time-workshop/</link>
       <description>&lt;p&gt;&lt;em&gt;Full details coming soon&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Hosted By Claudia!&lt;/p&gt;
 </description>
-      <pubDate>Fri, 16 Oct 2026 03:26:48 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 10:47:49 +0000</pubDate>
       <guid>https://sabby.gallery/events/2026/10-tool-time-workshop/</guid>
     </item><item>
       <title>Blood on the Clocktower</title>
