@@ -5,7 +5,6 @@ time: 2PM to 5PM
 tags: [zine-club]
 blurb: "Craft zines and share them!"
 tickets: https://events.humanitix.com/zine-club
-calendarOnly: true
 ---
 
 A meetup for making, sharing and discussing zines!
