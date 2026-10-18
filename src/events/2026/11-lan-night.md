@@ -1,9 +1,8 @@
 ---
-title: Lan Night
+title: Lan Party
 date: 2026-11-14T18:00:00+11:00
-time: 6PM to 5PM
+time: 6PM till late
 tags: [lan-night]
-calendarOnly: true
 blurb: "Play videogames together at Sabby!"
 ---
 
