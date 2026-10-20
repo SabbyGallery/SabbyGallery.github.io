@@ -4,7 +4,6 @@ date: 2026-11-21T13:30:00+11:00
 time: 1:30PM
 tags: [meeting]
 blurb: "Help discuss Sabby operations & plan for the future!"
-calendarOnly: true
 ---
 
 *Full details coming soon*
