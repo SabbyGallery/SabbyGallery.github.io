@@ -24,7 +24,7 @@
     <language>{{ metadata.language }}</language>
     {%- for event in collections.events | reverse %}
     {%- set absoluteEventUrl = event.url | absoluteUrl(metadata.url) %}
-    {%- if event.date != null and event.data.calendarOnly == null -%}
+    {%- if event.data.date != null and event.data.hidden == null and event.data.calendarOnly == null -%}
     <item>
       <title>{{ event.data.title }}</title>
       <link>{{ absoluteEventUrl }}</link>
