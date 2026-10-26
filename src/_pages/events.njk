@@ -13,13 +13,13 @@ eleventyImport:
 <section id=upcoming>
 	<h2>Upcoming Events</h2>
 
-	<p>These are the announced events happening soon! You can also check out the <a href="/calendar/">calendar view</a>.</p>
+	<p>These are the announced events happening soon! You can also check out the <a href="/calendar/">calendar view</a> for a longer term view.</p>
 
 	<ul class=event-list>
 	{% for event in collections.upcoming %}
 		<li>
 			<a href="{{event.url}}">
-				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEvent.jpg" }}" alt=""></span>
+				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEventTall.jpg" }}" alt=""></span>
 				<span class=event-title>{{ event.data.title }}</span>
 			</a>
 			<p>{{ event.data.blurb }}</p>
