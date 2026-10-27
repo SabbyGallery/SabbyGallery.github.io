@@ -4,10 +4,9 @@ date: 2026-11-07T19:00:00+11:00
 time: From 7PM
 tags: [retro-game-club, demo-disc]
 blurb: "Present games from PS3/360/Wii era & back."
+poster: DemoDisc-Nov2026.jpg
 tickets: https://events.humanitix.com/demo-disc
 ---
-
-*Full details and poster coming soon*
 
 Demo Disc is here! Formerly Retro Games Club, we'll be alternating presentation nights as you've known them with demo nights:
 
