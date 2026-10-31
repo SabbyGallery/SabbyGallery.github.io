@@ -1,7 +1,7 @@
 ---
 title: RMIT Student Game-A-Week Showcase 2026
 date: 2026-11-15T18:00:00+11:00
-time: 6PM to 9PM
+time: 6PM to 10PM
 tags: [game-a-week]
 poster: GAW-Student-Nov2026.jpg
 tickets: https://events.humanitix.com/rmit-gaw-showcase
