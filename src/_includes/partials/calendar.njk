@@ -29,11 +29,14 @@
 							{%- for event in collections.thisMonth -%}
 								{%- if getMonth(event.data.date) == currMonth -%}
 									{%- if getDate(event.data.date) == day -%}
+										<div class="calendar-link">
+											<span>{{ event.data.date | readableTime }} &nbsp;</span>
 										{%- if event.data.link == null -%}
-											<a class="calendar-link" href="{{ event.url }}">{{event.data.title}}</a>
+											<a href="{{ event.url }}">{{event.data.title}}</a>
 										{%- else  -%}
-											<a class="calendar-link" href="{{ event.data.link }}">{{event.data.title}}</a>
+											<a href="{{ event.data.link }}">{{event.data.title}}</a>
 										{%- endif -%}
+										</div>
 									{%- endif -%}
 								{%- endif -%}
 							{%- endfor -%}
@@ -83,11 +86,14 @@
 							{%- for event in collections.nextMonth -%}
 								{%- if getMonth(event.data.date) == nextMonth -%}
 									{%- if getDate(event.data.date) == day -%}
+										<div class="calendar-link">
+											<span>{{ event.data.date | readableTime }} &nbsp;</span>
 										{%- if event.data.link == null -%}
-											<a class="calendar-link" href="{{ event.url }}">{{event.data.title}}</a>
+											<a href="{{ event.url }}">{{event.data.title}}</a>
 										{%- else  -%}
-											<a class="calendar-link" href="{{ event.data.link }}">{{event.data.title}}</a>
+											<a href="{{ event.data.link }}">{{event.data.title}}</a>
 										{%- endif -%}
+										</div>
 									{%- endif -%}
 								{%- endif -%}
 							{%- endfor -%}

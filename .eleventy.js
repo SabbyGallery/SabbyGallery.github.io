@@ -120,6 +120,13 @@ module.exports = function(config) {
 		return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
 	});
 
+	config.addFilter('readableTime', (dateObj) => {
+		if(dateObj.getMinutes() === 0)
+			return DateTime.fromJSDate(dateObj).toFormat("ha");
+		else
+			return DateTime.fromJSDate(dateObj).toFormat("h:mma");
+	});
+
 	config.addFilter('shortDate', (dateObj) => {
 		return DateTime.fromJSDate(dateObj).toFormat("dd LLL");
 	});
