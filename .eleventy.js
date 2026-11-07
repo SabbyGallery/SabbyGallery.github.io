@@ -13,6 +13,8 @@ const markdownItFigures = require('markdown-it-image-figures');
 const { DateTime } = require("luxon");
 const pluginToc = require("eleventy-plugin-toc");
 
+const sabbyTimezone = "Australia/Melbourne";
+
 module.exports = function(config) {
 
 	// -------------------------------------------------------------------- //
@@ -120,11 +122,22 @@ module.exports = function(config) {
 		return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
 	});
 
-	config.addFilter('readableTime', (dateObj) => {
+	config.addFilter('readableTime', (dateObj, timeZone = sabbyTimezone) => {
+		const formatter = Intl.DateTimeFormat('en-US', {
+			timeZone: timeZone,
+			hour: 'numeric',
+			minute: 'numeric',
+			hour12: true
+		});
+		
+		// Extract parts to construct to format date manually so we don't have a space between the time and am/pm
+		const parts = formatter.formatToParts(dateObj);
+		const p = Object.fromEntries(parts.map(part => [part.type, part.value]));
+
 		if(dateObj.getMinutes() === 0)
-			return DateTime.fromJSDate(dateObj).toFormat("ha");
+			return `${p.hour}${p.dayPeriod}`;
 		else
-			return DateTime.fromJSDate(dateObj).toFormat("h:mma");
+			return `${p.hour}:${p.minute}${p.dayPeriod}`;
 	});
 
 	config.addFilter('shortDate', (dateObj) => {
