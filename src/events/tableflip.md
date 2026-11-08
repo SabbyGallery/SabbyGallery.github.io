@@ -3,6 +3,8 @@ title: Table Flip! Boardgame Night
 poster: "Tableflip.jpg"
 blurb: "Every Thursday from 6pm!"
 tickets: https://events.humanitix.com/table-flip
+recurring: true
+order: 2
 ---
 
 *After Sabby re-opens we'll be running Table Flip every Thursday night.*

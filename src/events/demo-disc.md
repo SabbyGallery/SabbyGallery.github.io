@@ -3,6 +3,8 @@ title: Demo Disc
 blurb: "Give a presentation about a game you're obsessed with!"
 poster: "DemoDisc.jpg"
 tickets: https://events.humanitix.com/demo-disc
+recurring: true
+order: 3
 ---
 
 Visit us and explain your passions (for a game that's either old, obscure or got you obsessed with it).

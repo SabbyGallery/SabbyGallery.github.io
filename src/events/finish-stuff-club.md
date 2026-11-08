@@ -2,6 +2,8 @@
 title: Finish Stuff Club
 blurb: "Check-ins Mondays at 5:30pm!"
 poster: FinishStuffClub.gif
+hidden: true
+permalink: false
 ---
 
 Do you struggle to finish your projects? ANYONE is welcome at this weekly gathering to show off our in progress projects and maybe even finish them 😅 

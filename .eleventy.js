@@ -84,8 +84,17 @@ module.exports = function(config) {
 	});
 
 	config.addCollection("recurring", (collection) => {
+		var recurringEvents = collection.getFilteredByTag('events').filter((item) => {
+			return item.data.date == undefined && item.data.hidden == undefined && item.data.upcomingNoDate == undefined && item.data.recurring == true;
+		});
+		return recurringEvents.sort((a, b) => {
+			return (a.data.order || 0) - (b.data.order || 0);
+		  });
+	});
+
+	config.addCollection("expressionsOfInterest", (collection) => {
 		return collection.getFilteredByTag('events').filter((item) => {
-			return item.data.date == undefined && item.data.hidden == undefined && item.data.upcomingNoDate == undefined;
+			return item.data.date == undefined && item.data.hidden == undefined && item.data.upcomingNoDate == undefined && item.data.recurring == undefined;
 		})
 	});
 

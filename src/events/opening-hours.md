@@ -2,6 +2,8 @@
 title: Opening Hours
 blurb: "Monday to Thursday from 12 pm to 5 pm"
 poster: "OpeningHours.jpg"
+recurring: true
+order: 1
 ---
 
 Co-working, crafts, games, movies and chill hangs!

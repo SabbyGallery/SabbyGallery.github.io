@@ -8,9 +8,8 @@ eleventyImport:
 
 <style>.frame { --frameBg: var(--grey) }</style>
 
-<h1>Events</h1>
-
 <section id=upcoming>
+	<h1>Events</h1>
 	<h2>Upcoming Events</h2>
 
 	<p>These are the announced events happening soon! You can also check out the <a href="/calendar/">calendar view</a> for a longer term view.</p>
@@ -37,12 +36,28 @@ eleventyImport:
 <hr aria-hidden=true>
 
 <section id=recurring>
-	<h2>Recurring Events and Expressions of Interest</h2>
+	<h2>Recurring Events</h2>
 
-	<p>These are our recurring events, call-outs and current Expressions of Interest.</p>
+	<p>These are our recurring events. They range from several times a week for opening hours to weekly for our board game night to monthly for our other regular events.</p>
 
 	<ul class=event-list>
 	{% for event in collections.recurring %}
+		<li>
+			<a href="{{ event.data.link or event.url }}">
+				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEvent.jpg" }}" alt=""></span>
+				<span class=event-title>{{ event.data.title }}</span>
+			</a>
+			<p>{{ event.data.blurb }}</p>
+		</li>
+	{% endfor %}
+	</ul>
+
+	<h2>Expressions of Interest</h2>
+
+	<p>These are our call-outs and current Expressions of Interest.</p>
+
+	<ul class=event-list>
+	{% for event in collections.expressionsOfInterest %}
 		<li>
 			<a href="{{ event.data.link or event.url }}">
 				<span class=poster-wrapper><img class=poster-thumb src="/img/posters/{{ event.data.poster or "MysteryEvent.jpg" }}" alt=""></span>

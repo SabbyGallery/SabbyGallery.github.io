@@ -2,6 +2,8 @@
 title: Operations Meetings
 blurb: "Help discuss Sabby operations & future plans!"
 poster: OperationsMeeting.jpg
+recurring: true
+order: 4
 ---
 
 Once a month we get together to discuss Sabby operations and future plans!
