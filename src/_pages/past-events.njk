@@ -19,8 +19,15 @@ permalink: /past-events/
 
 	<p>These are all the events that ran at Sabby... so far!</p>
 
+	<h2>Year Index</h2>
+	<ul>
+	{%- for year in collections.pastByYear -%}
+		<li><a href="#{{year[0]}}">{{year[0]}}</a></li>
+	{%- endfor -%}
+	</ul>
+
 	{% for year in collections.pastByYear %}
-	<h2>{{year[0]}}</h2>
+	<h2 id="{{year[0]}}">{{year[0]}}</h2>
 	<p>{{year[1].length}} events.</p>
 	<ul class="event-list">
 	{%- for event in year[1] -%}
