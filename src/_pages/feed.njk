@@ -6,7 +6,7 @@
     "title": "Sabby Events Feed",
     "subtitle": "Events at Sabby",
     "language": "en",
-    "url": "https://sabby.gallery",
+    "url": "https://sabby.org.au",
     "author": {
       "name": "Sabby Coop",
       "email": "contact.sabby.gallery@gmail.com"
@@ -29,7 +29,7 @@
       <title>{{ event.data.title }}</title>
       <link>{{ absoluteEventUrl }}</link>
       <description>{{ event.templateContent | htmlToAbsoluteUrls(absoluteEventUrl) }}</description>
-      <pubDate>{{ event.date | dateToRfc822 }}</pubDate>
+      <pubDate>{{ event.data.date | dateToRfc822WithTimezone }}</pubDate>
       <guid>{{ absoluteEventUrl }}</guid>
     </item>
     {%- endif -%}

@@ -153,6 +153,40 @@ module.exports = function(config) {
 		return DateTime.fromJSDate(dateObj).toFormat("dd LLL");
 	});
 
+	config.addFilter('dateToRfc822WithTimezone', function(dateObj, timeZone = sabbyTimezone) {
+		// Format the base date according to RFC 822 requirements
+		const formatter = new Intl.DateTimeFormat('en-US', {
+			timeZone: timeZone,
+			weekday: 'short',
+			day: '2-digit',
+			month: 'short',
+			year: 'numeric',
+			hour: '2-digit',
+			minute: '2-digit',
+			second: '2-digit',
+			hour12: false
+		});
+
+		// Extract the parts to construct the canonical structure manually 
+		const parts = formatter.formatToParts(dateObj);
+		const p = Object.fromEntries(parts.map(part => [part.type, part.value]));
+	  
+		// Calculate the numeric timezone offset for the chosen target timezone
+		const tzFormatter = new Intl.DateTimeFormat('en-US', {
+		  timeZone: timeZone,
+		  timeZoneName: 'longOffset'
+		});
+		const tzParts = tzFormatter.formatToParts(dateObj);
+		const gmtOffset = tzParts.find(part => part.type === 'timeZoneName').value; // e.g., "GMT+05:30" or "GMT-08:00"
+		
+		// Convert "GMT+05:30" to "+0530" for RFC 822 compliance
+		let offsetStr = '+0000';
+		if (gmtOffset !== 'GMT') {
+		  offsetStr = gmtOffset.replace('GMT', '').replace(':', '');
+		}
+		return `${p.weekday}, ${p.day} ${p.month} ${p.year} ${p.hour}:${p.minute}:${p.second} ${offsetStr}`;
+	});
+
 	// Filter: Markdown
 	config.addFilter('md', (content) => md.render(content));
 
