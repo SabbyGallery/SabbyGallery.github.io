@@ -52,7 +52,7 @@ module.exports = function(config) {
 
 	config.addCollection('thisMonth', (collection) => {
 		const currentMonth = current.getMonth();
-		return collection.getFilteredByTag('events').filter((item) => {
+		var eventList = collection.getFilteredByTag('events').filter((item) => {
 			if (!item.data.date) return false;
 
 			const itemMonth = item.data.date.getMonth();
@@ -61,11 +61,53 @@ module.exports = function(config) {
 
 			return item.data.date > dateThisMonth && item.data.date < dateNextMonth;
 		});
+
+		var currentMonthObject = collection.getFilteredByTag('months').filter((monthItem) => parseInt(monthItem.fileSlug,10) === (currentMonth+1));
+		for(var i = 0; i < currentMonthObject[0].data.openingHours.length; i++)
+		{
+			var openingHours = {};
+			openingHours.data = {};
+			openingHours.data.title = "Opening Hours";
+			openingHours.data.link = "/events/opening-hours/";
+
+			var openingHoursDate = new Date();
+			openingHoursDate.setYear(2026);
+			openingHoursDate.setMonth(currentMonth);
+			openingHoursDate.setDate(currentMonthObject[0].data.openingHours[i]);
+			openingHoursDate.setHours(12);
+			openingHoursDate.setMinutes(0);
+			openingHoursDate.setSeconds(0);
+			openingHoursDate.setMilliseconds(0);
+
+			openingHours.data.date = openingHoursDate;
+			eventList.push(openingHours);
+		}
+
+		for(var i = 0; i < currentMonthObject[0].data.tableFlip.length; i++)
+		{
+			var tableFlip = {};
+			tableFlip.data = {};
+			tableFlip.data.title = "Table Flip";
+			tableFlip.data.link = "/events/tableflip/";
+
+			var tableFlipDate = new Date();
+			tableFlipDate.setYear(2026);
+			tableFlipDate.setMonth(currentMonth);
+			tableFlipDate.setDate(currentMonthObject[0].data.tableFlip[i]);
+			tableFlipDate.setHours(18);
+			tableFlipDate.setMinutes(0);
+			tableFlipDate.setSeconds(0);
+			tableFlipDate.setMilliseconds(0);
+
+			tableFlip.data.date = tableFlipDate;
+			eventList.push(tableFlip);
+		}
+		return eventList;
 	});
 
 	config.addCollection('nextMonth', (collection) => {
 		const nextMonth = dateNextMonth.getMonth();
-		return collection.getFilteredByTag('events').filter((item) => {
+		var eventList = collection.getFilteredByTag('events').filter((item) => {
 			if (!item.data.date) return false;
 
 			const itemMonth = item.data.date.getMonth();
@@ -74,6 +116,48 @@ module.exports = function(config) {
 
 			return item.data.date > dateNextMonth;
 		});
+
+		var nextMonthObject = collection.getFilteredByTag('months').filter((monthItem) => parseInt(monthItem.fileSlug,10) === (nextMonth+1));
+		for(var i = 0; i < nextMonthObject[0].data.openingHours.length; i++)
+		{
+			var openingHours = {};
+			openingHours.data = {};
+			openingHours.data.title = "Opening Hours";
+			openingHours.data.link = "/events/opening-hours/";
+
+			var openingHoursDate = new Date();
+			openingHoursDate.setYear(2026);
+			openingHoursDate.setMonth(nextMonth);
+			openingHoursDate.setDate(nextMonthObject[0].data.openingHours[i]);
+			openingHoursDate.setHours(12);
+			openingHoursDate.setMinutes(0);
+			openingHoursDate.setSeconds(0);
+			openingHoursDate.setMilliseconds(0);
+
+			openingHours.data.date = openingHoursDate;
+			eventList.push(openingHours);
+		}
+
+		for(var i = 0; i < nextMonthObject[0].data.tableFlip.length; i++)
+		{
+			var tableFlip = {};
+			tableFlip.data = {};
+			tableFlip.data.title = "Table Flip";
+			tableFlip.data.link = "/events/tableflip/";
+
+			var tableFlipDate = new Date();
+			tableFlipDate.setYear(2026);
+			tableFlipDate.setMonth(nextMonth);
+			tableFlipDate.setDate(nextMonthObject[0].data.tableFlip[i]);
+			tableFlipDate.setHours(18);
+			tableFlipDate.setMinutes(0);
+			tableFlipDate.setSeconds(0);
+			tableFlipDate.setMilliseconds(0);
+
+			tableFlip.data.date = tableFlipDate;
+			eventList.push(tableFlip);
+		}
+		return eventList;
 	});
 
 
