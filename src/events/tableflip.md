@@ -7,8 +7,6 @@ recurring: true
 order: 2
 ---
 
-*After Sabby re-opens we'll be running Table Flip every Thursday night.*
-
 Table Flip! Board games! Card games (as a treat?)! "Anything but video" games!
 
 Hang out after co-working ends every Thursday and play some board games or card games. Games and cards provided but feel free to BYO any games of your choosing.
