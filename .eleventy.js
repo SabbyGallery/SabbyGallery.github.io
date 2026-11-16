@@ -69,17 +69,7 @@ module.exports = function(config) {
 			openingHours.data = {};
 			openingHours.data.title = "Opening Hours";
 			openingHours.data.link = "/events/opening-hours/";
-
-			var openingHoursDate = new Date();
-			openingHoursDate.setYear(2026);
-			openingHoursDate.setMonth(currentMonth);
-			openingHoursDate.setDate(currentMonthObject[0].data.openingHours[i]);
-			openingHoursDate.setHours(12);
-			openingHoursDate.setMinutes(0);
-			openingHoursDate.setSeconds(0);
-			openingHoursDate.setMilliseconds(0);
-
-			openingHours.data.date = openingHoursDate;
+			openingHours.data.date = new Date(`2026-${currentMonth+1}-${String(currentMonthObject[0].data.openingHours[i]).padStart(2,'0')}T12:00:00+11:00`);
 			eventList.push(openingHours);
 		}
 
@@ -89,17 +79,7 @@ module.exports = function(config) {
 			tableFlip.data = {};
 			tableFlip.data.title = "Table Flip";
 			tableFlip.data.link = "/events/tableflip/";
-
-			var tableFlipDate = new Date();
-			tableFlipDate.setYear(2026);
-			tableFlipDate.setMonth(currentMonth);
-			tableFlipDate.setDate(currentMonthObject[0].data.tableFlip[i]);
-			tableFlipDate.setHours(18);
-			tableFlipDate.setMinutes(0);
-			tableFlipDate.setSeconds(0);
-			tableFlipDate.setMilliseconds(0);
-
-			tableFlip.data.date = tableFlipDate;
+			tableFlip.data.date = new Date(`2026-${currentMonth+1}-${String(currentMonthObject[0].data.tableFlip[i]).padStart(2,'0')}T18:00:00+11:00`);
 			eventList.push(tableFlip);
 		}
 		return eventList;
@@ -124,17 +104,7 @@ module.exports = function(config) {
 			openingHours.data = {};
 			openingHours.data.title = "Opening Hours";
 			openingHours.data.link = "/events/opening-hours/";
-
-			var openingHoursDate = new Date();
-			openingHoursDate.setYear(2026);
-			openingHoursDate.setMonth(nextMonth);
-			openingHoursDate.setDate(nextMonthObject[0].data.openingHours[i]);
-			openingHoursDate.setHours(12);
-			openingHoursDate.setMinutes(0);
-			openingHoursDate.setSeconds(0);
-			openingHoursDate.setMilliseconds(0);
-
-			openingHours.data.date = openingHoursDate;
+			openingHours.data.date = new Date(`2026-${nextMonth+1}-${String(nextMonthObject[0].data.openingHours[i]).padStart(2,'0')}T12:00:00+11:00`);
 			eventList.push(openingHours);
 		}
 
@@ -144,17 +114,7 @@ module.exports = function(config) {
 			tableFlip.data = {};
 			tableFlip.data.title = "Table Flip";
 			tableFlip.data.link = "/events/tableflip/";
-
-			var tableFlipDate = new Date();
-			tableFlipDate.setYear(2026);
-			tableFlipDate.setMonth(nextMonth);
-			tableFlipDate.setDate(nextMonthObject[0].data.tableFlip[i]);
-			tableFlipDate.setHours(18);
-			tableFlipDate.setMinutes(0);
-			tableFlipDate.setSeconds(0);
-			tableFlipDate.setMilliseconds(0);
-
-			tableFlip.data.date = tableFlipDate;
+			tableFlip.data.date = new Date(`2026-${nextMonth+1}-${String(nextMonthObject[0].data.tableFlip[i]).padStart(2,'0')}T18:00:00+11:00`);
 			eventList.push(tableFlip);
 		}
 		return eventList;
