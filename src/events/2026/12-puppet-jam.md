@@ -2,17 +2,15 @@
 title: Puppet Jam
 date: 2026-12-06T14:00:00+11:00
 time: 2PM till late
-blurb: "Come make a puppet!"
+blurb: "Come together and try and make a puppet in a day!"
 poster: PuppetJam-Dec2026.jpg
+tickets: https://events.humanitix.com/sabby-puppet-jam
 ---
 
-*Tickets and further details coming soon*
+There will be some puppet bases available but it will be first in best dressed, there will be some fabric and material available too but bring in anything you might need if you have any specific ideas! Anyone can do crafts and any skill level should come in and experiment with what you can do :) 
 
-Come make a puppet!
-
-Participate in the Sabby puppet episode??
-
-Make your own sock puppet in Sabby's first puppet jam!
+## Participate in the Sabby puppet episode??
+At the end of the day we’ll try and film some skits with the puppets to give us all a chance to see what we can do :3
 
 Poster by Nicole and Dog
 
