@@ -4,7 +4,6 @@
 	"description": "Gallery ✧ Events ✧ Coworking ✧ Rentals",
 	"url": "https://sabbygallery.github.io",
 	"email": "contact.sabby.gallery@gmail.com",
-	"membershipEmail": "membership@sabby.org.au",
 	"address": "60 Leicester St, Carlton",
 	"people": [
 		{
@@ -44,6 +43,7 @@
 		"youtube": "https://www.youtube.com/@SabbyGallery",
 		"humanitix": "https://events.humanitix.com/host/sabby",
 		"bookings": "https://forms.gle/2ocgRfQ2jcvKTtFo7",
-		"email": "mailto:contact.sabby.gallery@gmail.com"
+		"email": "mailto:contact.sabby.gallery@gmail.com",
+		"membershipPortal": "https://billing.stripe.com/p/login/6oUaEZdwk67Tcqo3GCaZi00"
 	}
 }
